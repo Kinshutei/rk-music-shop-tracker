@@ -21,7 +21,7 @@ def fetch_all_products():
     page = 1
     while True:
         url = f"{BASE_URL}/collections/{COLLECTION}/products.json?limit=250&page={page}"
-        resp = requests.get(url, headers={"User-Agent": "rk-music-shop-tracker/1.0 (personal fan tool)"}, timeout=30)
+        resp = requests.get(url, headers={"User-Agent": "rk-music-shop-tracker/1.0 (personal fan tool; https://github.com/Kinshutei/rk-music-shop-tracker)"}, timeout=30)
         resp.raise_for_status()
         batch = resp.json().get("products", [])
         if not batch:
