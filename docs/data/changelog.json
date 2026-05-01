@@ -1,5 +1,487 @@
 [
   {
+    "date": "2026-05-01T13:52:59.219235+09:00",
+    "new_products": [],
+    "removed_products": [],
+    "availability_changes": [
+      {
+        "product_title": "VESPERBELLミニぬいシリーズ",
+        "singers": [
+          "VESPERBELL",
+          "カスカ",
+          "ヨミ"
+        ],
+        "variant": "ミニぬい　＜カスカ＞",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "VESPERBELLミニぬいシリーズ",
+        "singers": [
+          "VESPERBELL",
+          "カスカ",
+          "ヨミ"
+        ],
+        "variant": "ミニぬい　＜ヨミ＞",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "KMNZミニぬいシリーズ",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "variant": "ミニぬい　＜LITA＞",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "KMNZミニぬいシリーズ",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "variant": "ミニぬい　＜TINA＞",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "KMNZミニぬいシリーズ",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "variant": "ミニぬい　＜NERO＞",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "NEUN BIRTHDAY 3D LIVE 2026 -RE:ORIGIN-",
+        "singers": [
+          "NEUN"
+        ],
+        "variant": "NEUN BIRTHDAY 3D LIVE 2026 -RE:ORIGIN- コンプリートセット【ビッグシルエットTシャツ L】",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "NEUN BIRTHDAY 3D LIVE 2026 -RE:ORIGIN-",
+        "singers": [
+          "NEUN"
+        ],
+        "variant": "NEUN BIRTHDAY 3D LIVE 2026 -RE:ORIGIN- コンプリートセット【ビッグシルエットTシャツ XL】",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "NEUN BIRTHDAY 3D LIVE 2026 -RE:ORIGIN-",
+        "singers": [
+          "NEUN"
+        ],
+        "variant": "ビッグシルエットTシャツ（Lサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "NEUN BIRTHDAY 3D LIVE 2026 -RE:ORIGIN-",
+        "singers": [
+          "NEUN"
+        ],
+        "variant": "ビッグシルエットTシャツ（XLサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "NEUN BIRTHDAY 3D LIVE 2026 -RE:ORIGIN-",
+        "singers": [
+          "NEUN"
+        ],
+        "variant": "アクリルスタンド",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "NEUN BIRTHDAY 3D LIVE 2026 -RE:ORIGIN-",
+        "singers": [
+          "NEUN"
+        ],
+        "variant": "アクリルキーホルダー",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "NEUN BIRTHDAY 3D LIVE 2026 -RE:ORIGIN-",
+        "singers": [
+          "NEUN"
+        ],
+        "variant": "NEUNオリジナル缶ケース",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "NEUN BIRTHDAY 3D LIVE 2026 -RE:ORIGIN-",
+        "singers": [
+          "NEUN"
+        ],
+        "variant": "ステッカーセット（5種）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "NEUN BIRTHDAY 3D LIVE 2026 -RE:ORIGIN-",
+        "singers": [
+          "NEUN"
+        ],
+        "variant": "ポストカードセット（5種）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "NEUN BIRTHDAY 3D LIVE 2026 -RE:ORIGIN-",
+        "singers": [
+          "NEUN"
+        ],
+        "variant": "ランダムチェキ風カード（全5種）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "NEUN BIRTHDAY 3D LIVE 2026 -RE:ORIGIN-",
+        "singers": [
+          "NEUN"
+        ],
+        "variant": "ビジュアル複製原画",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "XIDEN BIRTHDAY LIVE 2026 \"BORN FROM aXIs\"",
+        "singers": [
+          "XIDEN"
+        ],
+        "variant": "A6アクリルパネル",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "XIDEN BIRTHDAY LIVE 2026 \"BORN FROM aXIs\"",
+        "singers": [
+          "XIDEN"
+        ],
+        "variant": "マフラータオル",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "XIDEN BIRTHDAY LIVE 2026 \"BORN FROM aXIs\"",
+        "singers": [
+          "XIDEN"
+        ],
+        "variant": "F4キャンバスボード",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "XIDEN BIRTHDAY LIVE 2026 \"BORN FROM aXIs\"",
+        "singers": [
+          "XIDEN"
+        ],
+        "variant": "2連アクリルキーホルダー",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "XIDEN BIRTHDAY LIVE 2026 \"BORN FROM aXIs\"",
+        "singers": [
+          "XIDEN"
+        ],
+        "variant": "エコバッグ",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "XIDEN BIRTHDAY LIVE 2026 \"BORN FROM aXIs\"",
+        "singers": [
+          "XIDEN"
+        ],
+        "variant": "ブロマイドセット（6種）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "【KMNZ】Single CD「 Moon Engine」",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "variant": "【KMNZ】Single CD「 Moon Engine」",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "RK Musicミニぬいシリーズ",
+        "singers": [
+          "IMI",
+          "LEWNE",
+          "MEDA",
+          "NEUN",
+          "wouca",
+          "XIDEN",
+          "ヨノ",
+          "深影",
+          "羽緒"
+        ],
+        "variant": "ミニぬい　＜NEUN＞",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "RK Musicミニぬいシリーズ",
+        "singers": [
+          "IMI",
+          "LEWNE",
+          "MEDA",
+          "NEUN",
+          "wouca",
+          "XIDEN",
+          "ヨノ",
+          "深影",
+          "羽緒"
+        ],
+        "variant": "ミニぬい　＜MEDA＞",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "RK Musicミニぬいシリーズ",
+        "singers": [
+          "IMI",
+          "LEWNE",
+          "MEDA",
+          "NEUN",
+          "wouca",
+          "XIDEN",
+          "ヨノ",
+          "深影",
+          "羽緒"
+        ],
+        "variant": "ミニぬい　＜IMI＞",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "RK Musicミニぬいシリーズ",
+        "singers": [
+          "IMI",
+          "LEWNE",
+          "MEDA",
+          "NEUN",
+          "wouca",
+          "XIDEN",
+          "ヨノ",
+          "深影",
+          "羽緒"
+        ],
+        "variant": "ミニぬい　＜XIDEN＞",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "RK Musicミニぬいシリーズ",
+        "singers": [
+          "IMI",
+          "LEWNE",
+          "MEDA",
+          "NEUN",
+          "wouca",
+          "XIDEN",
+          "ヨノ",
+          "深影",
+          "羽緒"
+        ],
+        "variant": "ミニぬい　＜ヨノ＞",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "RK Musicミニぬいシリーズ",
+        "singers": [
+          "IMI",
+          "LEWNE",
+          "MEDA",
+          "NEUN",
+          "wouca",
+          "XIDEN",
+          "ヨノ",
+          "深影",
+          "羽緒"
+        ],
+        "variant": "ミニぬい　＜LEWNE＞",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "RK Musicミニぬいシリーズ",
+        "singers": [
+          "IMI",
+          "LEWNE",
+          "MEDA",
+          "NEUN",
+          "wouca",
+          "XIDEN",
+          "ヨノ",
+          "深影",
+          "羽緒"
+        ],
+        "variant": "ミニぬい　＜羽緒＞",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "RK Musicミニぬいシリーズ",
+        "singers": [
+          "IMI",
+          "LEWNE",
+          "MEDA",
+          "NEUN",
+          "wouca",
+          "XIDEN",
+          "ヨノ",
+          "深影",
+          "羽緒"
+        ],
+        "variant": "ミニぬい　＜深影＞",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "RK Musicミニぬいシリーズ",
+        "singers": [
+          "IMI",
+          "LEWNE",
+          "MEDA",
+          "NEUN",
+          "wouca",
+          "XIDEN",
+          "ヨノ",
+          "深影",
+          "羽緒"
+        ],
+        "variant": "ミニぬい　＜wouca＞",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "HONK THE HORN DEBUT GOODS2026",
+        "singers": [
+          "BAMBI",
+          "HONK THE HORN",
+          "MOCO"
+        ],
+        "variant": "デビューグッズセット",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "HONK THE HORN DEBUT GOODS2026",
+        "singers": [
+          "BAMBI",
+          "HONK THE HORN",
+          "MOCO"
+        ],
+        "variant": "アクリルスタンド（MOCO）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "HONK THE HORN DEBUT GOODS2026",
+        "singers": [
+          "BAMBI",
+          "HONK THE HORN",
+          "MOCO"
+        ],
+        "variant": "アクリルスタンド（BAMBI）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "HONK THE HORN DEBUT GOODS2026",
+        "singers": [
+          "BAMBI",
+          "HONK THE HORN",
+          "MOCO"
+        ],
+        "variant": "キャップ（ブラック）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "HONK THE HORN DEBUT GOODS2026",
+        "singers": [
+          "BAMBI",
+          "HONK THE HORN",
+          "MOCO"
+        ],
+        "variant": "キャップ（チャコール）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "HONK THE HORN DEBUT GOODS2026",
+        "singers": [
+          "BAMBI",
+          "HONK THE HORN",
+          "MOCO"
+        ],
+        "variant": "ステッカー5種セット",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "HONK THE HORN DEBUT GOODS2026",
+        "singers": [
+          "BAMBI",
+          "HONK THE HORN",
+          "MOCO"
+        ],
+        "variant": "メタルキーホルダー",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "HONK THE HORN DEBUT GOODS2026",
+        "singers": [
+          "BAMBI",
+          "HONK THE HORN",
+          "MOCO"
+        ],
+        "variant": "ヴィンテージティンパネル",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "HONK THE HORN DEBUT GOODS2026",
+        "singers": [
+          "BAMBI",
+          "HONK THE HORN",
+          "MOCO"
+        ],
+        "variant": "ランダムチェキ風カード（全4種）",
+        "before": true,
+        "after": false
+      }
+    ]
+  },
+  {
     "date": "2026-04-25T01:10:27.028641+09:00",
     "new_products": [
       {
