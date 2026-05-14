@@ -1,5 +1,132 @@
 [
   {
+    "date": "2026-05-14T13:51:23.048335+09:00",
+    "new_products": [],
+    "removed_products": [],
+    "availability_changes": [
+      {
+        "product_title": "瀬戸乃とと Half Anniversary Goods 『TOTO SAMA- 2026』",
+        "singers": [
+          "LIVE UNION",
+          "瀬戸乃とと"
+        ],
+        "variant": "『TOTO SAMA- 2026』 コンプリートセット【Tシャツ M】",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "瀬戸乃とと Half Anniversary Goods 『TOTO SAMA- 2026』",
+        "singers": [
+          "LIVE UNION",
+          "瀬戸乃とと"
+        ],
+        "variant": "『TOTO SAMA- 2026』 コンプリートセット【Tシャツ L】",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "瀬戸乃とと Half Anniversary Goods 『TOTO SAMA- 2026』",
+        "singers": [
+          "LIVE UNION",
+          "瀬戸乃とと"
+        ],
+        "variant": "『TOTO SAMA- 2026』 コンプリートセット【Tシャツ XL】",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "瀬戸乃とと Half Anniversary Goods 『TOTO SAMA- 2026』",
+        "singers": [
+          "LIVE UNION",
+          "瀬戸乃とと"
+        ],
+        "variant": "Tシャツ（Mサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "瀬戸乃とと Half Anniversary Goods 『TOTO SAMA- 2026』",
+        "singers": [
+          "LIVE UNION",
+          "瀬戸乃とと"
+        ],
+        "variant": "Tシャツ（Lサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "瀬戸乃とと Half Anniversary Goods 『TOTO SAMA- 2026』",
+        "singers": [
+          "LIVE UNION",
+          "瀬戸乃とと"
+        ],
+        "variant": "Tシャツ（XLサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "瀬戸乃とと Half Anniversary Goods 『TOTO SAMA- 2026』",
+        "singers": [
+          "LIVE UNION",
+          "瀬戸乃とと"
+        ],
+        "variant": "アクリルジオラマ",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "瀬戸乃とと Half Anniversary Goods 『TOTO SAMA- 2026』",
+        "singers": [
+          "LIVE UNION",
+          "瀬戸乃とと"
+        ],
+        "variant": "グラス＆アクリルコースターセット",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "瀬戸乃とと Half Anniversary Goods 『TOTO SAMA- 2026』",
+        "singers": [
+          "LIVE UNION",
+          "瀬戸乃とと"
+        ],
+        "variant": "キャップ",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "瀬戸乃とと Half Anniversary Goods 『TOTO SAMA- 2026』",
+        "singers": [
+          "LIVE UNION",
+          "瀬戸乃とと"
+        ],
+        "variant": "アクリルカラビナ",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "瀬戸乃とと Half Anniversary Goods 『TOTO SAMA- 2026』",
+        "singers": [
+          "LIVE UNION",
+          "瀬戸乃とと"
+        ],
+        "variant": "ランダムステッカー（全5種）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "瀬戸乃とと Half Anniversary Goods 『TOTO SAMA- 2026』",
+        "singers": [
+          "LIVE UNION",
+          "瀬戸乃とと"
+        ],
+        "variant": "えるゆーぬいポーチ “瀬戸乃とと Ver.”",
+        "before": true,
+        "after": false
+      }
+    ]
+  },
+  {
     "date": "2026-05-01T13:52:59.219235+09:00",
     "new_products": [],
     "removed_products": [],
