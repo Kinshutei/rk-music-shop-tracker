@@ -1,6 +1,143 @@
 {
-  "scraped_at": "2026-05-15T13:55:26.543983+09:00",
+  "scraped_at": "2026-05-16T13:32:42.253256+09:00",
   "products": [
+    {
+      "id": 9197746454754,
+      "title": "KMNZ 4th ONE-MAN LIVE「AREA111」Blu-ray",
+      "handle": "kmnz-4th-one-man-live-area111-blu-ray",
+      "singers": [
+        "KMNZ",
+        "LITA",
+        "NERO",
+        "TINA"
+      ],
+      "tags": [
+        "KMNZ",
+        "LITA",
+        "NERO",
+        "NEW",
+        "RK Music",
+        "TINA",
+        "受注生産商品"
+      ],
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/1_d2cde35f-5b93-44fd-88c6-dd45c5a9ae85.png?v=1778833515",
+      "url": "https://shop.reality-studios.inc/products/kmnz-4th-one-man-live-area111-blu-ray",
+      "published_at": "2026-05-15T18:00:03+09:00",
+      "updated_at": "2026-05-16T13:32:42+09:00",
+      "variants": [
+        {
+          "title": "【Blu-ray】KMNZ 4th ONE-MAN LIVE「AREA111」",
+          "price": 15000,
+          "available": true
+        }
+      ]
+    },
+    {
+      "id": 9197729382626,
+      "title": "KMNZ 「3DOGS 2YEAR」",
+      "handle": "kmnz-3dogs-2year-goods",
+      "singers": [
+        "KMNZ",
+        "LITA",
+        "NERO",
+        "TINA"
+      ],
+      "tags": [
+        "KMNZ",
+        "LITA",
+        "NERO",
+        "NEW",
+        "RK Music",
+        "TINA",
+        "受注生産商品"
+      ],
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/KMNZ3D2YSP.png?v=1778811950",
+      "url": "https://shop.reality-studios.inc/products/kmnz-3dogs-2year-goods",
+      "published_at": "2026-05-15T18:00:04+09:00",
+      "updated_at": "2026-05-16T13:32:42+09:00",
+      "variants": [
+        {
+          "title": "3DOGS 2YEAR GOODS SET（A：gray）",
+          "price": 23800,
+          "available": true
+        },
+        {
+          "title": "3DOGS 2YEAR GOODS SET（B：navy）",
+          "price": 23800,
+          "available": true
+        },
+        {
+          "title": "Sweat Set-Up Hoodie（Mサイズ）",
+          "price": 11000,
+          "available": true
+        },
+        {
+          "title": "Sweat Set-Up Hoodie（Lサイズ）",
+          "price": 11000,
+          "available": true
+        },
+        {
+          "title": "Sweat Set-Up Hoodie（XLサイズ）",
+          "price": 11000,
+          "available": true
+        },
+        {
+          "title": "Sweat Set-Up Pants（Mサイズ）",
+          "price": 11000,
+          "available": true
+        },
+        {
+          "title": "Sweat Set-Up Pants（Lサイズ）",
+          "price": 11000,
+          "available": true
+        },
+        {
+          "title": "Sweat Set-Up Pants（XLサイズ）",
+          "price": 11000,
+          "available": true
+        },
+        {
+          "title": "Acrylicstand（LITA）",
+          "price": 2200,
+          "available": true
+        },
+        {
+          "title": "Acrylicstand（TINA）",
+          "price": 2200,
+          "available": true
+        },
+        {
+          "title": "Acrylicstand（NERO）",
+          "price": 2200,
+          "available": true
+        },
+        {
+          "title": "Umbrella Holder（A：gray）",
+          "price": 3000,
+          "available": true
+        },
+        {
+          "title": "Umbrella Holder（B：navy）",
+          "price": 3000,
+          "available": true
+        },
+        {
+          "title": "Clear Pouch",
+          "price": 3500,
+          "available": true
+        },
+        {
+          "title": "Carabiner Stainless Mug",
+          "price": 3500,
+          "available": true
+        },
+        {
+          "title": "Random CD Jacket Keychain（全9種）",
+          "price": 800,
+          "available": true
+        }
+      ]
+    },
     {
       "id": 9173977661666,
       "title": "瀬戸乃とと Half Anniversary Goods 『TOTO SAMA- 2026』",
@@ -19,7 +156,7 @@
       "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/TOTOSAMA-_EC_0421_5ol_02.png?v=1776760313",
       "url": "https://shop.reality-studios.inc/products/setonototo-half-anniversary-goods2026",
       "published_at": "2026-04-22T22:00:05+09:00",
-      "updated_at": "2026-05-15T13:55:26+09:00",
+      "updated_at": "2026-05-16T13:32:42+09:00",
       "variants": [
         {
           "title": "『TOTO SAMA- 2026』 コンプリートセット【Tシャツ M】",
@@ -103,7 +240,7 @@
       "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/EC_SP__RKM_VESP.jpg?v=1776216275",
       "url": "https://shop.reality-studios.inc/products/vesperbell-mininui",
       "published_at": "2026-04-15T18:00:05+09:00",
-      "updated_at": "2026-05-15T13:55:26+09:00",
+      "updated_at": "2026-05-16T13:32:42+09:00",
       "variants": [
         {
           "title": "ミニぬい　＜カスカ＞",
@@ -139,7 +276,7 @@
       "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/EC_SP__RKM_KMNZ.jpg?v=1776216287",
       "url": "https://shop.reality-studios.inc/products/kmnz-mininui",
       "published_at": "2026-04-15T18:00:05+09:00",
-      "updated_at": "2026-05-15T13:55:26+09:00",
+      "updated_at": "2026-05-16T13:32:42+09:00",
       "variants": [
         {
           "title": "ミニぬい　＜LITA＞",
@@ -174,7 +311,7 @@
       "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/NEUN_BD_EC_0403_2ol_02_653da930-9019-4f3b-a2b0-50be9a854287.png?v=1775549696",
       "url": "https://shop.reality-studios.inc/products/neun-birthday-3d-live-2026-re-origin",
       "published_at": "2026-04-07T21:00:07+09:00",
-      "updated_at": "2026-05-15T13:55:26+09:00",
+      "updated_at": "2026-05-16T13:32:42+09:00",
       "variants": [
         {
           "title": "NEUN BIRTHDAY 3D LIVE 2026 -RE:ORIGIN- コンプリートセット【ビッグシルエットTシャツ L】",
@@ -249,7 +386,7 @@
       "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/XIDEN_BFa_EC_0402_3ol_02.png?v=1775207923",
       "url": "https://shop.reality-studios.inc/products/xiden-birthday-live-2026-born-from-axis",
       "published_at": "2026-04-06T20:00:11+09:00",
-      "updated_at": "2026-05-15T13:55:26+09:00",
+      "updated_at": "2026-05-16T13:32:42+09:00",
       "variants": [
         {
           "title": "ビッグシルエットTシャツ（Lサイズ）",
@@ -324,7 +461,7 @@
       "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/1-100_a740f003-20a1-4305-8578-7c79d3b967ce.jpg?v=1775558541",
       "url": "https://shop.reality-studios.inc/products/kmnz_cd-single_moon-engine",
       "published_at": "2026-04-15T18:00:04+09:00",
-      "updated_at": "2026-05-15T13:55:26+09:00",
+      "updated_at": "2026-05-16T13:32:42+09:00",
       "variants": [
         {
           "title": "【KMNZ】Single CD「 Moon Engine」",
@@ -367,7 +504,7 @@
       "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/EC_SP__RKM_PRO.jpg?v=1774643903",
       "url": "https://shop.reality-studios.inc/products/rk-music-mininui",
       "published_at": "2026-03-30T11:57:52+09:00",
-      "updated_at": "2026-05-15T13:55:26+09:00",
+      "updated_at": "2026-05-16T13:32:42+09:00",
       "variants": [
         {
           "title": "ミニぬい　＜NEUN＞",
@@ -435,7 +572,7 @@
       "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/2-100_d10f718f-4baf-41ae-a06a-c5ee5786b6bb.jpg?v=1774411110",
       "url": "https://shop.reality-studios.inc/products/honk-the-horn_debut-goods2026",
       "published_at": "2026-03-29T22:00:05+09:00",
-      "updated_at": "2026-05-15T13:55:26+09:00",
+      "updated_at": "2026-05-16T13:32:42+09:00",
       "variants": [
         {
           "title": "デビューグッズセット",
@@ -502,7 +639,7 @@
       "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/BIRTHOFCOLOR_SP.jpg?v=1773397891",
       "url": "https://shop.reality-studios.inc/products/yono-acoustic-live-birth-of-color",
       "published_at": "2026-03-16T20:00:04+09:00",
-      "updated_at": "2026-05-15T13:55:26+09:00",
+      "updated_at": "2026-05-16T13:32:42+09:00",
       "variants": [
         {
           "title": "ビッグシルエットTシャツ（Lサイズ）",
@@ -582,7 +719,7 @@
       "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/Blu-ray_square_cab23eeb-2cb0-488a-b8ae-4de01f9afc1a.png?v=1773326336",
       "url": "https://shop.reality-studios.inc/products/kmnz-vesperbell_2dayslive_blu-ray",
       "published_at": "2026-03-13T20:00:15+09:00",
-      "updated_at": "2026-05-15T13:55:26+09:00",
+      "updated_at": "2026-05-16T13:32:42+09:00",
       "variants": [
         {
           "title": "【特典ロゴステッカー付き】KMNZ/VESPERBELL 2DAYS LIVE Blu-ray セット",
@@ -621,7 +758,7 @@
       "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/1_4_372d18a7-7807-4566-ba93-f830930efd61.png?v=1773229472",
       "url": "https://shop.reality-studios.inc/products/kmnz-wego-collaboration-goods-2026",
       "published_at": "2026-03-13T20:00:14+09:00",
-      "updated_at": "2026-05-15T13:55:26+09:00",
+      "updated_at": "2026-05-16T13:32:42+09:00",
       "variants": [
         {
           "title": "Zip Hoodie",
@@ -721,7 +858,7 @@
       "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/11.jpg?v=1772599002",
       "url": "https://shop.reality-studios.inc/products/fused-out-of-frame-goods",
       "published_at": "2026-03-17T20:00:11+09:00",
-      "updated_at": "2026-05-15T13:55:26+09:00",
+      "updated_at": "2026-05-16T13:32:42+09:00",
       "variants": [
         {
           "title": "Logo T-Shirt（White）Mサイズ",
@@ -878,7 +1015,7 @@
       "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/EC_0304_1ol_02_bbf5c549-c0ad-42b8-9c8e-f278c58f1466.jpg?v=1772618874",
       "url": "https://shop.reality-studios.inc/products/mikage-one-man-live-2026",
       "published_at": "2026-03-10T20:00:06+09:00",
-      "updated_at": "2026-05-15T13:55:26+09:00",
+      "updated_at": "2026-05-16T13:32:42+09:00",
       "variants": [
         {
           "title": "ビックシルエットTシャツL",
@@ -945,7 +1082,7 @@
       "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/EC_0304_1ol_02.jpg?v=1772618840",
       "url": "https://shop.reality-studios.inc/products/hao-one-man-live-2026",
       "published_at": "2026-03-10T20:00:05+09:00",
-      "updated_at": "2026-05-15T13:55:26+09:00",
+      "updated_at": "2026-05-16T13:32:42+09:00",
       "variants": [
         {
           "title": "ビッグシルエットTシャツ（Lサイズ）",
@@ -1017,7 +1154,7 @@
       "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/3_ab0a4a7f-d19f-48c5-9e58-48e03a371cd9.jpg?v=1773226273",
       "url": "https://shop.reality-studios.inc/products/vesperbell-spring-collection-2026",
       "published_at": "2026-03-13T20:00:14+09:00",
-      "updated_at": "2026-05-15T13:55:26+09:00",
+      "updated_at": "2026-05-16T13:32:42+09:00",
       "variants": [
         {
           "title": "BELLS SET（T-Shirt M）",
@@ -1100,7 +1237,7 @@
       "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/6_b5063864-e49b-4c0d-ad76-37f104153add.png?v=1771310891",
       "url": "https://shop.reality-studios.inc/products/妃玖-debut-goods-2026-特典-直筆サイン入りkvブロマイド",
       "published_at": "2026-02-20T16:16:23+09:00",
-      "updated_at": "2026-05-15T13:55:26+09:00",
+      "updated_at": "2026-05-16T13:32:42+09:00",
       "variants": [
         {
           "title": "Default Title",
@@ -1124,7 +1261,7 @@
       "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/1_6a7cf962-f2ea-4bdf-b93e-4dda5fad65eb.png?v=1771504555",
       "url": "https://shop.reality-studios.inc/products/妃玖-debut-goods-2026-コンプリートセット",
       "published_at": "2026-02-20T16:16:22+09:00",
-      "updated_at": "2026-05-15T13:55:26+09:00",
+      "updated_at": "2026-05-16T13:32:42+09:00",
       "variants": [
         {
           "title": "Default Title",
@@ -1148,7 +1285,7 @@
       "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/SP_aa7d98df-3476-4839-aa4c-42554e2e1d48.png?v=1771504555",
       "url": "https://shop.reality-studios.inc/products/kisaki-debut-goods-2026",
       "published_at": "2026-02-22T21:10:04+09:00",
-      "updated_at": "2026-05-15T13:55:26+09:00",
+      "updated_at": "2026-05-16T13:32:42+09:00",
       "variants": [
         {
           "title": "妃玖 DEBUT GOODS 2026 コンプリートセット",
@@ -1206,7 +1343,7 @@
       "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/B.png?v=1771310494",
       "url": "https://shop.reality-studios.inc/products/diα-debut-goods-2026-特典-直筆サイン入りkvブロマイド",
       "published_at": "2026-02-20T16:16:22+09:00",
-      "updated_at": "2026-05-15T13:55:26+09:00",
+      "updated_at": "2026-05-16T13:32:42+09:00",
       "variants": [
         {
           "title": "Default Title",
@@ -1230,7 +1367,7 @@
       "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/160f6ade70061dd20d6f330c0b790757.png?v=1771504526",
       "url": "https://shop.reality-studios.inc/products/diα-debut-goods-2027",
       "published_at": "2026-02-20T16:16:21+09:00",
-      "updated_at": "2026-05-15T13:55:26+09:00",
+      "updated_at": "2026-05-16T13:32:42+09:00",
       "variants": [
         {
           "title": "Default Title",
@@ -1253,7 +1390,7 @@
       "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/Di_SP.png?v=1771504526",
       "url": "https://shop.reality-studios.inc/products/diα-debut-goods-2026",
       "published_at": "2026-02-22T21:10:03+09:00",
-      "updated_at": "2026-05-15T13:55:26+09:00",
+      "updated_at": "2026-05-16T13:32:42+09:00",
       "variants": [
         {
           "title": "Diα DEBUT GOODS 2026 コンプリートセット",
@@ -1313,7 +1450,7 @@
       "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/8-100_73d4ea45-945c-4e2a-979f-139eee084a14.jpg?v=1770943920",
       "url": "https://shop.reality-studios.inc/products/culua-birthday-goods-2026-セット特典-culua自画像ステッカー",
       "published_at": "2026-02-16T22:18:59+09:00",
-      "updated_at": "2026-05-15T13:55:26+09:00",
+      "updated_at": "2026-05-16T13:32:42+09:00",
       "variants": [
         {
           "title": "Default Title",
@@ -1339,7 +1476,7 @@
       "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/100.jpg?v=1771234255",
       "url": "https://shop.reality-studios.inc/products/complete-set-lyric-keychain少しの自信があったら-t-shirt-xl",
       "published_at": "2026-02-16T22:18:52+09:00",
-      "updated_at": "2026-05-15T13:55:26+09:00",
+      "updated_at": "2026-05-16T13:32:42+09:00",
       "variants": [
         {
           "title": "Default Title",
@@ -1365,7 +1502,7 @@
       "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/100.jpg?v=1771234255",
       "url": "https://shop.reality-studios.inc/products/complete-set-lyric-keychain少しの自信があったら-t-shirt-l",
       "published_at": "2026-02-16T22:18:43+09:00",
-      "updated_at": "2026-05-15T13:55:26+09:00",
+      "updated_at": "2026-05-16T13:32:42+09:00",
       "variants": [
         {
           "title": "Default Title",
@@ -1391,7 +1528,7 @@
       "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/100.jpg?v=1771234255",
       "url": "https://shop.reality-studios.inc/products/complete-set-lyric-keychain少しの自信があったら-t-shirt-m",
       "published_at": "2026-02-16T22:18:36+09:00",
-      "updated_at": "2026-05-15T13:55:26+09:00",
+      "updated_at": "2026-05-16T13:32:42+09:00",
       "variants": [
         {
           "title": "Default Title",
@@ -1417,7 +1554,7 @@
       "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/100_778fbea2-b499-492b-80b7-e76e8ce03636.jpg?v=1771234255",
       "url": "https://shop.reality-studios.inc/products/complete-set-lyric-keychainてんぺんちー-t-shirt-xl",
       "published_at": "2026-02-16T22:18:30+09:00",
-      "updated_at": "2026-05-15T13:55:26+09:00",
+      "updated_at": "2026-05-16T13:32:42+09:00",
       "variants": [
         {
           "title": "Default Title",
@@ -1442,7 +1579,7 @@
       "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/100_778fbea2-b499-492b-80b7-e76e8ce03636.jpg?v=1771234255",
       "url": "https://shop.reality-studios.inc/products/complete-set-lyric-keychainてんぺんちー-t-shirt-l",
       "published_at": "2026-02-16T22:18:24+09:00",
-      "updated_at": "2026-05-15T13:55:26+09:00",
+      "updated_at": "2026-05-16T13:32:42+09:00",
       "variants": [
         {
           "title": "Default Title",
@@ -1468,7 +1605,7 @@
       "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/100_778fbea2-b499-492b-80b7-e76e8ce03636.jpg?v=1771234255",
       "url": "https://shop.reality-studios.inc/products/complete-set-lyric-keychainてんぺんちー-t-shirt-m",
       "published_at": "2026-02-16T22:17:44+09:00",
-      "updated_at": "2026-05-15T13:55:26+09:00",
+      "updated_at": "2026-05-16T13:32:42+09:00",
       "variants": [
         {
           "title": "Default Title",
@@ -1491,7 +1628,7 @@
       "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/SP.png?v=1771234255",
       "url": "https://shop.reality-studios.inc/products/culua-birthday-goods-2026",
       "published_at": "2026-02-17T21:00:07+09:00",
-      "updated_at": "2026-05-15T13:55:26+09:00",
+      "updated_at": "2026-05-16T13:32:42+09:00",
       "variants": [
         {
           "title": "Complete Set【Lyric Keychain(てんぺんちー)/T-Shirt M】",
@@ -1577,7 +1714,7 @@
       "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/LITA_BDgoods_EC_0130_2ol_03.jpg?v=1769999000",
       "url": "https://shop.reality-studios.inc/products/lita-birthday-complete-set-2026-特典-ボイス",
       "published_at": "2026-02-06T22:00:06+09:00",
-      "updated_at": "2026-05-15T13:55:26+09:00",
+      "updated_at": "2026-05-16T13:32:42+09:00",
       "variants": [
         {
           "title": "Default Title",
@@ -1588,7 +1725,145 @@
     }
   ],
   "latest_changes": {
-    "new_products": [],
+    "new_products": [
+      {
+        "id": 9197746454754,
+        "title": "KMNZ 4th ONE-MAN LIVE「AREA111」Blu-ray",
+        "handle": "kmnz-4th-one-man-live-area111-blu-ray",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "tags": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "NEW",
+          "RK Music",
+          "TINA",
+          "受注生産商品"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/1_d2cde35f-5b93-44fd-88c6-dd45c5a9ae85.png?v=1778833515",
+        "url": "https://shop.reality-studios.inc/products/kmnz-4th-one-man-live-area111-blu-ray",
+        "published_at": "2026-05-15T18:00:03+09:00",
+        "updated_at": "2026-05-16T13:32:42+09:00",
+        "variants": [
+          {
+            "title": "【Blu-ray】KMNZ 4th ONE-MAN LIVE「AREA111」",
+            "price": 15000,
+            "available": true
+          }
+        ]
+      },
+      {
+        "id": 9197729382626,
+        "title": "KMNZ 「3DOGS 2YEAR」",
+        "handle": "kmnz-3dogs-2year-goods",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "tags": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "NEW",
+          "RK Music",
+          "TINA",
+          "受注生産商品"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/KMNZ3D2YSP.png?v=1778811950",
+        "url": "https://shop.reality-studios.inc/products/kmnz-3dogs-2year-goods",
+        "published_at": "2026-05-15T18:00:04+09:00",
+        "updated_at": "2026-05-16T13:32:42+09:00",
+        "variants": [
+          {
+            "title": "3DOGS 2YEAR GOODS SET（A：gray）",
+            "price": 23800,
+            "available": true
+          },
+          {
+            "title": "3DOGS 2YEAR GOODS SET（B：navy）",
+            "price": 23800,
+            "available": true
+          },
+          {
+            "title": "Sweat Set-Up Hoodie（Mサイズ）",
+            "price": 11000,
+            "available": true
+          },
+          {
+            "title": "Sweat Set-Up Hoodie（Lサイズ）",
+            "price": 11000,
+            "available": true
+          },
+          {
+            "title": "Sweat Set-Up Hoodie（XLサイズ）",
+            "price": 11000,
+            "available": true
+          },
+          {
+            "title": "Sweat Set-Up Pants（Mサイズ）",
+            "price": 11000,
+            "available": true
+          },
+          {
+            "title": "Sweat Set-Up Pants（Lサイズ）",
+            "price": 11000,
+            "available": true
+          },
+          {
+            "title": "Sweat Set-Up Pants（XLサイズ）",
+            "price": 11000,
+            "available": true
+          },
+          {
+            "title": "Acrylicstand（LITA）",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "Acrylicstand（TINA）",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "Acrylicstand（NERO）",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "Umbrella Holder（A：gray）",
+            "price": 3000,
+            "available": true
+          },
+          {
+            "title": "Umbrella Holder（B：navy）",
+            "price": 3000,
+            "available": true
+          },
+          {
+            "title": "Clear Pouch",
+            "price": 3500,
+            "available": true
+          },
+          {
+            "title": "Carabiner Stainless Mug",
+            "price": 3500,
+            "available": true
+          },
+          {
+            "title": "Random CD Jacket Keychain（全9種）",
+            "price": 800,
+            "available": true
+          }
+        ]
+      }
+    ],
     "removed_products": [],
     "availability_changes": []
   }

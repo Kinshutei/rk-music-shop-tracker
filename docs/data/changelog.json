@@ -1,5 +1,149 @@
 [
   {
+    "date": "2026-05-16T13:32:42.253256+09:00",
+    "new_products": [
+      {
+        "id": 9197746454754,
+        "title": "KMNZ 4th ONE-MAN LIVE「AREA111」Blu-ray",
+        "handle": "kmnz-4th-one-man-live-area111-blu-ray",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "tags": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "NEW",
+          "RK Music",
+          "TINA",
+          "受注生産商品"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/1_d2cde35f-5b93-44fd-88c6-dd45c5a9ae85.png?v=1778833515",
+        "url": "https://shop.reality-studios.inc/products/kmnz-4th-one-man-live-area111-blu-ray",
+        "published_at": "2026-05-15T18:00:03+09:00",
+        "updated_at": "2026-05-16T13:32:42+09:00",
+        "variants": [
+          {
+            "title": "【Blu-ray】KMNZ 4th ONE-MAN LIVE「AREA111」",
+            "price": 15000,
+            "available": true
+          }
+        ]
+      },
+      {
+        "id": 9197729382626,
+        "title": "KMNZ 「3DOGS 2YEAR」",
+        "handle": "kmnz-3dogs-2year-goods",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "tags": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "NEW",
+          "RK Music",
+          "TINA",
+          "受注生産商品"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/KMNZ3D2YSP.png?v=1778811950",
+        "url": "https://shop.reality-studios.inc/products/kmnz-3dogs-2year-goods",
+        "published_at": "2026-05-15T18:00:04+09:00",
+        "updated_at": "2026-05-16T13:32:42+09:00",
+        "variants": [
+          {
+            "title": "3DOGS 2YEAR GOODS SET（A：gray）",
+            "price": 23800,
+            "available": true
+          },
+          {
+            "title": "3DOGS 2YEAR GOODS SET（B：navy）",
+            "price": 23800,
+            "available": true
+          },
+          {
+            "title": "Sweat Set-Up Hoodie（Mサイズ）",
+            "price": 11000,
+            "available": true
+          },
+          {
+            "title": "Sweat Set-Up Hoodie（Lサイズ）",
+            "price": 11000,
+            "available": true
+          },
+          {
+            "title": "Sweat Set-Up Hoodie（XLサイズ）",
+            "price": 11000,
+            "available": true
+          },
+          {
+            "title": "Sweat Set-Up Pants（Mサイズ）",
+            "price": 11000,
+            "available": true
+          },
+          {
+            "title": "Sweat Set-Up Pants（Lサイズ）",
+            "price": 11000,
+            "available": true
+          },
+          {
+            "title": "Sweat Set-Up Pants（XLサイズ）",
+            "price": 11000,
+            "available": true
+          },
+          {
+            "title": "Acrylicstand（LITA）",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "Acrylicstand（TINA）",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "Acrylicstand（NERO）",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "Umbrella Holder（A：gray）",
+            "price": 3000,
+            "available": true
+          },
+          {
+            "title": "Umbrella Holder（B：navy）",
+            "price": 3000,
+            "available": true
+          },
+          {
+            "title": "Clear Pouch",
+            "price": 3500,
+            "available": true
+          },
+          {
+            "title": "Carabiner Stainless Mug",
+            "price": 3500,
+            "available": true
+          },
+          {
+            "title": "Random CD Jacket Keychain（全9種）",
+            "price": 800,
+            "available": true
+          }
+        ]
+      }
+    ],
+    "removed_products": [],
+    "availability_changes": []
+  },
+  {
     "date": "2026-05-14T13:51:23.048335+09:00",
     "new_products": [],
     "removed_products": [],
