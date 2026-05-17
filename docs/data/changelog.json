@@ -1,5 +1,75 @@
 [
   {
+    "date": "2026-05-17T13:55:39.330629+09:00",
+    "new_products": [
+      {
+        "id": 9197769588962,
+        "title": "NUROJUNK DEBUT GOODS2026",
+        "handle": "nurojunk-debut-goods",
+        "singers": [
+          "NUROJUNK",
+          "カグラ",
+          "サクヤ"
+        ],
+        "tags": [
+          "NEW",
+          "NUROJUNK",
+          "カグラ",
+          "サクヤ",
+          "受注生産商品"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/NJ_debut_EC_0513_1ol_02.png?v=1778748748",
+        "url": "https://shop.reality-studios.inc/products/nurojunk-debut-goods",
+        "published_at": "2026-05-16T21:00:05+09:00",
+        "updated_at": "2026-05-17T13:55:39+09:00",
+        "variants": [
+          {
+            "title": "デビューグッズセット",
+            "price": 9400,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド（カグラ）",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド（サクヤ）",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "ホログラムステッカーセット（2種）",
+            "price": 1000,
+            "available": true
+          },
+          {
+            "title": "ステンレストレイ",
+            "price": 2500,
+            "available": true
+          },
+          {
+            "title": "ミラーアクリルキーホルダー",
+            "price": 1500,
+            "available": true
+          },
+          {
+            "title": "ランダムチェキ風カード（全4種）",
+            "price": 500,
+            "available": true
+          },
+          {
+            "title": "A4アクリルパネル",
+            "price": 4500,
+            "available": true
+          }
+        ]
+      }
+    ],
+    "removed_products": [],
+    "availability_changes": []
+  },
+  {
     "date": "2026-05-16T13:32:42.253256+09:00",
     "new_products": [
       {
