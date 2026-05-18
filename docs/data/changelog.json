@@ -1,5 +1,140 @@
 [
   {
+    "date": "2026-05-18T14:10:59.974187+09:00",
+    "new_products": [
+      {
+        "id": 9198167589090,
+        "title": "LEWNE 1st ONE-MAN LIVE \"Figment\"",
+        "handle": "lewne-1st-one-man-live-figment",
+        "singers": [
+          "LEWNE"
+        ],
+        "tags": [
+          "LEWNE",
+          "NEW",
+          "RK Music"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/LEWNE_Figment_EC_0514_1ol_02.png?v=1778814483",
+        "url": "https://shop.reality-studios.inc/products/lewne-1st-one-man-live-figment",
+        "published_at": "2026-05-17T20:30:05+09:00",
+        "updated_at": "2026-05-18T14:10:59+09:00",
+        "variants": [
+          {
+            "title": "ビッグシルエットTシャツ（Lサイズ）",
+            "price": 7500,
+            "available": false
+          },
+          {
+            "title": "ビッグシルエットTシャツ（XLサイズ）",
+            "price": 7500,
+            "available": false
+          },
+          {
+            "title": "フェイスタオル",
+            "price": 3300,
+            "available": false
+          },
+          {
+            "title": "アクリルスタンド",
+            "price": 2200,
+            "available": false
+          },
+          {
+            "title": "アクリルキーリング",
+            "price": 1200,
+            "available": false
+          },
+          {
+            "title": "缶バッジセット（2種）",
+            "price": 1000,
+            "available": false
+          },
+          {
+            "title": "F4キャンバスボード",
+            "price": 6000,
+            "available": false
+          },
+          {
+            "title": "トートバッグ",
+            "price": 3300,
+            "available": false
+          },
+          {
+            "title": "ペンライト",
+            "price": 4800,
+            "available": false
+          },
+          {
+            "title": "ペンライトフィルム",
+            "price": 900,
+            "available": false
+          }
+        ]
+      },
+      {
+        "id": 9197813072098,
+        "title": "MEDA 4th ONE-MAN LIVE \"SOULNOVA\"",
+        "handle": "meda-4th-one-man-live-soulnova",
+        "singers": [
+          "MEDA"
+        ],
+        "tags": [
+          "MEDA",
+          "NEW",
+          "RK Music"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/MEDA_SOULNOVA_EC_0514_1ol_02.png?v=1778757935",
+        "url": "https://shop.reality-studios.inc/products/meda-4th-one-man-live-soulnova",
+        "published_at": "2026-05-17T20:30:05+09:00",
+        "updated_at": "2026-05-18T14:10:59+09:00",
+        "variants": [
+          {
+            "title": "ロングスリーブTシャツ（XLサイズ）",
+            "price": 8500,
+            "available": false
+          },
+          {
+            "title": "フェイスタオル",
+            "price": 3300,
+            "available": false
+          },
+          {
+            "title": "アクリルスタンド",
+            "price": 2200,
+            "available": false
+          },
+          {
+            "title": "アクリルキーホルダー",
+            "price": 800,
+            "available": false
+          },
+          {
+            "title": "缶バッジセット（2種）",
+            "price": 1000,
+            "available": false
+          },
+          {
+            "title": "F4キャンバスボード",
+            "price": 6000,
+            "available": false
+          },
+          {
+            "title": "トートバッグ",
+            "price": 3300,
+            "available": false
+          },
+          {
+            "title": "ランダムフォト風カード（全5種）",
+            "price": 500,
+            "available": false
+          }
+        ]
+      }
+    ],
+    "removed_products": [],
+    "availability_changes": []
+  },
+  {
     "date": "2026-05-17T13:55:39.330629+09:00",
     "new_products": [
       {
