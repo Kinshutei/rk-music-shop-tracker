@@ -1,5 +1,130 @@
 [
   {
+    "date": "2026-05-21T14:12:53.271315+09:00",
+    "new_products": [
+      {
+        "id": 9200768549090,
+        "title": "GREY MYTH 1st Anniversary Goods",
+        "handle": "grey-myth-1st-anniversary-goods",
+        "singers": [
+          "LEWNE",
+          "深影",
+          "羽緒"
+        ],
+        "tags": [
+          "LEWNE",
+          "NEW",
+          "受注生産商品",
+          "深影",
+          "羽緒"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/pro3_aniv_EC_0519_2ol_02.png?v=1779261285",
+        "url": "https://shop.reality-studios.inc/products/grey-myth-1st-anniversary-goods",
+        "published_at": "2026-05-20T18:00:02+09:00",
+        "updated_at": "2026-05-21T14:12:53+09:00",
+        "variants": [
+          {
+            "title": "＜羽緒＞ コンプリートセット",
+            "price": 12700,
+            "available": true
+          },
+          {
+            "title": "＜羽緒＞ アクリルスタンド",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "＜羽緒＞ ティンケース&ステッカーセット（3枚入り）",
+            "price": 3000,
+            "available": true
+          },
+          {
+            "title": "＜羽緒＞ ブロマイドセット（5種）",
+            "price": 1500,
+            "available": true
+          },
+          {
+            "title": "＜羽緒＞ ブロマイドホルダー",
+            "price": 4800,
+            "available": true
+          },
+          {
+            "title": "＜羽緒＞ つながるアクリルキーホルダーセット（2種）",
+            "price": 1200,
+            "available": true
+          },
+          {
+            "title": "＜深影＞ コンプリートセット",
+            "price": 12700,
+            "available": true
+          },
+          {
+            "title": "＜深影＞ アクリルスタンド",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "＜深影＞ ティンケース&ステッカーセット（3枚入り）",
+            "price": 3000,
+            "available": true
+          },
+          {
+            "title": "＜深影＞ ブロマイドセット（5種）",
+            "price": 1500,
+            "available": true
+          },
+          {
+            "title": "＜深影＞ ブロマイドホルダー",
+            "price": 4800,
+            "available": true
+          },
+          {
+            "title": "＜深影＞ つながるアクリルキーホルダーセット（2種）",
+            "price": 1200,
+            "available": true
+          },
+          {
+            "title": "＜LEWNE＞ コンプリートセット",
+            "price": 12700,
+            "available": true
+          },
+          {
+            "title": "＜LEWNE＞ アクリルスタンド（LEWNE）",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "＜LEWNE＞ ティンケース&ステッカーセット（3枚入り）",
+            "price": 3000,
+            "available": true
+          },
+          {
+            "title": "＜LEWNE＞ ブロマイドセット（5種）",
+            "price": 1500,
+            "available": true
+          },
+          {
+            "title": "＜LEWNE＞ ブロマイドホルダー",
+            "price": 4800,
+            "available": true
+          },
+          {
+            "title": "＜LEWNE＞つながるアクリルキーホルダーセット（2種）",
+            "price": 1200,
+            "available": true
+          },
+          {
+            "title": "額装アート",
+            "price": 18000,
+            "available": true
+          }
+        ]
+      }
+    ],
+    "removed_products": [],
+    "availability_changes": []
+  },
+  {
     "date": "2026-05-19T14:06:25.068692+09:00",
     "new_products": [],
     "removed_products": [],
