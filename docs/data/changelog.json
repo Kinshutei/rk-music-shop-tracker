@@ -1,5 +1,159 @@
 [
   {
+    "date": "2026-05-26T14:07:42.175723+09:00",
+    "new_products": [
+      {
+        "id": 9202064031970,
+        "title": "LIVE UNION 2nd Live \"The Awakening\"ランダム場面写ポストカード(全20種類)",
+        "handle": "live-union-2nd-live-the-awakening_postcard",
+        "singers": [
+          "HACHI",
+          "LIVE UNION",
+          "水瀬 凪",
+          "瀬戸乃とと",
+          "焔魔るり"
+        ],
+        "tags": [
+          "HACHI",
+          "LIVE UNION",
+          "NEW",
+          "RK Music",
+          "受注生産商品",
+          "水瀬 凪",
+          "瀬戸乃とと",
+          "焔魔るり"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/1_edffd7d5-d684-4798-89ea-5d9fd7982e71.jpg?v=1779672061",
+        "url": "https://shop.reality-studios.inc/products/live-union-2nd-live-the-awakening_postcard",
+        "published_at": "2026-05-25T18:00:06+09:00",
+        "updated_at": "2026-05-26T14:07:42+09:00",
+        "variants": [
+          {
+            "title": "LIVE UNION 2nd Live \"The Awakening\"ランダム場面写ポストカード(全20種類)",
+            "price": 500,
+            "available": true
+          }
+        ]
+      },
+      {
+        "id": 9197044990178,
+        "title": "LIVE UNION 2nd Live \"The Awakening\"",
+        "handle": "live-union_2nd-live-the-awakening_goods",
+        "singers": [
+          "HACHI",
+          "LIVE UNION",
+          "水瀬 凪",
+          "瀬戸乃とと",
+          "焔魔るり"
+        ],
+        "tags": [
+          "HACHI",
+          "LIVE UNION",
+          "NEW",
+          "RK Music",
+          "受注生産商品",
+          "在庫限り",
+          "水瀬 凪",
+          "瀬戸乃とと",
+          "焔魔るり"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/775b2f41ec15220c5f56ab600a55ad82.jpg?v=1779359739",
+        "url": "https://shop.reality-studios.inc/products/live-union_2nd-live-the-awakening_goods",
+        "published_at": "2026-05-25T18:00:06+09:00",
+        "updated_at": "2026-05-26T14:07:42+09:00",
+        "variants": [
+          {
+            "title": "Tシャツ（ブラック）Mサイズ",
+            "price": 5000,
+            "available": true
+          },
+          {
+            "title": "Tシャツ（ブラック）Lサイズ",
+            "price": 5000,
+            "available": true
+          },
+          {
+            "title": "Tシャツ（ブラック）XLサイズ",
+            "price": 5000,
+            "available": true
+          },
+          {
+            "title": "Tシャツ（ホワイト）Mサイズ",
+            "price": 5000,
+            "available": true
+          },
+          {
+            "title": "Tシャツ（ホワイト）Lサイズ",
+            "price": 5000,
+            "available": true
+          },
+          {
+            "title": "Tシャツ（ホワイト）XLサイズ",
+            "price": 5000,
+            "available": true
+          },
+          {
+            "title": "えるぬーぬいポーチ”LIVE UNION”Ver.",
+            "price": 3000,
+            "available": true
+          },
+          {
+            "title": "ラバーバンド",
+            "price": 800,
+            "available": true
+          },
+          {
+            "title": "ペンライト",
+            "price": 4500,
+            "available": true
+          },
+          {
+            "title": "ホログラムステッカー5枚セット",
+            "price": 1500,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド（焔魔るり）",
+            "price": 2000,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド（HACHI）",
+            "price": 2000,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド（瀬戸乃とと）",
+            "price": 2000,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド（水瀬 凪）",
+            "price": 2000,
+            "available": true
+          },
+          {
+            "title": "ランダムリングライト",
+            "price": 1000,
+            "available": true
+          },
+          {
+            "title": "リングライト4種セット",
+            "price": 4000,
+            "available": true
+          },
+          {
+            "title": "【Blu-ray】LIVE UNION 1st Live「Looking 4 The Sparkle!」",
+            "price": 6600,
+            "available": true
+          }
+        ]
+      }
+    ],
+    "removed_products": [],
+    "availability_changes": []
+  },
+  {
     "date": "2026-05-21T14:12:53.271315+09:00",
     "new_products": [
       {
