@@ -1,5 +1,71 @@
 [
   {
+    "date": "2026-05-27T14:22:00.725804+09:00",
+    "new_products": [],
+    "removed_products": [
+      {
+        "id": 9101580108002,
+        "title": "妃玖 DEBUT GOODS 2026",
+        "handle": "kisaki-debut-goods-2026",
+        "singers": [
+          "妃玖"
+        ],
+        "tags": [
+          "受注生産商品",
+          "妃玖",
+          "販売終了商品"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/SP_aa7d98df-3476-4839-aa4c-42554e2e1d48.png?v=1771504555",
+        "url": "https://shop.reality-studios.inc/products/kisaki-debut-goods-2026",
+        "published_at": "2026-02-22T21:10:04+09:00",
+        "updated_at": "2026-05-26T14:07:42+09:00",
+        "variants": [
+          {
+            "title": "妃玖 DEBUT GOODS 2026 コンプリートセット",
+            "price": 13300,
+            "available": false
+          },
+          {
+            "title": "妃玖 アクリルスタンド",
+            "price": 2000,
+            "available": false
+          },
+          {
+            "title": "妃玖 アクリルキーホルダー",
+            "price": 800,
+            "available": false
+          },
+          {
+            "title": "妃玖 缶バッジ(2種セット)",
+            "price": 1000,
+            "available": false
+          },
+          {
+            "title": "妃玖 ステッカーセット(5種)",
+            "price": 1500,
+            "available": false
+          },
+          {
+            "title": "妃玖 ポリ巾着ショルダー",
+            "price": 3500,
+            "available": false
+          },
+          {
+            "title": "妃玖 デスクマット",
+            "price": 4500,
+            "available": false
+          },
+          {
+            "title": "妃玖 トレーディングチェキ風カード[全5種ランダム]",
+            "price": 500,
+            "available": false
+          }
+        ]
+      }
+    ],
+    "availability_changes": []
+  },
+  {
     "date": "2026-05-26T14:07:42.175723+09:00",
     "new_products": [
       {
