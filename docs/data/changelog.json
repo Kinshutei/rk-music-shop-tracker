@@ -1,5 +1,76 @@
 [
   {
+    "date": "2026-05-28T14:13:24.452654+09:00",
+    "new_products": [
+      {
+        "id": 9204399735010,
+        "title": "VESPERBELL ＃VRF",
+        "handle": "vesperbell-vrf-goods",
+        "singers": [
+          "VESPERBELL",
+          "カスカ",
+          "ヨミ"
+        ],
+        "tags": [
+          "NEW",
+          "RK Music",
+          "VESPERBELL",
+          "カスカ",
+          "ヨミ",
+          "受注生産商品"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/2_b52f179a-539f-4d5d-b997-6071c995c84e.jpg?v=1779764968",
+        "url": "https://shop.reality-studios.inc/products/vesperbell-vrf-goods",
+        "published_at": "2026-05-27T18:00:05+09:00",
+        "updated_at": "2026-05-28T14:13:24+09:00",
+        "variants": [
+          {
+            "title": "#VRF ビッグシルエットTシャツ A（Lサイズ）",
+            "price": 7500,
+            "available": true
+          },
+          {
+            "title": "#VRF ビッグシルエットTシャツ A（XLサイズ）",
+            "price": 7500,
+            "available": true
+          },
+          {
+            "title": "#VRF ビッグシルエットTシャツ B（Lサイズ）",
+            "price": 7500,
+            "available": true
+          },
+          {
+            "title": "#VRF ビッグシルエットTシャツ B（XLサイズ）",
+            "price": 7500,
+            "available": true
+          },
+          {
+            "title": "#VRF フェイスタオル B",
+            "price": 3300,
+            "available": true
+          },
+          {
+            "title": "#VRF バングルライト",
+            "price": 2500,
+            "available": true
+          },
+          {
+            "title": "#VRF サコッシュ",
+            "price": 3500,
+            "available": true
+          },
+          {
+            "title": "#VRF ステッカーシート",
+            "price": 1000,
+            "available": true
+          }
+        ]
+      }
+    ],
+    "removed_products": [],
+    "availability_changes": []
+  },
+  {
     "date": "2026-05-27T14:22:00.725804+09:00",
     "new_products": [],
     "removed_products": [
