@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-05-30T13:55:22.767037+09:00",
+    "new_products": [],
+    "removed_products": [],
+    "availability_changes": [
+      {
+        "product_title": "Fused presents Label Live「OUT OF FRAME」",
+        "singers": [
+          "CONA",
+          "CULUA",
+          "Diα",
+          "妃玖"
+        ],
+        "variant": "Aurora Acryl Stand（Diα Ver.)",
+        "before": true,
+        "after": false
+      }
+    ]
+  },
+  {
     "date": "2026-05-28T14:13:24.452654+09:00",
     "new_products": [
       {
