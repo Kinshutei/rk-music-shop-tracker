@@ -1,5 +1,513 @@
 [
   {
+    "date": "2026-06-01T15:08:52.309039+09:00",
+    "new_products": [],
+    "removed_products": [],
+    "availability_changes": [
+      {
+        "product_title": "GREY MYTH 1st Anniversary Goods",
+        "singers": [
+          "LEWNE",
+          "深影",
+          "羽緒"
+        ],
+        "variant": "＜羽緒＞ コンプリートセット",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "GREY MYTH 1st Anniversary Goods",
+        "singers": [
+          "LEWNE",
+          "深影",
+          "羽緒"
+        ],
+        "variant": "＜羽緒＞ アクリルスタンド",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "GREY MYTH 1st Anniversary Goods",
+        "singers": [
+          "LEWNE",
+          "深影",
+          "羽緒"
+        ],
+        "variant": "＜羽緒＞ ティンケース&ステッカーセット（3枚入り）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "GREY MYTH 1st Anniversary Goods",
+        "singers": [
+          "LEWNE",
+          "深影",
+          "羽緒"
+        ],
+        "variant": "＜羽緒＞ ブロマイドセット（5種）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "GREY MYTH 1st Anniversary Goods",
+        "singers": [
+          "LEWNE",
+          "深影",
+          "羽緒"
+        ],
+        "variant": "＜羽緒＞ ブロマイドホルダー",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "GREY MYTH 1st Anniversary Goods",
+        "singers": [
+          "LEWNE",
+          "深影",
+          "羽緒"
+        ],
+        "variant": "＜羽緒＞ つながるアクリルキーホルダーセット（2種）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "GREY MYTH 1st Anniversary Goods",
+        "singers": [
+          "LEWNE",
+          "深影",
+          "羽緒"
+        ],
+        "variant": "＜深影＞ コンプリートセット",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "GREY MYTH 1st Anniversary Goods",
+        "singers": [
+          "LEWNE",
+          "深影",
+          "羽緒"
+        ],
+        "variant": "＜深影＞ アクリルスタンド",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "GREY MYTH 1st Anniversary Goods",
+        "singers": [
+          "LEWNE",
+          "深影",
+          "羽緒"
+        ],
+        "variant": "＜深影＞ ティンケース&ステッカーセット（3枚入り）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "GREY MYTH 1st Anniversary Goods",
+        "singers": [
+          "LEWNE",
+          "深影",
+          "羽緒"
+        ],
+        "variant": "＜深影＞ ブロマイドセット（5種）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "GREY MYTH 1st Anniversary Goods",
+        "singers": [
+          "LEWNE",
+          "深影",
+          "羽緒"
+        ],
+        "variant": "＜深影＞ ブロマイドホルダー",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "GREY MYTH 1st Anniversary Goods",
+        "singers": [
+          "LEWNE",
+          "深影",
+          "羽緒"
+        ],
+        "variant": "＜深影＞ つながるアクリルキーホルダーセット（2種）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "GREY MYTH 1st Anniversary Goods",
+        "singers": [
+          "LEWNE",
+          "深影",
+          "羽緒"
+        ],
+        "variant": "＜LEWNE＞ コンプリートセット",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "GREY MYTH 1st Anniversary Goods",
+        "singers": [
+          "LEWNE",
+          "深影",
+          "羽緒"
+        ],
+        "variant": "＜LEWNE＞ アクリルスタンド（LEWNE）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "GREY MYTH 1st Anniversary Goods",
+        "singers": [
+          "LEWNE",
+          "深影",
+          "羽緒"
+        ],
+        "variant": "＜LEWNE＞ ティンケース&ステッカーセット（3枚入り）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "GREY MYTH 1st Anniversary Goods",
+        "singers": [
+          "LEWNE",
+          "深影",
+          "羽緒"
+        ],
+        "variant": "＜LEWNE＞ ブロマイドセット（5種）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "GREY MYTH 1st Anniversary Goods",
+        "singers": [
+          "LEWNE",
+          "深影",
+          "羽緒"
+        ],
+        "variant": "＜LEWNE＞ ブロマイドホルダー",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "GREY MYTH 1st Anniversary Goods",
+        "singers": [
+          "LEWNE",
+          "深影",
+          "羽緒"
+        ],
+        "variant": "＜LEWNE＞つながるアクリルキーホルダーセット（2種）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "GREY MYTH 1st Anniversary Goods",
+        "singers": [
+          "LEWNE",
+          "深影",
+          "羽緒"
+        ],
+        "variant": "額装アート",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "NUROJUNK DEBUT GOODS2026",
+        "singers": [
+          "NUROJUNK",
+          "カグラ",
+          "サクヤ"
+        ],
+        "variant": "デビューグッズセット",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "NUROJUNK DEBUT GOODS2026",
+        "singers": [
+          "NUROJUNK",
+          "カグラ",
+          "サクヤ"
+        ],
+        "variant": "アクリルスタンド（カグラ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "NUROJUNK DEBUT GOODS2026",
+        "singers": [
+          "NUROJUNK",
+          "カグラ",
+          "サクヤ"
+        ],
+        "variant": "アクリルスタンド（サクヤ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "NUROJUNK DEBUT GOODS2026",
+        "singers": [
+          "NUROJUNK",
+          "カグラ",
+          "サクヤ"
+        ],
+        "variant": "ホログラムステッカーセット（2種）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "NUROJUNK DEBUT GOODS2026",
+        "singers": [
+          "NUROJUNK",
+          "カグラ",
+          "サクヤ"
+        ],
+        "variant": "ステンレストレイ",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "NUROJUNK DEBUT GOODS2026",
+        "singers": [
+          "NUROJUNK",
+          "カグラ",
+          "サクヤ"
+        ],
+        "variant": "ミラーアクリルキーホルダー",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "NUROJUNK DEBUT GOODS2026",
+        "singers": [
+          "NUROJUNK",
+          "カグラ",
+          "サクヤ"
+        ],
+        "variant": "ランダムチェキ風カード（全4種）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "NUROJUNK DEBUT GOODS2026",
+        "singers": [
+          "NUROJUNK",
+          "カグラ",
+          "サクヤ"
+        ],
+        "variant": "A4アクリルパネル",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "KMNZ 4th ONE-MAN LIVE「AREA111」Blu-ray",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "variant": "【Blu-ray】KMNZ 4th ONE-MAN LIVE「AREA111」",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "KMNZ 「3DOGS 2YEAR」",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "variant": "3DOGS 2YEAR GOODS SET（A：gray）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "KMNZ 「3DOGS 2YEAR」",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "variant": "3DOGS 2YEAR GOODS SET（B：navy）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "KMNZ 「3DOGS 2YEAR」",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "variant": "Sweat Set-Up Hoodie（Mサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "KMNZ 「3DOGS 2YEAR」",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "variant": "Sweat Set-Up Hoodie（Lサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "KMNZ 「3DOGS 2YEAR」",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "variant": "Sweat Set-Up Hoodie（XLサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "KMNZ 「3DOGS 2YEAR」",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "variant": "Sweat Set-Up Pants（Mサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "KMNZ 「3DOGS 2YEAR」",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "variant": "Sweat Set-Up Pants（Lサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "KMNZ 「3DOGS 2YEAR」",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "variant": "Sweat Set-Up Pants（XLサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "KMNZ 「3DOGS 2YEAR」",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "variant": "Acrylicstand（LITA）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "KMNZ 「3DOGS 2YEAR」",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "variant": "Acrylicstand（TINA）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "KMNZ 「3DOGS 2YEAR」",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "variant": "Acrylicstand（NERO）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "KMNZ 「3DOGS 2YEAR」",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "variant": "Umbrella Holder（A：gray）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "KMNZ 「3DOGS 2YEAR」",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "variant": "Umbrella Holder（B：navy）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "KMNZ 「3DOGS 2YEAR」",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "variant": "Clear Pouch",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "KMNZ 「3DOGS 2YEAR」",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "variant": "Carabiner Stainless Mug",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "KMNZ 「3DOGS 2YEAR」",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "variant": "Random CD Jacket Keychain（全9種）",
+        "before": true,
+        "after": false
+      }
+    ]
+  },
+  {
     "date": "2026-05-30T13:55:22.767037+09:00",
     "new_products": [],
     "removed_products": [],
