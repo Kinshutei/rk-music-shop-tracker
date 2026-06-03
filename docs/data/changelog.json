@@ -1,5 +1,150 @@
 [
   {
+    "date": "2026-06-03T15:08:14.431033+09:00",
+    "new_products": [
+      {
+        "id": 9207446896866,
+        "title": "CULUA×妃玖 TWO-MAN LIVE \"INVISIBLE STATE\"",
+        "handle": "culua-kisaki-two-man-live-invisiblestate",
+        "singers": [
+          "CULUA",
+          "妃玖"
+        ],
+        "tags": [
+          "CULUA",
+          "Fused",
+          "NEW",
+          "RK Music",
+          "ライブグッズ",
+          "在庫限り",
+          "妃玖"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/CULUA-__INVISIBLESTATE_EC_0520_2ol_02.png?v=1780291724",
+        "url": "https://shop.reality-studios.inc/products/culua-kisaki-two-man-live-invisiblestate",
+        "published_at": "2026-06-02T18:00:04+09:00",
+        "updated_at": "2026-06-03T15:08:14+09:00",
+        "variants": [
+          {
+            "title": "ビッグシルエットＴシャツ L",
+            "price": 7500,
+            "available": true
+          },
+          {
+            "title": "ビッグシルエットＴシャツ XL",
+            "price": 7500,
+            "available": true
+          },
+          {
+            "title": "フェイスタオル",
+            "price": 3300,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド（CULUA）",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド（妃玖）",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "アクリルキーホルダー",
+            "price": 1000,
+            "available": true
+          },
+          {
+            "title": "ステッカーセット（5種）",
+            "price": 1500,
+            "available": true
+          },
+          {
+            "title": "缶バッジセット（3種）",
+            "price": 1500,
+            "available": true
+          },
+          {
+            "title": "トートバッグ",
+            "price": 3300,
+            "available": true
+          },
+          {
+            "title": "レザートレイ",
+            "price": 3500,
+            "available": true
+          }
+        ]
+      },
+      {
+        "id": 9206398222562,
+        "title": "焔魔るり＆水瀬 凪「るりとなぎ-春のうたまつり-」",
+        "handle": "ruri-and-nagi_spring-song-festival-goods",
+        "singers": [
+          "LIVE UNION",
+          "水瀬 凪",
+          "焔魔るり"
+        ],
+        "tags": [
+          "LIVE UNION",
+          "NEW",
+          "ライブグッズ",
+          "在庫限り",
+          "水瀬 凪",
+          "焔魔るり"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/EC_0526_1ol_02.png?v=1780204046",
+        "url": "https://shop.reality-studios.inc/products/ruri-and-nagi_spring-song-festival-goods",
+        "published_at": "2026-06-02T18:00:04+09:00",
+        "updated_at": "2026-06-03T15:08:14+09:00",
+        "variants": [
+          {
+            "title": "Tシャツ（Lサイズ）",
+            "price": 5000,
+            "available": true
+          },
+          {
+            "title": "Tシャツ（XLサイズ）",
+            "price": 5000,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド（焔魔るり）",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド（水瀬 凪）",
+            "price": 2200,
+            "available": false
+          },
+          {
+            "title": "えるゆーぬいポーチ（焔魔るり）",
+            "price": 3000,
+            "available": true
+          },
+          {
+            "title": "えるゆーぬいポーチ（水瀬 凪）",
+            "price": 3000,
+            "available": true
+          },
+          {
+            "title": "バングルライト",
+            "price": 2500,
+            "available": true
+          },
+          {
+            "title": "ツーショットチェキ風カード2種セット",
+            "price": 1000,
+            "available": false
+          }
+        ]
+      }
+    ],
+    "removed_products": [],
+    "availability_changes": []
+  },
+  {
     "date": "2026-06-01T15:08:52.309039+09:00",
     "new_products": [],
     "removed_products": [],
