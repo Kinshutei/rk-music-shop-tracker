@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-06-04T15:00:11.833058+09:00",
+    "new_products": [],
+    "removed_products": [],
+    "availability_changes": [
+      {
+        "product_title": "CULUA×妃玖 TWO-MAN LIVE \"INVISIBLE STATE\"",
+        "singers": [
+          "CULUA",
+          "妃玖"
+        ],
+        "variant": "アクリルスタンド（CULUA）",
+        "before": true,
+        "after": false
+      }
+    ]
+  },
+  {
     "date": "2026-06-03T15:08:14.431033+09:00",
     "new_products": [
       {
