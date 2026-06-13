@@ -1,5 +1,128 @@
 [
   {
+    "date": "2026-06-13T14:23:54.833386+09:00",
+    "new_products": [
+      {
+        "id": 9215384387810,
+        "title": "HONK THE HORN × NUROJUNK 2MAN LIVE \"HOOLIGANS\"",
+        "handle": "honk-the-horn-nurojunk-2man-live-hooligans-goods",
+        "singers": [
+          "BAMBI",
+          "HONK THE HORN",
+          "MOCO",
+          "NUROJUNK",
+          "カグラ",
+          "サクヤ"
+        ],
+        "tags": [
+          "BAMBI",
+          "HONK THE HORN",
+          "MOCO",
+          "NEW",
+          "NUROJUNK",
+          "カグラ",
+          "サクヤ",
+          "ライブグッズ",
+          "受注生産商品",
+          "在庫限り"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/NJ-HTH_HOOLIGANS_EC_0522_2ol_02.png?v=1780479696",
+        "url": "https://shop.reality-studios.inc/products/honk-the-horn-nurojunk-2man-live-hooligans-goods",
+        "published_at": "2026-06-12T18:00:02+09:00",
+        "updated_at": "2026-06-13T14:23:54+09:00",
+        "variants": [
+          {
+            "title": "HTH Tシャツ（Lサイズ）",
+            "price": 7500,
+            "available": true
+          },
+          {
+            "title": "HTH Tシャツ（XLサイズ）",
+            "price": 7500,
+            "available": true
+          },
+          {
+            "title": "NJ Tシャツ（Lサイズ）",
+            "price": 7500,
+            "available": true
+          },
+          {
+            "title": "NJ Tシャツ（XLサイズ）",
+            "price": 7500,
+            "available": true
+          },
+          {
+            "title": "HOOLIGANS ナイロンジャケット（Lサイズ)",
+            "price": 15000,
+            "available": true
+          },
+          {
+            "title": "HOOLIGANS ナイロンジャケット（XLサイズ）",
+            "price": 15000,
+            "available": true
+          },
+          {
+            "title": "NJモデルバングルライト",
+            "price": 2500,
+            "available": true
+          },
+          {
+            "title": "HTH＆NJ アクリルキーホルダー（BAMBI）",
+            "price": 800,
+            "available": true
+          },
+          {
+            "title": "HTH＆NJ アクリルキーホルダー（MOCO）",
+            "price": 800,
+            "available": true
+          },
+          {
+            "title": "HTH＆NJ アクリルキーホルダー（KAGURA）",
+            "price": 800,
+            "available": true
+          },
+          {
+            "title": "HTH＆NJ アクリルキーホルダー（SAKUYA）",
+            "price": 800,
+            "available": true
+          },
+          {
+            "title": "HTH＆NJ ランダムステッカー（全6種）",
+            "price": 500,
+            "available": true
+          },
+          {
+            "title": "HOOLIGANS メンバーアクリルスタンド（BAMBI）",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "HOOLIGANS メンバーアクリルスタンド（MOCO）",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "HOOLIGANS メンバーアクリルスタンド（KAGURA）",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "HOOLIGANS メンバーアクリルスタンド（SAKUYA）",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "ランダム場面写ポストカード（全14種）",
+            "price": 500,
+            "available": true
+          }
+        ]
+      }
+    ],
+    "removed_products": [],
+    "availability_changes": []
+  },
+  {
     "date": "2026-06-04T15:00:11.833058+09:00",
     "new_products": [],
     "removed_products": [],
