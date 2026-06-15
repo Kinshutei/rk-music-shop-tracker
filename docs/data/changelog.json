@@ -1,5 +1,74 @@
 [
   {
+    "date": "2026-06-15T15:30:41.875392+09:00",
+    "new_products": [
+      {
+        "id": 9221234426082,
+        "title": "水瀬 凪 Birthday 2026",
+        "handle": "minasenagi-birthday-2026-goods",
+        "singers": [
+          "LIVE UNION",
+          "水瀬 凪"
+        ],
+        "tags": [
+          "LIVE UNION",
+          "NEW",
+          "RK Music",
+          "受注生産商品",
+          "水瀬 凪"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/BD2026_EC_0611_2ol_02.png?v=1781171563",
+        "url": "https://shop.reality-studios.inc/products/minasenagi-birthday-2026-goods",
+        "published_at": "2026-06-14T21:00:07+09:00",
+        "updated_at": "2026-06-15T15:30:41+09:00",
+        "variants": [
+          {
+            "title": "コンプリートセット（パーカーLサイズ）",
+            "price": 16900,
+            "available": true
+          },
+          {
+            "title": "コンプリートセット（パーカーXLサイズ）",
+            "price": 16900,
+            "available": true
+          },
+          {
+            "title": "パーカー（Lサイズ）",
+            "price": 9000,
+            "available": true
+          },
+          {
+            "title": "パーカー（XLサイズ）",
+            "price": 9000,
+            "available": true
+          },
+          {
+            "title": "チケット風アクリルキーホルダー",
+            "price": 1500,
+            "available": true
+          },
+          {
+            "title": "みなせいぬアクリルキーホルダー",
+            "price": 1500,
+            "available": true
+          },
+          {
+            "title": "アクリルジオラマ",
+            "price": 4000,
+            "available": true
+          },
+          {
+            "title": "ステッカーセット（3種）",
+            "price": 900,
+            "available": true
+          }
+        ]
+      }
+    ],
+    "removed_products": [],
+    "availability_changes": []
+  },
+  {
     "date": "2026-06-13T14:23:54.833386+09:00",
     "new_products": [
       {
