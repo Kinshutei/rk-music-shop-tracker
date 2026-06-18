@@ -1,5 +1,396 @@
 [
   {
+    "date": "2026-06-18T15:00:49.370524+09:00",
+    "new_products": [
+      {
+        "id": 9223510982882,
+        "title": "KMNZ KMNSUPPLY 2026 SUMMER",
+        "handle": "kmnz-kmnsupply-2026-summer",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "tags": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "NEW",
+          "RK Music",
+          "TINA",
+          "在庫限り"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/15_a82341c3-d4f8-4fc2-b0f8-3d4074e6815f.jpg?v=1781497203",
+        "url": "https://shop.reality-studios.inc/products/kmnz-kmnsupply-2026-summer",
+        "published_at": "2026-06-17T18:00:05+09:00",
+        "updated_at": "2026-06-18T15:00:49+09:00",
+        "variants": [
+          {
+            "title": "KMNMUG",
+            "price": 2500,
+            "available": true
+          },
+          {
+            "title": "KMNCAP",
+            "price": 5500,
+            "available": true
+          },
+          {
+            "title": "KMN STEP LADDER",
+            "price": 5500,
+            "available": true
+          },
+          {
+            "title": "KMN BIG BANDANA",
+            "price": 4500,
+            "available": true
+          },
+          {
+            "title": "KMN A3 RISOGRAPH POSTER",
+            "price": 2500,
+            "available": true
+          }
+        ]
+      },
+      {
+        "id": 9223510360290,
+        "title": "KMNZ 「KMN T」",
+        "handle": "kmnz-kmnsupply-kmn-t",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "tags": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "NEW",
+          "RK Music",
+          "TINA",
+          "在庫限り"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/8_6cecc4f2-b8af-4f39-b5bf-f1944733d108.jpg?v=1781497049",
+        "url": "https://shop.reality-studios.inc/products/kmnz-kmnsupply-kmn-t",
+        "published_at": "2026-06-17T18:00:04+09:00",
+        "updated_at": "2026-06-18T15:00:49+09:00",
+        "variants": [
+          {
+            "title": "KMN T（ホワイト/Mサイズ）",
+            "price": 4500,
+            "available": false
+          },
+          {
+            "title": "KMN T（ホワイト/Lサイズ）",
+            "price": 4500,
+            "available": false
+          },
+          {
+            "title": "KMN T（ホワイト/XLサイズ）",
+            "price": 4500,
+            "available": false
+          },
+          {
+            "title": "KMN T（ブラック/Mサイズ）",
+            "price": 4500,
+            "available": false
+          },
+          {
+            "title": "KMN T（ブラック/Lサイズ）",
+            "price": 4500,
+            "available": false
+          },
+          {
+            "title": "KMN T（ブラック/XLサイズ）",
+            "price": 4500,
+            "available": false
+          },
+          {
+            "title": "KMN T（チャコール/Mサイズ）",
+            "price": 4500,
+            "available": false
+          },
+          {
+            "title": "KMN T（チャコール/Lサイズ）",
+            "price": 4500,
+            "available": true
+          },
+          {
+            "title": "KMN T（チャコール/XLサイズ）",
+            "price": 4500,
+            "available": true
+          },
+          {
+            "title": "KMN T（アシッドブルー/Mサイズ）",
+            "price": 4500,
+            "available": false
+          },
+          {
+            "title": "KMN T（アシッドブルー/Lサイズ）",
+            "price": 4500,
+            "available": false
+          },
+          {
+            "title": "KMN T（アシッドブルー/XLサイズ）",
+            "price": 4500,
+            "available": false
+          },
+          {
+            "title": "KMN T（オレンジ/Mサイズ）",
+            "price": 4500,
+            "available": true
+          },
+          {
+            "title": "KMN T（オレンジ/Lサイズ）",
+            "price": 4500,
+            "available": true
+          },
+          {
+            "title": "KMN T（オレンジ/XLサイズ）",
+            "price": 4500,
+            "available": true
+          },
+          {
+            "title": "KMN T（ダークブラウン/Mサイズ）",
+            "price": 4500,
+            "available": true
+          },
+          {
+            "title": "KMN T（ダークブラウン/Lサイズ）",
+            "price": 4500,
+            "available": true
+          },
+          {
+            "title": "KMN T（ダークブラウン/XLサイズ）",
+            "price": 4500,
+            "available": true
+          },
+          {
+            "title": "KMN T（アイビーグリーン/Mサイズ）",
+            "price": 4500,
+            "available": true
+          },
+          {
+            "title": "KMN T（アイビーグリーン/Lサイズ）",
+            "price": 4500,
+            "available": true
+          },
+          {
+            "title": "KMN T（アイビーグリーン/XLサイズ）",
+            "price": 4500,
+            "available": true
+          }
+        ]
+      },
+      {
+        "id": 9223509541090,
+        "title": "KMNZ 「KMN HOODIE」",
+        "handle": "kmnz-kmnsupply-hoodie",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "tags": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "NEW",
+          "RK Music",
+          "TINA",
+          "在庫限り"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/1_ebab8006-3d55-4737-b644-fe33754f2ac9.jpg?v=1781496902",
+        "url": "https://shop.reality-studios.inc/products/kmnz-kmnsupply-hoodie",
+        "published_at": "2026-06-17T18:00:04+09:00",
+        "updated_at": "2026-06-18T15:00:49+09:00",
+        "variants": [
+          {
+            "title": "KMN HOODIE （ホワイト/Mサイズ）",
+            "price": 9000,
+            "available": true
+          },
+          {
+            "title": "KMN HOODIE （ホワイト/Lサイズ）",
+            "price": 9000,
+            "available": true
+          },
+          {
+            "title": "KMN HOODIE （ホワイト/XLサイズ）",
+            "price": 9000,
+            "available": true
+          },
+          {
+            "title": "KMN HOODIE （ブラック/Mサイズ）",
+            "price": 9000,
+            "available": true
+          },
+          {
+            "title": "KMN HOODIE （ブラック/Lサイズ）",
+            "price": 9000,
+            "available": false
+          },
+          {
+            "title": "KMN HOODIE （ブラック/XLサイズ）",
+            "price": 9000,
+            "available": true
+          },
+          {
+            "title": "KMN HOODIE （アッシュ/Mサイズ）",
+            "price": 9000,
+            "available": true
+          },
+          {
+            "title": "KMN HOODIE （アッシュ/Lサイズ）",
+            "price": 9000,
+            "available": true
+          },
+          {
+            "title": "KMN HOODIE （アッシュ/XLサイズ）",
+            "price": 9000,
+            "available": true
+          },
+          {
+            "title": "KMN HOODIE （オリーブ/Mサイズ）",
+            "price": 9000,
+            "available": true
+          },
+          {
+            "title": "KMN HOODIE （オリーブ/Lサイズ）",
+            "price": 9000,
+            "available": true
+          },
+          {
+            "title": "KMN HOODIE （オリーブ/XLサイズ）",
+            "price": 9000,
+            "available": true
+          },
+          {
+            "title": "KMN HOODIE （オレンジ/Mサイズ）",
+            "price": 9000,
+            "available": false
+          },
+          {
+            "title": "KMN HOODIE （オレンジ/Lサイズ）",
+            "price": 9000,
+            "available": false
+          },
+          {
+            "title": "KMN HOODIE （オレンジ/XLサイズ）",
+            "price": 9000,
+            "available": false
+          },
+          {
+            "title": "KMN HOODIE （バーガンディ/Mサイズ）",
+            "price": 9000,
+            "available": false
+          },
+          {
+            "title": "KMN HOODIE （バーガンディ/Lサイズ）",
+            "price": 9000,
+            "available": false
+          },
+          {
+            "title": "KMN HOODIE （バーガンディ/XLサイズ）",
+            "price": 9000,
+            "available": false
+          },
+          {
+            "title": "KMN HOODIE （アイビーグリーン/Mサイズ）",
+            "price": 9000,
+            "available": true
+          },
+          {
+            "title": "KMN HOODIE （アイビーグリーン/Lサイズ）",
+            "price": 9000,
+            "available": true
+          },
+          {
+            "title": "KMN HOODIE （アイビーグリーン/XLサイズ）",
+            "price": 9000,
+            "available": true
+          }
+        ]
+      },
+      {
+        "id": 9223509344482,
+        "title": "#FR2×KMNZ COLLABORATIONS",
+        "handle": "fr2-kmnz-collaborations",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "tags": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "NEW",
+          "RK Music",
+          "TINA",
+          "受注生産商品"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/20_af500aec-4064-4b0d-ab22-7beda6d5e83b.jpg?v=1781496493",
+        "url": "https://shop.reality-studios.inc/products/fr2-kmnz-collaborations",
+        "published_at": "2026-06-17T18:00:05+09:00",
+        "updated_at": "2026-06-18T15:00:49+09:00",
+        "variants": [
+          {
+            "title": "T-shirts White（Mサイズ）",
+            "price": 10000,
+            "available": true
+          },
+          {
+            "title": "T-shirts White（Lサイズ）",
+            "price": 10000,
+            "available": true
+          },
+          {
+            "title": "T-shirts White（XLサイズ）",
+            "price": 10000,
+            "available": true
+          },
+          {
+            "title": "T-shirts Black（Mサイズ）",
+            "price": 10000,
+            "available": true
+          },
+          {
+            "title": "T-shirts Black（Lサイズ）",
+            "price": 10000,
+            "available": true
+          },
+          {
+            "title": "T-shirts Black（XLサイズ）",
+            "price": 10000,
+            "available": true
+          },
+          {
+            "title": "Bucket Hat Black",
+            "price": 10000,
+            "available": true
+          },
+          {
+            "title": "Long Belt",
+            "price": 12000,
+            "available": true
+          },
+          {
+            "title": "Shoulder Bag",
+            "price": 17000,
+            "available": true
+          }
+        ]
+      }
+    ],
+    "removed_products": [],
+    "availability_changes": []
+  },
+  {
     "date": "2026-06-16T15:37:08.530601+09:00",
     "new_products": [
       {
