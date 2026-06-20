@@ -1,5 +1,95 @@
 [
   {
+    "date": "2026-06-20T14:21:01.537842+09:00",
+    "new_products": [
+      {
+        "id": 9221216567522,
+        "title": "CULUA 2nd EP「ECHINOPS」Release Goods",
+        "handle": "culua-2nd-ep-echinops-release-goods",
+        "singers": [
+          "CULUA"
+        ],
+        "tags": [
+          "CULUA",
+          "Fused",
+          "NEW",
+          "受注生産商品"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/CULUA__SP_062f9f42-21b0-4a17-a625-d07d1dc2085d.png?v=1781785990",
+        "url": "https://shop.reality-studios.inc/products/culua-2nd-ep-echinops-release-goods",
+        "published_at": "2026-06-19T21:00:08+09:00",
+        "updated_at": "2026-06-20T14:21:01+09:00",
+        "variants": [
+          {
+            "title": "ECHINOPS Set（Mサイズ）",
+            "price": 19500,
+            "available": true
+          },
+          {
+            "title": "ECHINOPS Set（Lサイズ）",
+            "price": 19500,
+            "available": true
+          },
+          {
+            "title": "ECHINOPS Set（XLサイズ）",
+            "price": 19500,
+            "available": true
+          },
+          {
+            "title": "T-shirts（Mサイズ）",
+            "price": 6500,
+            "available": true
+          },
+          {
+            "title": "T-shirts（Lサイズ）",
+            "price": 6500,
+            "available": true
+          },
+          {
+            "title": "T-shirts（XLサイズ）",
+            "price": 6500,
+            "available": true
+          },
+          {
+            "title": "Clear bottle",
+            "price": 4200,
+            "available": true
+          },
+          {
+            "title": "Bucket hat",
+            "price": 6500,
+            "available": true
+          },
+          {
+            "title": "Acrylic keychain",
+            "price": 800,
+            "available": true
+          },
+          {
+            "title": "Postcard set(5種)",
+            "price": 1500,
+            "available": true
+          }
+        ]
+      }
+    ],
+    "removed_products": [],
+    "availability_changes": [
+      {
+        "product_title": "#FR2×KMNZ COLLABORATIONS",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "variant": "Bucket Hat Black",
+        "before": true,
+        "after": false
+      }
+    ]
+  },
+  {
     "date": "2026-06-19T15:24:29.909703+09:00",
     "new_products": [],
     "removed_products": [],
