@@ -1,5 +1,36 @@
 [
   {
+    "date": "2026-06-21T15:08:54.807347+09:00",
+    "new_products": [],
+    "removed_products": [],
+    "availability_changes": [
+      {
+        "product_title": "KMNZ KMNSUPPLY 2026 SUMMER",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "variant": "KMN A3 RISOGRAPH POSTER",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "#FR2×KMNZ COLLABORATIONS",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "variant": "T-shirts White（Mサイズ）",
+        "before": true,
+        "after": false
+      }
+    ]
+  },
+  {
     "date": "2026-06-20T14:21:01.537842+09:00",
     "new_products": [
       {
