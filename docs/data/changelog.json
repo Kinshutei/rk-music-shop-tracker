@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-06-24T14:05:34.848372+09:00",
+    "new_products": [],
+    "removed_products": [],
+    "availability_changes": [
+      {
+        "product_title": "KMNZ 「KMN T」",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "variant": "KMN T（チャコール/Lサイズ）",
+        "before": true,
+        "after": false
+      }
+    ]
+  },
+  {
     "date": "2026-06-22T15:33:54.453335+09:00",
     "new_products": [],
     "removed_products": [],
