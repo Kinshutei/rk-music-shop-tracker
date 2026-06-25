@@ -1,5 +1,105 @@
 [
   {
+    "date": "2026-06-25T14:09:46.767633+09:00",
+    "new_products": [
+      {
+        "id": 9232694771938,
+        "title": "wouca Birthday 3D LIVE 2026",
+        "handle": "wouca-birthday-3dlive-2026",
+        "singers": [
+          "wouca"
+        ],
+        "tags": [
+          "NEW",
+          "RK Music",
+          "wouca",
+          "受注生産商品"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/1080x1080_banner.png?v=1782267412",
+        "url": "https://shop.reality-studios.inc/products/wouca-birthday-3dlive-2026",
+        "published_at": "2026-06-24T21:00:03+09:00",
+        "updated_at": "2026-06-25T14:09:46+09:00",
+        "variants": [
+          {
+            "title": "グッズセット（Tシャツ/Mサイズ）",
+            "price": 14300,
+            "available": true
+          },
+          {
+            "title": "グッズセット（Tシャツ/Lサイズ）",
+            "price": 14300,
+            "available": true
+          },
+          {
+            "title": "グッズセット（Tシャツ/XLサイズ）",
+            "price": 14300,
+            "available": true
+          },
+          {
+            "title": "Tシャツ（Mサイズ）",
+            "price": 7500,
+            "available": true
+          },
+          {
+            "title": "Tシャツ（Lサイズ）",
+            "price": 7500,
+            "available": true
+          },
+          {
+            "title": "Tシャツ（XLサイズ）",
+            "price": 7500,
+            "available": true
+          },
+          {
+            "title": "F4キャンバスボード",
+            "price": 6000,
+            "available": true
+          },
+          {
+            "title": "座れるアクリルスタンド",
+            "price": 2800,
+            "available": true
+          },
+          {
+            "title": "2連アクリルキーホルダー",
+            "price": 1500,
+            "available": true
+          },
+          {
+            "title": "ポストカードセット",
+            "price": 1500,
+            "available": true
+          },
+          {
+            "title": "ステッカー3種セット",
+            "price": 1000,
+            "available": true
+          },
+          {
+            "title": "ランダムフォト風カード（全5種）",
+            "price": 500,
+            "available": true
+          }
+        ]
+      }
+    ],
+    "removed_products": [],
+    "availability_changes": [
+      {
+        "product_title": "Fused presents Label Live「OUT OF FRAME」",
+        "singers": [
+          "CONA",
+          "CULUA",
+          "Diα",
+          "妃玖"
+        ],
+        "variant": "Changing Key Holder（CONA Ver.）",
+        "before": true,
+        "after": false
+      }
+    ]
+  },
+  {
     "date": "2026-06-24T14:05:34.848372+09:00",
     "new_products": [],
     "removed_products": [],
