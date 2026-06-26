@@ -1,5 +1,702 @@
 [
   {
+    "date": "2026-06-26T14:14:23.600738+09:00",
+    "new_products": [
+      {
+        "id": 9234323538146,
+        "title": "RK Music Fes.2026 【ランダムチェキ風カード 】",
+        "handle": "rk-music-fes-2026-chekicard",
+        "singers": [
+          "BAMBI",
+          "CONA",
+          "CULUA",
+          "Diα",
+          "HACHI",
+          "HONK THE HORN",
+          "IMI",
+          "KMNZ",
+          "LEWNE",
+          "LITA",
+          "LIVE UNION",
+          "MEDA",
+          "MOCO",
+          "NERO",
+          "NEUN",
+          "NUROJUNK",
+          "RK Music Fes.2026",
+          "TINA",
+          "VESPERBELL",
+          "wouca",
+          "XIDEN",
+          "カグラ",
+          "カスカ",
+          "サクヤ",
+          "ヨノ",
+          "ヨミ",
+          "妃玖",
+          "水瀬 凪",
+          "深影",
+          "瀬戸乃とと",
+          "焔魔るり",
+          "羽緒"
+        ],
+        "tags": [
+          "BAMBI",
+          "CONA",
+          "CULUA",
+          "Diα",
+          "HACHI",
+          "HONK THE HORN",
+          "IMI",
+          "KMNZ",
+          "LEWNE",
+          "LITA",
+          "LIVE UNION",
+          "MEDA",
+          "MOCO",
+          "NERO",
+          "NEUN",
+          "NEW",
+          "NUROJUNK",
+          "RK Music",
+          "RK Music Fes.2026",
+          "TINA",
+          "VESPERBELL",
+          "wouca",
+          "XIDEN",
+          "カグラ",
+          "カスカ",
+          "サクヤ",
+          "ヨノ",
+          "ヨミ",
+          "受注生産商品",
+          "妃玖",
+          "水瀬 凪",
+          "深影",
+          "瀬戸乃とと",
+          "焔魔るり",
+          "羽緒"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/SP_82cf7de4-1035-4857-90a0-708895b14c56.jpg?v=1782377409",
+        "url": "https://shop.reality-studios.inc/products/rk-music-fes-2026-chekicard",
+        "published_at": "2026-06-25T18:30:58+09:00",
+        "updated_at": "2026-06-26T14:14:23+09:00",
+        "variants": [
+          {
+            "title": "ランダムチェキ風カード A",
+            "price": 500,
+            "available": true
+          },
+          {
+            "title": "ランダムチェキ風カード B",
+            "price": 500,
+            "available": true
+          }
+        ]
+      },
+      {
+        "id": 9234259411170,
+        "title": "RK Music Fes.2026 【ペンライトフィルム（RKMFes.2026Ver.）】",
+        "handle": "rk-music-fes-2026-penlightfilm",
+        "singers": [
+          "BAMBI",
+          "CONA",
+          "CULUA",
+          "Diα",
+          "HACHI",
+          "HONK THE HORN",
+          "IMI",
+          "KMNZ",
+          "LEWNE",
+          "LITA",
+          "LIVE UNION",
+          "MEDA",
+          "MOCO",
+          "NERO",
+          "NEUN",
+          "NUROJUNK",
+          "RK Music Fes.2026",
+          "TINA",
+          "VESPERBELL",
+          "wouca",
+          "XIDEN",
+          "カグラ",
+          "カスカ",
+          "サクヤ",
+          "ヨノ",
+          "ヨミ",
+          "妃玖",
+          "水瀬 凪",
+          "深影",
+          "瀬戸乃とと",
+          "焔魔るり",
+          "羽緒"
+        ],
+        "tags": [
+          "BAMBI",
+          "CONA",
+          "CULUA",
+          "Diα",
+          "HACHI",
+          "HONK THE HORN",
+          "IMI",
+          "KMNZ",
+          "LEWNE",
+          "LITA",
+          "LIVE UNION",
+          "MEDA",
+          "MOCO",
+          "NERO",
+          "NEUN",
+          "NEW",
+          "NUROJUNK",
+          "RK Music",
+          "RK Music Fes.2026",
+          "TINA",
+          "VESPERBELL",
+          "wouca",
+          "XIDEN",
+          "カグラ",
+          "カスカ",
+          "サクヤ",
+          "ヨノ",
+          "ヨミ",
+          "受注生産商品",
+          "妃玖",
+          "水瀬 凪",
+          "深影",
+          "瀬戸乃とと",
+          "焔魔るり",
+          "羽緒"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/SP_2fdf1e01-74ac-4788-91ff-0f3be85e1aee.jpg?v=1782375357",
+        "url": "https://shop.reality-studios.inc/products/rk-music-fes-2026-penlightfilm",
+        "published_at": "2026-06-25T18:31:11+09:00",
+        "updated_at": "2026-06-26T14:14:23+09:00",
+        "variants": [
+          {
+            "title": "ペンライトフィルム(HACHI)",
+            "price": 1000,
+            "available": true
+          },
+          {
+            "title": "ペンライトフィルム(LITA)",
+            "price": 1000,
+            "available": true
+          },
+          {
+            "title": "ペンライトフィルム(NERO)",
+            "price": 1000,
+            "available": true
+          },
+          {
+            "title": "ペンライトフィルム(TINA)",
+            "price": 1000,
+            "available": true
+          },
+          {
+            "title": "ペンライトフィルム(カスカ)",
+            "price": 1000,
+            "available": true
+          },
+          {
+            "title": "ペンライトフィルム(ヨミ)",
+            "price": 1000,
+            "available": true
+          },
+          {
+            "title": "ペンライトフィルム(焔魔るり)",
+            "price": 1000,
+            "available": true
+          },
+          {
+            "title": "ペンライトフィルム(瀬戸乃とと)",
+            "price": 1000,
+            "available": true
+          },
+          {
+            "title": "ペンライトフィルム(水瀬凪)",
+            "price": 1000,
+            "available": true
+          },
+          {
+            "title": "ペンライトフィルム(MOCO)",
+            "price": 1000,
+            "available": true
+          },
+          {
+            "title": "ペンライトフィルム(BAMBI)",
+            "price": 1000,
+            "available": true
+          },
+          {
+            "title": "ペンライトフィルム(カグラ)",
+            "price": 1000,
+            "available": true
+          },
+          {
+            "title": "ペンライトフィルム(サクヤ)",
+            "price": 1000,
+            "available": true
+          },
+          {
+            "title": "ペンライトフィルム(MEDA)",
+            "price": 1000,
+            "available": true
+          },
+          {
+            "title": "ペンライトフィルム(NEUN)",
+            "price": 1000,
+            "available": true
+          },
+          {
+            "title": "ペンライトフィルム(IMI)",
+            "price": 1000,
+            "available": true
+          },
+          {
+            "title": "ペンライトフィルム(XIDEN)",
+            "price": 1000,
+            "available": true
+          },
+          {
+            "title": "ペンライトフィルム(ヨノ)",
+            "price": 1000,
+            "available": true
+          },
+          {
+            "title": "ペンライトフィルム(LEWNE)",
+            "price": 1000,
+            "available": true
+          },
+          {
+            "title": "ペンライトフィルム(羽緒)",
+            "price": 1000,
+            "available": true
+          },
+          {
+            "title": "ペンライトフィルム(深影)",
+            "price": 1000,
+            "available": true
+          },
+          {
+            "title": "ペンライトフィルム(wouca)",
+            "price": 1000,
+            "available": true
+          },
+          {
+            "title": "ペンライトフィルム(CULUA)",
+            "price": 1000,
+            "available": true
+          },
+          {
+            "title": "ペンライトフィルム(CONA)",
+            "price": 1000,
+            "available": true
+          },
+          {
+            "title": "ペンライトフィルム(妃玖)",
+            "price": 1000,
+            "available": true
+          },
+          {
+            "title": "ペンライトフィルム(Diα)",
+            "price": 1000,
+            "available": true
+          }
+        ]
+      },
+      {
+        "id": 9234221367522,
+        "title": "RK Music Fes.2026 【アクリルスタンド】",
+        "handle": "rk-music-fes-2026-acrylicstand",
+        "singers": [
+          "BAMBI",
+          "CONA",
+          "CULUA",
+          "Diα",
+          "HACHI",
+          "HONK THE HORN",
+          "IMI",
+          "KMNZ",
+          "LEWNE",
+          "LITA",
+          "LIVE UNION",
+          "MEDA",
+          "MOCO",
+          "NERO",
+          "NEUN",
+          "NUROJUNK",
+          "RK Music Fes.2026",
+          "TINA",
+          "VESPERBELL",
+          "wouca",
+          "XIDEN",
+          "カグラ",
+          "カスカ",
+          "サクヤ",
+          "ヨノ",
+          "ヨミ",
+          "妃玖",
+          "水瀬 凪",
+          "深影",
+          "瀬戸乃とと",
+          "焔魔るり",
+          "羽緒"
+        ],
+        "tags": [
+          "BAMBI",
+          "CONA",
+          "CULUA",
+          "Diα",
+          "HACHI",
+          "HONK THE HORN",
+          "IMI",
+          "KMNZ",
+          "LEWNE",
+          "LITA",
+          "LIVE UNION",
+          "MEDA",
+          "MOCO",
+          "NERO",
+          "NEUN",
+          "NEW",
+          "NUROJUNK",
+          "RK Music",
+          "RK Music Fes.2026",
+          "TINA",
+          "VESPERBELL",
+          "wouca",
+          "XIDEN",
+          "カグラ",
+          "カスカ",
+          "サクヤ",
+          "ヨノ",
+          "ヨミ",
+          "受注生産商品",
+          "妃玖",
+          "水瀬 凪",
+          "深影",
+          "瀬戸乃とと",
+          "焔魔るり",
+          "羽緒"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/SP_af3151f7-b524-4247-8e24-4ad6b4449e15.jpg?v=1782375408",
+        "url": "https://shop.reality-studios.inc/products/rk-music-fes-2026-acrylicstand",
+        "published_at": "2026-06-25T18:31:06+09:00",
+        "updated_at": "2026-06-26T14:14:23+09:00",
+        "variants": [
+          {
+            "title": "アクリルスタンド(HACHI)",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド(LITA)",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド(NERO)",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド(TINA)",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド(カスカ)",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド(ヨミ)",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド(焔魔るり)",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド(瀬戸乃とと)",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド(水瀬凪)",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド(MOCO)",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド(BAMBI)",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド(カグラ)",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド(サクヤ)",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド(MEDA)",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド(NEUN)",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド(IMI)",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド(XIDEN)",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド(ヨノ)",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド(LEWNE)",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド(羽緒)",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド(深影)",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド(wouca)",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド(CULUA)",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド(CONA)",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド(妃玖)",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド(Diα)",
+            "price": 2200,
+            "available": true
+          }
+        ]
+      },
+      {
+        "id": 9234186830050,
+        "title": "RK Music Fes.2026",
+        "handle": "rk-music-fes-2026-goods",
+        "singers": [
+          "BAMBI",
+          "CONA",
+          "CULUA",
+          "Diα",
+          "HACHI",
+          "HONK THE HORN",
+          "IMI",
+          "KMNZ",
+          "LEWNE",
+          "LITA",
+          "LIVE UNION",
+          "MEDA",
+          "MOCO",
+          "NERO",
+          "NEUN",
+          "NUROJUNK",
+          "RK Music Fes.2026",
+          "TINA",
+          "VESPERBELL",
+          "wouca",
+          "XIDEN",
+          "カグラ",
+          "カスカ",
+          "サクヤ",
+          "ヨノ",
+          "ヨミ",
+          "妃玖",
+          "水瀬 凪",
+          "深影",
+          "瀬戸乃とと",
+          "焔魔るり",
+          "羽緒"
+        ],
+        "tags": [
+          "BAMBI",
+          "CONA",
+          "CULUA",
+          "Diα",
+          "HACHI",
+          "HONK THE HORN",
+          "IMI",
+          "KMNZ",
+          "LEWNE",
+          "LITA",
+          "LIVE UNION",
+          "MEDA",
+          "MOCO",
+          "NERO",
+          "NEUN",
+          "NEW",
+          "NUROJUNK",
+          "RK Music",
+          "RK Music Fes.2026",
+          "TINA",
+          "VESPERBELL",
+          "wouca",
+          "XIDEN",
+          "カグラ",
+          "カスカ",
+          "サクヤ",
+          "ヨノ",
+          "ヨミ",
+          "在庫限り",
+          "妃玖",
+          "水瀬 凪",
+          "深影",
+          "瀬戸乃とと",
+          "焔魔るり",
+          "羽緒"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/OfficialGoods_SP.jpg?v=1782375324",
+        "url": "https://shop.reality-studios.inc/products/rk-music-fes-2026-goods",
+        "published_at": "2026-06-25T18:31:15+09:00",
+        "updated_at": "2026-06-26T14:14:23+09:00",
+        "variants": [
+          {
+            "title": "ビッグシルエットTシャツ A（L）",
+            "price": 7500,
+            "available": true
+          },
+          {
+            "title": "ビッグシルエットTシャツ A（XL）",
+            "price": 7500,
+            "available": true
+          },
+          {
+            "title": "ビッグシルエットTシャツ B（XL）",
+            "price": 7500,
+            "available": true
+          },
+          {
+            "title": "フェイスタオル A",
+            "price": 3300,
+            "available": true
+          },
+          {
+            "title": "フェイスタオル B",
+            "price": 3300,
+            "available": true
+          },
+          {
+            "title": "ラバーバンド（RKMFes.2026Ver.）",
+            "price": 1500,
+            "available": true
+          },
+          {
+            "title": "ペンライト（RKMFes.2026Ver.）",
+            "price": 4500,
+            "available": true
+          },
+          {
+            "title": "F4キャンバスボード",
+            "price": 6000,
+            "available": true
+          },
+          {
+            "title": "ロゴアクリルキーホルダー",
+            "price": 800,
+            "available": true
+          },
+          {
+            "title": "ランダムステッカーセット（5枚入り）",
+            "price": 1500,
+            "available": true
+          },
+          {
+            "title": "ランダムラバーキーホルダー A",
+            "price": 1500,
+            "available": true
+          },
+          {
+            "title": "ランダムラバーキーホルダー B",
+            "price": 1500,
+            "available": true
+          },
+          {
+            "title": "ランダムメタリック缶バッジ A",
+            "price": 700,
+            "available": true
+          },
+          {
+            "title": "ランダムメタリック缶バッジ B",
+            "price": 700,
+            "available": true
+          }
+        ]
+      }
+    ],
+    "removed_products": [],
+    "availability_changes": [
+      {
+        "product_title": "KMNZ 「KMN HOODIE」",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "variant": "KMN HOODIE （アッシュ/Lサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "MEDA 4th ONE-MAN LIVE \"SOULNOVA\"",
+        "singers": [
+          "MEDA"
+        ],
+        "variant": "アクリルキーホルダー",
+        "before": true,
+        "after": false
+      }
+    ]
+  },
+  {
     "date": "2026-06-25T14:09:46.767633+09:00",
     "new_products": [
       {
