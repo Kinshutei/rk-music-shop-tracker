@@ -1,5 +1,61 @@
 [
   {
+    "date": "2026-06-27T13:57:03.524671+09:00",
+    "new_products": [],
+    "removed_products": [],
+    "availability_changes": [
+      {
+        "product_title": "KMNZ 「KMN HOODIE」",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "variant": "KMN HOODIE （アッシュ/XLサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "#FR2×KMNZ COLLABORATIONS",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "variant": "T-shirts Black（Mサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "#FR2×KMNZ COLLABORATIONS",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "variant": "T-shirts Black（Lサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "LIVE UNION 2nd Live \"The Awakening\"",
+        "singers": [
+          "HACHI",
+          "LIVE UNION",
+          "水瀬 凪",
+          "瀬戸乃とと",
+          "焔魔るり"
+        ],
+        "variant": "Tシャツ（ホワイト）XLサイズ",
+        "before": true,
+        "after": false
+      }
+    ]
+  },
+  {
     "date": "2026-06-26T14:14:23.600738+09:00",
     "new_products": [
       {
