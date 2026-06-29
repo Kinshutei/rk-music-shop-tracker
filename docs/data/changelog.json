@@ -1,5 +1,78 @@
 [
   {
+    "date": "2026-06-29T14:55:58.723734+09:00",
+    "new_products": [],
+    "removed_products": [],
+    "availability_changes": [
+      {
+        "product_title": "RK Music Fes.2026",
+        "singers": [
+          "BAMBI",
+          "CONA",
+          "CULUA",
+          "Diα",
+          "HACHI",
+          "HONK THE HORN",
+          "IMI",
+          "KMNZ",
+          "LEWNE",
+          "LITA",
+          "LIVE UNION",
+          "MEDA",
+          "MOCO",
+          "NERO",
+          "NEUN",
+          "NUROJUNK",
+          "RK Music Fes.2026",
+          "TINA",
+          "VESPERBELL",
+          "wouca",
+          "XIDEN",
+          "カグラ",
+          "カスカ",
+          "サクヤ",
+          "ヨノ",
+          "ヨミ",
+          "妃玖",
+          "水瀬 凪",
+          "深影",
+          "瀬戸乃とと",
+          "焔魔るり",
+          "羽緒"
+        ],
+        "variant": "ランダムメタリック缶バッジ A",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "#FR2×KMNZ COLLABORATIONS",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "variant": "T-shirts White（Lサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "HONK THE HORN × NUROJUNK 2MAN LIVE \"HOOLIGANS\"",
+        "singers": [
+          "BAMBI",
+          "HONK THE HORN",
+          "MOCO",
+          "NUROJUNK",
+          "カグラ",
+          "サクヤ"
+        ],
+        "variant": "NJモデルバングルライト",
+        "before": true,
+        "after": false
+      }
+    ]
+  },
+  {
     "date": "2026-06-27T13:57:03.524671+09:00",
     "new_products": [],
     "removed_products": [],
