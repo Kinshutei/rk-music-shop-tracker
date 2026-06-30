@@ -1,5 +1,57 @@
 [
   {
+    "date": "2026-06-30T14:10:27.169420+09:00",
+    "new_products": [],
+    "removed_products": [],
+    "availability_changes": [
+      {
+        "product_title": "KMNZ 「KMN T」",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "variant": "KMN T（チャコール/XLサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "KMNZ 「KMN HOODIE」",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "variant": "KMN HOODIE （ホワイト/Lサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "#FR2×KMNZ COLLABORATIONS",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "variant": "T-shirts White（XLサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "LEWNE 1st ONE-MAN LIVE \"Figment\"",
+        "singers": [
+          "LEWNE"
+        ],
+        "variant": "ペンライトフィルム",
+        "before": true,
+        "after": false
+      }
+    ]
+  },
+  {
     "date": "2026-06-29T14:55:58.723734+09:00",
     "new_products": [],
     "removed_products": [],
