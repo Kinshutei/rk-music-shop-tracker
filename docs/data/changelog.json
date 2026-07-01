@@ -1,5 +1,808 @@
 [
   {
+    "date": "2026-07-01T14:45:00.576414+09:00",
+    "new_products": [],
+    "removed_products": [],
+    "availability_changes": [
+      {
+        "product_title": "KMNZ KMNSUPPLY 2026 SUMMER",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "variant": "KMNMUG",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "HACHI Splash Summer!!! 2026",
+        "singers": [
+          "HACHI",
+          "LIVE UNION"
+        ],
+        "variant": "グッズセット（TシャツA/Mサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "HACHI Splash Summer!!! 2026",
+        "singers": [
+          "HACHI",
+          "LIVE UNION"
+        ],
+        "variant": "グッズセット（TシャツA/Lサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "HACHI Splash Summer!!! 2026",
+        "singers": [
+          "HACHI",
+          "LIVE UNION"
+        ],
+        "variant": "グッズセット（TシャツA/XLサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "HACHI Splash Summer!!! 2026",
+        "singers": [
+          "HACHI",
+          "LIVE UNION"
+        ],
+        "variant": "グッズセット（TシャツB/Mサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "HACHI Splash Summer!!! 2026",
+        "singers": [
+          "HACHI",
+          "LIVE UNION"
+        ],
+        "variant": "グッズセット（TシャツB/Lサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "HACHI Splash Summer!!! 2026",
+        "singers": [
+          "HACHI",
+          "LIVE UNION"
+        ],
+        "variant": "グッズセット（TシャツB/XLサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "HACHI Splash Summer!!! 2026",
+        "singers": [
+          "HACHI",
+          "LIVE UNION"
+        ],
+        "variant": "TシャツA Mサイズ",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "HACHI Splash Summer!!! 2026",
+        "singers": [
+          "HACHI",
+          "LIVE UNION"
+        ],
+        "variant": "TシャツA Lサイズ",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "HACHI Splash Summer!!! 2026",
+        "singers": [
+          "HACHI",
+          "LIVE UNION"
+        ],
+        "variant": "TシャツA XLサイズ",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "HACHI Splash Summer!!! 2026",
+        "singers": [
+          "HACHI",
+          "LIVE UNION"
+        ],
+        "variant": "TシャツB Mサイズ",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "HACHI Splash Summer!!! 2026",
+        "singers": [
+          "HACHI",
+          "LIVE UNION"
+        ],
+        "variant": "TシャツB Lサイズ",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "HACHI Splash Summer!!! 2026",
+        "singers": [
+          "HACHI",
+          "LIVE UNION"
+        ],
+        "variant": "TシャツB XLサイズ",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "HACHI Splash Summer!!! 2026",
+        "singers": [
+          "HACHI",
+          "LIVE UNION"
+        ],
+        "variant": "キャップ",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "HACHI Splash Summer!!! 2026",
+        "singers": [
+          "HACHI",
+          "LIVE UNION"
+        ],
+        "variant": "アクリルスタンド",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "HACHI Splash Summer!!! 2026",
+        "singers": [
+          "HACHI",
+          "LIVE UNION"
+        ],
+        "variant": "F4キャンバスボード",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "HACHI Splash Summer!!! 2026",
+        "singers": [
+          "HACHI",
+          "LIVE UNION"
+        ],
+        "variant": "アクリルキーホルダーA",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "HACHI Splash Summer!!! 2026",
+        "singers": [
+          "HACHI",
+          "LIVE UNION"
+        ],
+        "variant": "アクリルキーホルダーB",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "HACHI Splash Summer!!! 2026",
+        "singers": [
+          "HACHI",
+          "LIVE UNION"
+        ],
+        "variant": "ランダムステッカー（全3種）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "HACHI Splash Summer!!! 2026",
+        "singers": [
+          "HACHI",
+          "LIVE UNION"
+        ],
+        "variant": "フロストボトル",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "HACHI Splash Summer!!! 2026",
+        "singers": [
+          "HACHI",
+          "LIVE UNION"
+        ],
+        "variant": "バスタオル",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "HACHI Splash Summer!!! 2026",
+        "singers": [
+          "HACHI",
+          "LIVE UNION"
+        ],
+        "variant": "ジップパーカー Mサイズ",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "HACHI Splash Summer!!! 2026",
+        "singers": [
+          "HACHI",
+          "LIVE UNION"
+        ],
+        "variant": "ジップパーカー Lサイズ",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "HACHI Splash Summer!!! 2026",
+        "singers": [
+          "HACHI",
+          "LIVE UNION"
+        ],
+        "variant": "ジップパーカー XLサイズ",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "HACHI Splash Summer!!! 2026",
+        "singers": [
+          "HACHI",
+          "LIVE UNION"
+        ],
+        "variant": "ショートパンツ Mサイズ",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "HACHI Splash Summer!!! 2026",
+        "singers": [
+          "HACHI",
+          "LIVE UNION"
+        ],
+        "variant": "ショートパンツ Lサイズ",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "HACHI Splash Summer!!! 2026",
+        "singers": [
+          "HACHI",
+          "LIVE UNION"
+        ],
+        "variant": "ショートパンツ XLサイズ",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "水瀬 凪 Birthday 2026",
+        "singers": [
+          "LIVE UNION",
+          "水瀬 凪"
+        ],
+        "variant": "コンプリートセット（パーカーLサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "水瀬 凪 Birthday 2026",
+        "singers": [
+          "LIVE UNION",
+          "水瀬 凪"
+        ],
+        "variant": "コンプリートセット（パーカーXLサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "水瀬 凪 Birthday 2026",
+        "singers": [
+          "LIVE UNION",
+          "水瀬 凪"
+        ],
+        "variant": "パーカー（Lサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "水瀬 凪 Birthday 2026",
+        "singers": [
+          "LIVE UNION",
+          "水瀬 凪"
+        ],
+        "variant": "パーカー（XLサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "水瀬 凪 Birthday 2026",
+        "singers": [
+          "LIVE UNION",
+          "水瀬 凪"
+        ],
+        "variant": "チケット風アクリルキーホルダー",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "水瀬 凪 Birthday 2026",
+        "singers": [
+          "LIVE UNION",
+          "水瀬 凪"
+        ],
+        "variant": "みなせいぬアクリルキーホルダー",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "水瀬 凪 Birthday 2026",
+        "singers": [
+          "LIVE UNION",
+          "水瀬 凪"
+        ],
+        "variant": "アクリルジオラマ",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "水瀬 凪 Birthday 2026",
+        "singers": [
+          "LIVE UNION",
+          "水瀬 凪"
+        ],
+        "variant": "ステッカーセット（3種）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "VESPERBELL SUMMER COLLCECTION 2026",
+        "singers": [
+          "VESPERBELL",
+          "カスカ",
+          "ヨミ"
+        ],
+        "variant": "グッズセット（ナイロンショーツ/ネイビーMサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "VESPERBELL SUMMER COLLCECTION 2026",
+        "singers": [
+          "VESPERBELL",
+          "カスカ",
+          "ヨミ"
+        ],
+        "variant": "グッズセット（ナイロンショーツ/ネイビーLサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "VESPERBELL SUMMER COLLCECTION 2026",
+        "singers": [
+          "VESPERBELL",
+          "カスカ",
+          "ヨミ"
+        ],
+        "variant": "グッズセット（ナイロンショーツ/ネイビーXLサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "VESPERBELL SUMMER COLLCECTION 2026",
+        "singers": [
+          "VESPERBELL",
+          "カスカ",
+          "ヨミ"
+        ],
+        "variant": "グッズセット（ナイロンショーツ/オレンジMサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "VESPERBELL SUMMER COLLCECTION 2026",
+        "singers": [
+          "VESPERBELL",
+          "カスカ",
+          "ヨミ"
+        ],
+        "variant": "グッズセット（ナイロンショーツ/オレンジLサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "VESPERBELL SUMMER COLLCECTION 2026",
+        "singers": [
+          "VESPERBELL",
+          "カスカ",
+          "ヨミ"
+        ],
+        "variant": "グッズセット（ナイロンショーツ/オレンジXLサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "VESPERBELL SUMMER COLLCECTION 2026",
+        "singers": [
+          "VESPERBELL",
+          "カスカ",
+          "ヨミ"
+        ],
+        "variant": "ナイロンショーツ（ネイビー）Mサイズ",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "VESPERBELL SUMMER COLLCECTION 2026",
+        "singers": [
+          "VESPERBELL",
+          "カスカ",
+          "ヨミ"
+        ],
+        "variant": "ナイロンショーツ（ネイビー）Lサイズ",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "VESPERBELL SUMMER COLLCECTION 2026",
+        "singers": [
+          "VESPERBELL",
+          "カスカ",
+          "ヨミ"
+        ],
+        "variant": "ナイロンショーツ（ネイビー）XLサイズ",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "VESPERBELL SUMMER COLLCECTION 2026",
+        "singers": [
+          "VESPERBELL",
+          "カスカ",
+          "ヨミ"
+        ],
+        "variant": "ナイロンショーツ（オレンジ）Mサイズ",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "VESPERBELL SUMMER COLLCECTION 2026",
+        "singers": [
+          "VESPERBELL",
+          "カスカ",
+          "ヨミ"
+        ],
+        "variant": "ナイロンショーツ（オレンジ）Lサイズ",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "VESPERBELL SUMMER COLLCECTION 2026",
+        "singers": [
+          "VESPERBELL",
+          "カスカ",
+          "ヨミ"
+        ],
+        "variant": "ナイロンショーツ（オレンジ）XLサイズ",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "VESPERBELL SUMMER COLLCECTION 2026",
+        "singers": [
+          "VESPERBELL",
+          "カスカ",
+          "ヨミ"
+        ],
+        "variant": "メッシュバッグ",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "VESPERBELL SUMMER COLLCECTION 2026",
+        "singers": [
+          "VESPERBELL",
+          "カスカ",
+          "ヨミ"
+        ],
+        "variant": "メッシュポーチ",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "VESPERBELL SUMMER COLLCECTION 2026",
+        "singers": [
+          "VESPERBELL",
+          "カスカ",
+          "ヨミ"
+        ],
+        "variant": "メッシュキャップ",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "VESPERBELL SUMMER COLLCECTION 2026",
+        "singers": [
+          "VESPERBELL",
+          "カスカ",
+          "ヨミ"
+        ],
+        "variant": "アクリルスタンド（ヨミ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "VESPERBELL SUMMER COLLCECTION 2026",
+        "singers": [
+          "VESPERBELL",
+          "カスカ",
+          "ヨミ"
+        ],
+        "variant": "アクリルスタンド（カスカ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "VESPERBELL SUMMER COLLCECTION 2026",
+        "singers": [
+          "VESPERBELL",
+          "カスカ",
+          "ヨミ"
+        ],
+        "variant": "ランダムステッカー（全5種）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "VESPERBELL SUMMER COLLCECTION 2026",
+        "singers": [
+          "VESPERBELL",
+          "カスカ",
+          "ヨミ"
+        ],
+        "variant": "【Blu-ray】VESPERBELL 3rd ONE-MAN LIVE「BEYOND」",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "HONK THE HORN × NUROJUNK 2MAN LIVE \"HOOLIGANS\"",
+        "singers": [
+          "BAMBI",
+          "HONK THE HORN",
+          "MOCO",
+          "NUROJUNK",
+          "カグラ",
+          "サクヤ"
+        ],
+        "variant": "HTH Tシャツ（Lサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "HONK THE HORN × NUROJUNK 2MAN LIVE \"HOOLIGANS\"",
+        "singers": [
+          "BAMBI",
+          "HONK THE HORN",
+          "MOCO",
+          "NUROJUNK",
+          "カグラ",
+          "サクヤ"
+        ],
+        "variant": "HTH Tシャツ（XLサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "HONK THE HORN × NUROJUNK 2MAN LIVE \"HOOLIGANS\"",
+        "singers": [
+          "BAMBI",
+          "HONK THE HORN",
+          "MOCO",
+          "NUROJUNK",
+          "カグラ",
+          "サクヤ"
+        ],
+        "variant": "NJ Tシャツ（Lサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "HONK THE HORN × NUROJUNK 2MAN LIVE \"HOOLIGANS\"",
+        "singers": [
+          "BAMBI",
+          "HONK THE HORN",
+          "MOCO",
+          "NUROJUNK",
+          "カグラ",
+          "サクヤ"
+        ],
+        "variant": "NJ Tシャツ（XLサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "HONK THE HORN × NUROJUNK 2MAN LIVE \"HOOLIGANS\"",
+        "singers": [
+          "BAMBI",
+          "HONK THE HORN",
+          "MOCO",
+          "NUROJUNK",
+          "カグラ",
+          "サクヤ"
+        ],
+        "variant": "HOOLIGANS ナイロンジャケット（Lサイズ)",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "HONK THE HORN × NUROJUNK 2MAN LIVE \"HOOLIGANS\"",
+        "singers": [
+          "BAMBI",
+          "HONK THE HORN",
+          "MOCO",
+          "NUROJUNK",
+          "カグラ",
+          "サクヤ"
+        ],
+        "variant": "HOOLIGANS ナイロンジャケット（XLサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "HONK THE HORN × NUROJUNK 2MAN LIVE \"HOOLIGANS\"",
+        "singers": [
+          "BAMBI",
+          "HONK THE HORN",
+          "MOCO",
+          "NUROJUNK",
+          "カグラ",
+          "サクヤ"
+        ],
+        "variant": "HTH＆NJ アクリルキーホルダー（BAMBI）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "HONK THE HORN × NUROJUNK 2MAN LIVE \"HOOLIGANS\"",
+        "singers": [
+          "BAMBI",
+          "HONK THE HORN",
+          "MOCO",
+          "NUROJUNK",
+          "カグラ",
+          "サクヤ"
+        ],
+        "variant": "HTH＆NJ アクリルキーホルダー（MOCO）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "HONK THE HORN × NUROJUNK 2MAN LIVE \"HOOLIGANS\"",
+        "singers": [
+          "BAMBI",
+          "HONK THE HORN",
+          "MOCO",
+          "NUROJUNK",
+          "カグラ",
+          "サクヤ"
+        ],
+        "variant": "HTH＆NJ アクリルキーホルダー（KAGURA）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "HONK THE HORN × NUROJUNK 2MAN LIVE \"HOOLIGANS\"",
+        "singers": [
+          "BAMBI",
+          "HONK THE HORN",
+          "MOCO",
+          "NUROJUNK",
+          "カグラ",
+          "サクヤ"
+        ],
+        "variant": "HTH＆NJ アクリルキーホルダー（SAKUYA）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "HONK THE HORN × NUROJUNK 2MAN LIVE \"HOOLIGANS\"",
+        "singers": [
+          "BAMBI",
+          "HONK THE HORN",
+          "MOCO",
+          "NUROJUNK",
+          "カグラ",
+          "サクヤ"
+        ],
+        "variant": "HTH＆NJ ランダムステッカー（全6種）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "HONK THE HORN × NUROJUNK 2MAN LIVE \"HOOLIGANS\"",
+        "singers": [
+          "BAMBI",
+          "HONK THE HORN",
+          "MOCO",
+          "NUROJUNK",
+          "カグラ",
+          "サクヤ"
+        ],
+        "variant": "HOOLIGANS メンバーアクリルスタンド（BAMBI）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "HONK THE HORN × NUROJUNK 2MAN LIVE \"HOOLIGANS\"",
+        "singers": [
+          "BAMBI",
+          "HONK THE HORN",
+          "MOCO",
+          "NUROJUNK",
+          "カグラ",
+          "サクヤ"
+        ],
+        "variant": "HOOLIGANS メンバーアクリルスタンド（MOCO）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "HONK THE HORN × NUROJUNK 2MAN LIVE \"HOOLIGANS\"",
+        "singers": [
+          "BAMBI",
+          "HONK THE HORN",
+          "MOCO",
+          "NUROJUNK",
+          "カグラ",
+          "サクヤ"
+        ],
+        "variant": "HOOLIGANS メンバーアクリルスタンド（KAGURA）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "HONK THE HORN × NUROJUNK 2MAN LIVE \"HOOLIGANS\"",
+        "singers": [
+          "BAMBI",
+          "HONK THE HORN",
+          "MOCO",
+          "NUROJUNK",
+          "カグラ",
+          "サクヤ"
+        ],
+        "variant": "HOOLIGANS メンバーアクリルスタンド（SAKUYA）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "HONK THE HORN × NUROJUNK 2MAN LIVE \"HOOLIGANS\"",
+        "singers": [
+          "BAMBI",
+          "HONK THE HORN",
+          "MOCO",
+          "NUROJUNK",
+          "カグラ",
+          "サクヤ"
+        ],
+        "variant": "ランダム場面写ポストカード（全14種）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "焔魔るり＆水瀬 凪「るりとなぎ-春のうたまつり-」",
+        "singers": [
+          "LIVE UNION",
+          "水瀬 凪",
+          "焔魔るり"
+        ],
+        "variant": "アクリルスタンド（焔魔るり）",
+        "before": true,
+        "after": false
+      }
+    ]
+  },
+  {
     "date": "2026-06-30T14:10:27.169420+09:00",
     "new_products": [],
     "removed_products": [],
