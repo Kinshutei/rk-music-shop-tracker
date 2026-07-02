@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-07-02T14:03:09.875543+09:00",
+    "new_products": [],
+    "removed_products": [],
+    "availability_changes": [
+      {
+        "product_title": "KMNZ 「KMN HOODIE」",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "variant": "KMN HOODIE （ブラック/XLサイズ）",
+        "before": true,
+        "after": false
+      }
+    ]
+  },
+  {
     "date": "2026-07-01T14:45:00.576414+09:00",
     "new_products": [],
     "removed_products": [],
