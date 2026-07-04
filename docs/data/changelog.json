@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-07-04T13:39:57.820674+09:00",
+    "new_products": [
+      {
+        "id": 9236708262114,
+        "title": "【KMNZ】Single CD「Cont’d」",
+        "handle": "kmnz-single-cd-contd",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "tags": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "NEW",
+          "RK Music",
+          "TINA",
+          "受注生産商品"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/seihokei_ac45ceef-d135-4516-a4c5-e743e90ae750.jpg?v=1782709577",
+        "url": "https://shop.reality-studios.inc/products/kmnz-single-cd-contd",
+        "published_at": "2026-07-03T18:00:05+09:00",
+        "updated_at": "2026-07-04T13:39:57+09:00",
+        "variants": [
+          {
+            "title": "【KMNZ】Single CD「Cont’d」",
+            "price": 3000,
+            "available": true
+          }
+        ]
+      }
+    ],
+    "removed_products": [],
+    "availability_changes": []
+  },
+  {
     "date": "2026-07-02T14:03:09.875543+09:00",
     "new_products": [],
     "removed_products": [],
