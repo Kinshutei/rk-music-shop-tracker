@@ -1,5 +1,84 @@
 [
   {
+    "date": "2026-07-07T13:58:16.559742+09:00",
+    "new_products": [
+      {
+        "id": 9250198651106,
+        "title": "VESPERBELL YOMI BIRTHDAY 2026",
+        "handle": "yomi-birthday-2026",
+        "singers": [
+          "VESPERBELL",
+          "ヨミ"
+        ],
+        "tags": [
+          "NEW",
+          "RK Music",
+          "VESPERBELL",
+          "ヨミ",
+          "受注生産商品"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/VESP__BD26_EC_0706_1ol_02.png?v=1783317019",
+        "url": "https://shop.reality-studios.inc/products/yomi-birthday-2026",
+        "published_at": "2026-07-06T22:00:05+09:00",
+        "updated_at": "2026-07-07T13:58:16+09:00",
+        "variants": [
+          {
+            "title": "コンプリートセット (Tシャツ/Mサイズ)",
+            "price": 15400,
+            "available": true
+          },
+          {
+            "title": "コンプリートセット (Tシャツ/Lサイズ)",
+            "price": 15400,
+            "available": true
+          },
+          {
+            "title": "コンプリートセット (Tシャツ/XLサイズ)",
+            "price": 15400,
+            "available": true
+          },
+          {
+            "title": "ビッグシルエットTシャツ Mサイズ",
+            "price": 7500,
+            "available": true
+          },
+          {
+            "title": "ビッグシルエットTシャツ Lサイズ",
+            "price": 7500,
+            "available": true
+          },
+          {
+            "title": "ビッグシルエットTシャツXLサイズ",
+            "price": 7500,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "3連アクリルキーホルダー",
+            "price": 1500,
+            "available": true
+          },
+          {
+            "title": "ひとりごとタオル",
+            "price": 3300,
+            "available": true
+          },
+          {
+            "title": "ステッカー3種セット",
+            "price": 900,
+            "available": true
+          }
+        ]
+      }
+    ],
+    "removed_products": [],
+    "availability_changes": []
+  },
+  {
     "date": "2026-07-04T13:39:57.820674+09:00",
     "new_products": [
       {
