@@ -1,5 +1,159 @@
 [
   {
+    "date": "2026-07-11T13:17:27.966992+09:00",
+    "new_products": [],
+    "removed_products": [],
+    "availability_changes": [
+      {
+        "product_title": "KMNZ 「KMN T」",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "variant": "KMN T（アイビーグリーン/XLサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "LEWNE 1st ONE-MAN LIVE \"Figment\"",
+        "singers": [
+          "LEWNE"
+        ],
+        "variant": "ビッグシルエットTシャツ（Lサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "LEWNE 1st ONE-MAN LIVE \"Figment\"",
+        "singers": [
+          "LEWNE"
+        ],
+        "variant": "ビッグシルエットTシャツ（XLサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "LEWNE 1st ONE-MAN LIVE \"Figment\"",
+        "singers": [
+          "LEWNE"
+        ],
+        "variant": "フェイスタオル",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "LEWNE 1st ONE-MAN LIVE \"Figment\"",
+        "singers": [
+          "LEWNE"
+        ],
+        "variant": "アクリルスタンド",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "LEWNE 1st ONE-MAN LIVE \"Figment\"",
+        "singers": [
+          "LEWNE"
+        ],
+        "variant": "アクリルキーリング",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "LEWNE 1st ONE-MAN LIVE \"Figment\"",
+        "singers": [
+          "LEWNE"
+        ],
+        "variant": "缶バッジセット（2種）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "LEWNE 1st ONE-MAN LIVE \"Figment\"",
+        "singers": [
+          "LEWNE"
+        ],
+        "variant": "F4キャンバスボード",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "LEWNE 1st ONE-MAN LIVE \"Figment\"",
+        "singers": [
+          "LEWNE"
+        ],
+        "variant": "トートバッグ",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "LEWNE 1st ONE-MAN LIVE \"Figment\"",
+        "singers": [
+          "LEWNE"
+        ],
+        "variant": "ペンライト",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "MEDA 4th ONE-MAN LIVE \"SOULNOVA\"",
+        "singers": [
+          "MEDA"
+        ],
+        "variant": "ロングスリーブTシャツ（XLサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "MEDA 4th ONE-MAN LIVE \"SOULNOVA\"",
+        "singers": [
+          "MEDA"
+        ],
+        "variant": "フェイスタオル",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "MEDA 4th ONE-MAN LIVE \"SOULNOVA\"",
+        "singers": [
+          "MEDA"
+        ],
+        "variant": "アクリルスタンド",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "MEDA 4th ONE-MAN LIVE \"SOULNOVA\"",
+        "singers": [
+          "MEDA"
+        ],
+        "variant": "缶バッジセット（2種）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "MEDA 4th ONE-MAN LIVE \"SOULNOVA\"",
+        "singers": [
+          "MEDA"
+        ],
+        "variant": "F4キャンバスボード",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "MEDA 4th ONE-MAN LIVE \"SOULNOVA\"",
+        "singers": [
+          "MEDA"
+        ],
+        "variant": "トートバッグ",
+        "before": true,
+        "after": false
+      }
+    ]
+  },
+  {
     "date": "2026-07-07T13:58:16.559742+09:00",
     "new_products": [
       {
