@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-07-13T13:34:18.604030+09:00",
+    "new_products": [],
+    "removed_products": [],
+    "availability_changes": [
+      {
+        "product_title": "#FR2×KMNZ COLLABORATIONS",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "variant": "Shoulder Bag",
+        "before": true,
+        "after": false
+      }
+    ]
+  },
+  {
     "date": "2026-07-11T13:17:27.966992+09:00",
     "new_products": [],
     "removed_products": [],
