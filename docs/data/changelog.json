@@ -1,5 +1,102 @@
 [
   {
+    "date": "2026-07-14T13:07:51.868987+09:00",
+    "new_products": [],
+    "removed_products": [],
+    "availability_changes": [
+      {
+        "product_title": "CULUA 2nd EP「ECHINOPS」Release Goods",
+        "singers": [
+          "CULUA"
+        ],
+        "variant": "ECHINOPS Set（Mサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "CULUA 2nd EP「ECHINOPS」Release Goods",
+        "singers": [
+          "CULUA"
+        ],
+        "variant": "ECHINOPS Set（Lサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "CULUA 2nd EP「ECHINOPS」Release Goods",
+        "singers": [
+          "CULUA"
+        ],
+        "variant": "ECHINOPS Set（XLサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "CULUA 2nd EP「ECHINOPS」Release Goods",
+        "singers": [
+          "CULUA"
+        ],
+        "variant": "T-shirts（Mサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "CULUA 2nd EP「ECHINOPS」Release Goods",
+        "singers": [
+          "CULUA"
+        ],
+        "variant": "T-shirts（Lサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "CULUA 2nd EP「ECHINOPS」Release Goods",
+        "singers": [
+          "CULUA"
+        ],
+        "variant": "T-shirts（XLサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "CULUA 2nd EP「ECHINOPS」Release Goods",
+        "singers": [
+          "CULUA"
+        ],
+        "variant": "Clear bottle",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "CULUA 2nd EP「ECHINOPS」Release Goods",
+        "singers": [
+          "CULUA"
+        ],
+        "variant": "Bucket hat",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "CULUA 2nd EP「ECHINOPS」Release Goods",
+        "singers": [
+          "CULUA"
+        ],
+        "variant": "Acrylic keychain",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "CULUA 2nd EP「ECHINOPS」Release Goods",
+        "singers": [
+          "CULUA"
+        ],
+        "variant": "Postcard set(5種)",
+        "before": true,
+        "after": false
+      }
+    ]
+  },
+  {
     "date": "2026-07-13T13:34:18.604030+09:00",
     "new_products": [],
     "removed_products": [],
