@@ -1,5 +1,366 @@
 [
   {
+    "date": "2026-07-17T13:12:17.918035+09:00",
+    "new_products": [
+      {
+        "id": 9226334077154,
+        "title": "RK Music スタンダードグッズ【アクリルスタンド】",
+        "handle": "rk-music-standardgoods-acrylicstand",
+        "singers": [
+          "CONA",
+          "CULUA",
+          "Diα",
+          "HACHI",
+          "IMI",
+          "KMNZ",
+          "LEWNE",
+          "LITA",
+          "LIVE UNION",
+          "MEDA",
+          "NERO",
+          "NEUN",
+          "TINA",
+          "VESPERBELL",
+          "wouca",
+          "XIDEN",
+          "カスカ",
+          "ヨノ",
+          "ヨミ",
+          "妃玖",
+          "水瀬 凪",
+          "深影",
+          "瀬戸乃とと",
+          "羽緒"
+        ],
+        "tags": [
+          "CONA",
+          "CULUA",
+          "Diα",
+          "Fused",
+          "HACHI",
+          "IMI",
+          "KMNZ",
+          "LEWNE",
+          "LITA",
+          "LIVE UNION",
+          "MEDA",
+          "NERO",
+          "NEUN",
+          "NEW",
+          "RK Music",
+          "TINA",
+          "VESPERBELL",
+          "wouca",
+          "XIDEN",
+          "カスカ",
+          "ヨノ",
+          "ヨミ",
+          "妃玖",
+          "水瀬 凪",
+          "深影",
+          "瀬戸乃とと",
+          "羽緒"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/RKM___EC_0706_1ol_04.png?v=1783402595",
+        "url": "https://shop.reality-studios.inc/products/rk-music-standardgoods-acrylicstand",
+        "published_at": "2026-07-16T18:00:06+09:00",
+        "updated_at": "2026-07-17T13:12:17+09:00",
+        "variants": [
+          {
+            "title": "＜HACHI＞",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "＜焔魔るり＞",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "＜瀬戸乃とと＞",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "＜水瀬 凪＞",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "＜LITA＞",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "＜TINA＞",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "＜NERO＞",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "＜カスカ＞",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "＜ヨミ＞",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "＜MEDA＞",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "＜NEUN＞",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "＜IMI＞",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "＜XIDEN＞",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "＜ヨノ＞",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "＜LEWNE＞",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "＜羽緒＞",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "＜深影＞",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "＜wouca＞",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "＜CULUA＞",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "＜CONA＞",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "＜妃玖＞",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "＜Diα＞",
+            "price": 2200,
+            "available": true
+          }
+        ]
+      },
+      {
+        "id": 9226282795234,
+        "title": "RK Music スタンダードグッズ【缶バッジ】",
+        "handle": "rk-music-standardgoods-tinbadge",
+        "singers": [
+          "CONA",
+          "CULUA",
+          "Diα",
+          "HACHI",
+          "IMI",
+          "KMNZ",
+          "LEWNE",
+          "LITA",
+          "LIVE UNION",
+          "MEDA",
+          "NERO",
+          "NEUN",
+          "TINA",
+          "VESPERBELL",
+          "wouca",
+          "XIDEN",
+          "カスカ",
+          "ヨノ",
+          "ヨミ",
+          "妃玖",
+          "水瀬 凪",
+          "深影",
+          "瀬戸乃とと",
+          "焔魔るり",
+          "羽緒"
+        ],
+        "tags": [
+          "CONA",
+          "CULUA",
+          "Diα",
+          "Fused",
+          "HACHI",
+          "IMI",
+          "KMNZ",
+          "LEWNE",
+          "LITA",
+          "LIVE UNION",
+          "MEDA",
+          "NERO",
+          "NEUN",
+          "NEW",
+          "RK Music",
+          "TINA",
+          "VESPERBELL",
+          "wouca",
+          "XIDEN",
+          "カスカ",
+          "ヨノ",
+          "ヨミ",
+          "妃玖",
+          "水瀬 凪",
+          "深影",
+          "瀬戸乃とと",
+          "焔魔るり",
+          "羽緒"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/RKM___EC_0706_1ol_02.png?v=1783402617",
+        "url": "https://shop.reality-studios.inc/products/rk-music-standardgoods-tinbadge",
+        "published_at": "2026-07-16T18:00:06+09:00",
+        "updated_at": "2026-07-17T13:12:17+09:00",
+        "variants": [
+          {
+            "title": "＜HACHI＞",
+            "price": 500,
+            "available": true
+          },
+          {
+            "title": "＜焔魔るり＞",
+            "price": 500,
+            "available": true
+          },
+          {
+            "title": "＜瀬戸乃とと＞",
+            "price": 500,
+            "available": true
+          },
+          {
+            "title": "＜水瀬 凪＞",
+            "price": 500,
+            "available": true
+          },
+          {
+            "title": "＜LITA＞",
+            "price": 500,
+            "available": true
+          },
+          {
+            "title": "＜TINA＞",
+            "price": 500,
+            "available": true
+          },
+          {
+            "title": "＜NERO＞",
+            "price": 500,
+            "available": true
+          },
+          {
+            "title": "＜カスカ＞",
+            "price": 500,
+            "available": true
+          },
+          {
+            "title": "＜ヨミ＞",
+            "price": 500,
+            "available": true
+          },
+          {
+            "title": "＜MEDA＞",
+            "price": 500,
+            "available": true
+          },
+          {
+            "title": "＜NEUN＞",
+            "price": 500,
+            "available": true
+          },
+          {
+            "title": "＜IMI＞",
+            "price": 500,
+            "available": true
+          },
+          {
+            "title": "＜XIDEN＞",
+            "price": 500,
+            "available": true
+          },
+          {
+            "title": "＜ヨノ＞",
+            "price": 500,
+            "available": true
+          },
+          {
+            "title": "＜LEWNE＞",
+            "price": 500,
+            "available": true
+          },
+          {
+            "title": "＜羽緒＞",
+            "price": 500,
+            "available": true
+          },
+          {
+            "title": "＜深影＞",
+            "price": 500,
+            "available": true
+          },
+          {
+            "title": "＜wouca＞",
+            "price": 500,
+            "available": true
+          },
+          {
+            "title": "＜CULUA＞",
+            "price": 500,
+            "available": true
+          },
+          {
+            "title": "＜CONA＞",
+            "price": 500,
+            "available": true
+          },
+          {
+            "title": "＜妃玖＞",
+            "price": 500,
+            "available": true
+          },
+          {
+            "title": "＜Diα＞",
+            "price": 500,
+            "available": true
+          }
+        ]
+      }
+    ],
+    "removed_products": [],
+    "availability_changes": []
+  },
+  {
     "date": "2026-07-16T13:12:57.265698+09:00",
     "new_products": [],
     "removed_products": [],
