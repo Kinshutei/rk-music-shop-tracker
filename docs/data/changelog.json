@@ -1,5 +1,41 @@
 [
   {
+    "date": "2026-07-19T13:25:13.014594+09:00",
+    "new_products": [
+      {
+        "id": 9241804538082,
+        "title": "RK Music Fes.2026 協賛グッズ",
+        "handle": "rk-music-fes-2026-sponsorship-goods",
+        "singers": [
+          "RK Music Fes.2026"
+        ],
+        "tags": [
+          "NEW",
+          "RK Music",
+          "RK Music Fes.2026"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/7035dae3ccf6f0825ac40cc710aa9527.png?v=1782970805",
+        "url": "https://shop.reality-studios.inc/products/rk-music-fes-2026-sponsorship-goods",
+        "published_at": "2026-07-18T19:00:04+09:00",
+        "updated_at": "2026-07-19T13:25:12+09:00",
+        "variants": [
+          {
+            "title": "オリジナルうちわ",
+            "price": 1000,
+            "available": true
+          },
+          {
+            "title": "オリジナルネックストラップ",
+            "price": 2000,
+            "available": true
+          }
+        ]
+      }
+    ],
+    "removed_products": [],
+    "availability_changes": []
+  },
+  {
     "date": "2026-07-18T13:04:22.025932+09:00",
     "new_products": [],
     "removed_products": [],
