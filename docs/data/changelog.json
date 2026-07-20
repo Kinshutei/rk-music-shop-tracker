@@ -1,5 +1,97 @@
 [
   {
+    "date": "2026-07-20T13:39:42.356102+09:00",
+    "new_products": [
+      {
+        "id": 9268744650978,
+        "title": "Diα Birthday Goods 2026",
+        "handle": "diα-birthday-goods-2026",
+        "singers": [
+          "Diα"
+        ],
+        "tags": [
+          "Diα",
+          "NEW",
+          "RK Music",
+          "受注生産商品"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/Di_1080SP.png?v=1784260912",
+        "url": "https://shop.reality-studios.inc/products/diα-birthday-goods-2026",
+        "published_at": "2026-07-19T20:00:06+09:00",
+        "updated_at": "2026-07-20T13:39:42+09:00",
+        "variants": [
+          {
+            "title": "コンプリートセット (Tシャツ/Mサイズ)",
+            "price": 18600,
+            "available": true
+          },
+          {
+            "title": "コンプリートセット (Tシャツ/Lサイズ)",
+            "price": 18600,
+            "available": true
+          },
+          {
+            "title": "コンプリートセット (Tシャツ/XLサイズ)",
+            "price": 18600,
+            "available": true
+          },
+          {
+            "title": "Tシャツ Mサイズ",
+            "price": 6500,
+            "available": true
+          },
+          {
+            "title": "Tシャツ Lサイズ",
+            "price": 6500,
+            "available": true
+          },
+          {
+            "title": "Tシャツ XLサイズ",
+            "price": 6500,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "アクリルキーホルダー",
+            "price": 1100,
+            "available": true
+          },
+          {
+            "title": "グラス",
+            "price": 3900,
+            "available": true
+          },
+          {
+            "title": "ステッカーセット（5種）",
+            "price": 1500,
+            "available": true
+          },
+          {
+            "title": "マルチポーチ",
+            "price": 2500,
+            "available": true
+          },
+          {
+            "title": "ブロマイドセット（3種）",
+            "price": 900,
+            "available": true
+          },
+          {
+            "title": "トレーディングチェキ風カード （全7種ランダム）",
+            "price": 500,
+            "available": true
+          }
+        ]
+      }
+    ],
+    "removed_products": [],
+    "availability_changes": []
+  },
+  {
     "date": "2026-07-19T13:25:13.014594+09:00",
     "new_products": [
       {
