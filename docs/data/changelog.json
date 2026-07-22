@@ -1,5 +1,56 @@
 [
   {
+    "date": "2026-07-22T13:20:54.451476+09:00",
+    "new_products": [],
+    "removed_products": [],
+    "availability_changes": [
+      {
+        "product_title": "VESPERBELL ＃VRF",
+        "singers": [
+          "VESPERBELL",
+          "カスカ",
+          "ヨミ"
+        ],
+        "variant": "#VRF フェイスタオル B",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "VESPERBELL ＃VRF",
+        "singers": [
+          "VESPERBELL",
+          "カスカ",
+          "ヨミ"
+        ],
+        "variant": "#VRF バングルライト",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "VESPERBELL ＃VRF",
+        "singers": [
+          "VESPERBELL",
+          "カスカ",
+          "ヨミ"
+        ],
+        "variant": "#VRF サコッシュ",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "VESPERBELL ＃VRF",
+        "singers": [
+          "VESPERBELL",
+          "カスカ",
+          "ヨミ"
+        ],
+        "variant": "#VRF ステッカーシート",
+        "before": true,
+        "after": false
+      }
+    ]
+  },
+  {
     "date": "2026-07-20T13:39:42.356102+09:00",
     "new_products": [
       {
