@@ -1,5 +1,84 @@
 [
   {
+    "date": "2026-07-29T13:17:20.161068+09:00",
+    "new_products": [
+      {
+        "id": 9282159542498,
+        "title": "MOCO BD 2026 OFFICIAL GOODS",
+        "handle": "moco-bd-2026-official-goods",
+        "singers": [
+          "HONK THE HORN",
+          "MOCO"
+        ],
+        "tags": [
+          "HONK THE HORN",
+          "MOCO",
+          "NEW",
+          "RK Music",
+          "受注生産商品"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/HTH_MOCOBD_EC_0727_2ol_02.png?v=1785221128",
+        "url": "https://shop.reality-studios.inc/products/moco-bd-2026-official-goods",
+        "published_at": "2026-07-28T20:00:07+09:00",
+        "updated_at": "2026-07-29T13:17:20+09:00",
+        "variants": [
+          {
+            "title": "コンプリートセット (Tシャツ/Mサイズ)",
+            "price": 15500,
+            "available": true
+          },
+          {
+            "title": "コンプリートセット (Tシャツ/Lサイズ)",
+            "price": 15500,
+            "available": true
+          },
+          {
+            "title": "コンプリートセット (Tシャツ/XLサイズ)",
+            "price": 15500,
+            "available": true
+          },
+          {
+            "title": "ビッグシルエットTシャツ Mサイズ",
+            "price": 7500,
+            "available": true
+          },
+          {
+            "title": "ビッグシルエットTシャツ Lサイズ",
+            "price": 7500,
+            "available": true
+          },
+          {
+            "title": "ビッグシルエットTシャツXLサイズ",
+            "price": 7500,
+            "available": true
+          },
+          {
+            "title": "MOCO IDカード",
+            "price": 1500,
+            "available": true
+          },
+          {
+            "title": "ネームタグ",
+            "price": 2500,
+            "available": true
+          },
+          {
+            "title": "灰皿風アクセサリー入れ",
+            "price": 2500,
+            "available": true
+          },
+          {
+            "title": "ステッカー5種セット",
+            "price": 1500,
+            "available": true
+          }
+        ]
+      }
+    ],
+    "removed_products": [],
+    "availability_changes": []
+  },
+  {
     "date": "2026-07-22T13:20:54.451476+09:00",
     "new_products": [],
     "removed_products": [],
