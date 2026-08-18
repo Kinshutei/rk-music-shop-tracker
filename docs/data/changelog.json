@@ -1,5 +1,58 @@
 [
   {
+    "date": "2026-08-18T11:17:17.878802+09:00",
+    "new_products": [
+      {
+        "id": 9304311038178,
+        "title": "ミタクルブロック×KMNZ COLLABORATIONS",
+        "handle": "mitacleblock-kmnz-collaborations",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "tags": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "NEW",
+          "RK Music",
+          "TINA",
+          "受注生産商品"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/xKMNZ-02.jpg?v=1786931765",
+        "url": "https://shop.reality-studios.inc/products/mitacleblock-kmnz-collaborations",
+        "published_at": "2026-08-17T18:00:09+09:00",
+        "updated_at": "2026-08-18T11:17:17+09:00",
+        "variants": [
+          {
+            "title": "ミタクルブロック×KMNZ COLLABORATIONS LITA ver.",
+            "price": 3850,
+            "available": true
+          },
+          {
+            "title": "ミタクルブロック×KMNZ COLLABORATIONS NERO ver.",
+            "price": 3850,
+            "available": true
+          },
+          {
+            "title": "ミタクルブロック×KMNZ COLLABORATIONS TINA ver.",
+            "price": 3850,
+            "available": true
+          },
+          {
+            "title": "ミタクルブロック×KMNZ COLLABORATIONS コンプリートセット（ステージ付き）",
+            "price": 15000,
+            "available": true
+          }
+        ]
+      }
+    ],
+    "removed_products": [],
+    "availability_changes": []
+  },
+  {
     "date": "2026-08-04T13:17:30.014065+09:00",
     "new_products": [],
     "removed_products": [],
