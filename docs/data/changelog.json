@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-08-19T11:19:51.559307+09:00",
+    "new_products": [],
+    "removed_products": [],
+    "availability_changes": [
+      {
+        "product_title": "KMNZ 「KMN T」",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "variant": "KMN T（ダークブラウン/XLサイズ）",
+        "before": true,
+        "after": false
+      }
+    ]
+  },
+  {
     "date": "2026-08-18T11:17:17.878802+09:00",
     "new_products": [
       {
