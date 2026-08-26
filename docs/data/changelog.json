@@ -1,5 +1,137 @@
 [
   {
+    "date": "2026-08-26T11:26:08.641603+09:00",
+    "new_products": [
+      {
+        "id": 9314418196706,
+        "title": "NERO 2026 BIRTHDAY OFFICIAL GOODS",
+        "handle": "nero-2026-birthday-official-goods",
+        "singers": [
+          "KMNZ",
+          "NERO"
+        ],
+        "tags": [
+          "KMNZ",
+          "NERO",
+          "NEW",
+          "RK Music",
+          "受注生産商品"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/NEROBD_EC_SP.jpg?v=1787626183",
+        "url": "https://shop.reality-studios.inc/products/nero-2026-birthday-official-goods",
+        "published_at": "2026-08-25T18:21:47+09:00",
+        "updated_at": "2026-08-26T11:26:08+09:00",
+        "variants": [
+          {
+            "title": "コンプリートセット（Tシャツ/Mサイズ、シャワーサンダル/24cm）",
+            "price": 17500,
+            "available": true
+          },
+          {
+            "title": "コンプリートセット（Tシャツ/Lサイズ、シャワーサンダル/24cm）",
+            "price": 17500,
+            "available": true
+          },
+          {
+            "title": "コンプリートセット（Tシャツ/XLサイズ、シャワーサンダル/24cm）",
+            "price": 17500,
+            "available": true
+          },
+          {
+            "title": "コンプリートセット（Tシャツ/Mサイズ、シャワーサンダル/27cm）",
+            "price": 17500,
+            "available": true
+          },
+          {
+            "title": "コンプリートセット（Tシャツ/Lサイズ、シャワーサンダル/27cm）",
+            "price": 17500,
+            "available": true
+          },
+          {
+            "title": "コンプリートセット（Tシャツ/XLサイズ、シャワーサンダル/27cm）",
+            "price": 17500,
+            "available": true
+          },
+          {
+            "title": "コンプリートセット（Tシャツ/Mサイズ、シャワーサンダル/29cm）",
+            "price": 17500,
+            "available": true
+          },
+          {
+            "title": "コンプリートセット（Tシャツ/Lサイズ、シャワーサンダル/29 cm）",
+            "price": 17500,
+            "available": true
+          },
+          {
+            "title": "コンプリートセット（Tシャツ/XLサイズ、シャワーサンダル/29 cm）",
+            "price": 17500,
+            "available": true
+          },
+          {
+            "title": "ヴィンテージ風Tシャツ Mサイズ",
+            "price": 7500,
+            "available": true
+          },
+          {
+            "title": "ヴィンテージ風Tシャツ Lサイズ",
+            "price": 7500,
+            "available": true
+          },
+          {
+            "title": "ヴィンテージ風Tシャツ XLサイズ",
+            "price": 7500,
+            "available": true
+          },
+          {
+            "title": "靴下",
+            "price": 3700,
+            "available": true
+          },
+          {
+            "title": "シャワーサンダル 24cm",
+            "price": 5000,
+            "available": true
+          },
+          {
+            "title": "シャワーサンダル 27cm",
+            "price": 5000,
+            "available": true
+          },
+          {
+            "title": "シャワーサンダル 29cm",
+            "price": 5000,
+            "available": true
+          },
+          {
+            "title": "ランダムダイカットステッカー 5種＋ネロ書き下ろし1種",
+            "price": 500,
+            "available": true
+          },
+          {
+            "title": "3連ラバーストラップ（NEROバージョン1種）",
+            "price": 1300,
+            "available": true
+          }
+        ]
+      }
+    ],
+    "removed_products": [],
+    "availability_changes": [
+      {
+        "product_title": "KMNZ KMNSUPPLY 2026 SUMMER",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "variant": "KMNCAP",
+        "before": true,
+        "after": false
+      }
+    ]
+  },
+  {
     "date": "2026-08-19T11:19:51.559307+09:00",
     "new_products": [],
     "removed_products": [],
