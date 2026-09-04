@@ -1,5 +1,94 @@
 [
   {
+    "date": "2026-09-04T14:41:39.335191+09:00",
+    "new_products": [
+      {
+        "id": 9334023717090,
+        "title": "焔魔るり Birthday Goods 2026",
+        "handle": "enma-ruri-birthday-goods-2026",
+        "singers": [
+          "LIVE UNION",
+          "焔魔るり"
+        ],
+        "tags": [
+          "LIVE UNION",
+          "NEW",
+          "RK Music",
+          "受注生産商品",
+          "焔魔るり"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/BD2026_EC_SP.jpg?v=1788399775",
+        "url": "https://shop.reality-studios.inc/products/enma-ruri-birthday-goods-2026",
+        "published_at": "2026-09-03T21:00:05+09:00",
+        "updated_at": "2026-09-04T14:41:39+09:00",
+        "variants": [
+          {
+            "title": "コンプリートセット（カジュアルシャツ/Mサイズ）",
+            "price": 25500,
+            "available": true
+          },
+          {
+            "title": "コンプリートセット（カジュアルシャツ/Lサイズ）",
+            "price": 25500,
+            "available": true
+          },
+          {
+            "title": "コンプリートセット（カジュアルシャツ/LLサイズ）",
+            "price": 25500,
+            "available": true
+          },
+          {
+            "title": "カジュアルシャツ Mサイズ",
+            "price": 9500,
+            "available": true
+          },
+          {
+            "title": "カジュアルシャツ Lサイズ",
+            "price": 9500,
+            "available": true
+          },
+          {
+            "title": "カジュアルシャツ LLサイズ",
+            "price": 9500,
+            "available": true
+          },
+          {
+            "title": "ニット帽",
+            "price": 5500,
+            "available": true
+          },
+          {
+            "title": "ハンドタオル",
+            "price": 2000,
+            "available": true
+          },
+          {
+            "title": "焔魔るり HBD2026オリジナルコラボ香水",
+            "price": 16000,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンドケース",
+            "price": 4000,
+            "available": true
+          },
+          {
+            "title": "ジオラマアクリルスタンド",
+            "price": 4500,
+            "available": true
+          },
+          {
+            "title": "ランダム めじるしアクセサリー",
+            "price": 800,
+            "available": true
+          }
+        ]
+      }
+    ],
+    "removed_products": [],
+    "availability_changes": []
+  },
+  {
     "date": "2026-08-26T11:26:08.641603+09:00",
     "new_products": [
       {
