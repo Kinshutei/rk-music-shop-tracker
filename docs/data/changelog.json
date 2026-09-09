@@ -1,5 +1,51 @@
 [
   {
+    "date": "2026-09-09T14:50:21.073214+09:00",
+    "new_products": [
+      {
+        "id": 9314544746722,
+        "title": "VSinger UTAMATSURI LIVE in Toyosu PIT 公式グッズ",
+        "handle": "vsinger-utamatsuri-live-in-toyosu-pit-officialgoods",
+        "singers": [
+          "UTAMATSURI"
+        ],
+        "tags": [
+          "NEW",
+          "RK Music",
+          "UTAMATSURI"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/25346e7c14cc57255834f7a2946c3e38_bbb4596d-a392-432a-b8f2-0b9e4961240a.png?v=1787822645",
+        "url": "https://shop.reality-studios.inc/products/vsinger-utamatsuri-live-in-toyosu-pit-officialgoods",
+        "published_at": "2026-09-08T18:00:02+09:00",
+        "updated_at": "2026-09-09T14:50:20+09:00",
+        "variants": [
+          {
+            "title": "ロゴ ペンライト",
+            "price": 4800,
+            "available": true
+          },
+          {
+            "title": "ロゴ アクリルキーホルダー",
+            "price": 800,
+            "available": true
+          },
+          {
+            "title": "A4クリアファイル",
+            "price": 700,
+            "available": true
+          },
+          {
+            "title": "ランダムステッカー（全13種）",
+            "price": 500,
+            "available": true
+          }
+        ]
+      }
+    ],
+    "removed_products": [],
+    "availability_changes": []
+  },
+  {
     "date": "2026-09-08T14:46:13.104094+09:00",
     "new_products": [],
     "removed_products": [],
