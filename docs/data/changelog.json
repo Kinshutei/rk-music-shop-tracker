@@ -1,5 +1,84 @@
 [
   {
+    "date": "2026-09-10T14:44:58.419223+09:00",
+    "new_products": [
+      {
+        "id": 9350013747426,
+        "title": "VESPERBELL KASUKA BIRTHDAY 2026 OFFICIAL GOODS",
+        "handle": "vesperbell-kasuka-birthday-2026-official-goods",
+        "singers": [
+          "VESPERBELL",
+          "カスカ"
+        ],
+        "tags": [
+          "NEW",
+          "RK Music",
+          "VESPERBELL",
+          "カスカ",
+          "受注生産商品"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/2026BD_EC_SP.png?v=1788917646",
+        "url": "https://shop.reality-studios.inc/products/vesperbell-kasuka-birthday-2026-official-goods",
+        "published_at": "2026-09-09T22:26:25+09:00",
+        "updated_at": "2026-09-10T14:44:58+09:00",
+        "variants": [
+          {
+            "title": "コンプリートセット（ロングTシャツ Mサイズ）",
+            "price": 16100,
+            "available": true
+          },
+          {
+            "title": "コンプリートセット（ロングTシャツ Lサイズ）",
+            "price": 16100,
+            "available": true
+          },
+          {
+            "title": "コンプリートセット（ロングTシャツ XLサイズ）",
+            "price": 16100,
+            "available": true
+          },
+          {
+            "title": "ロングTシャツ Mサイズ",
+            "price": 8500,
+            "available": true
+          },
+          {
+            "title": "ロングTシャツ Lサイズ",
+            "price": 8500,
+            "available": true
+          },
+          {
+            "title": "ロングTシャツ XLサイズ",
+            "price": 8500,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "グラス（瓶ビール風）",
+            "price": 2900,
+            "available": true
+          },
+          {
+            "title": "アクリルキーホルダー　2種セット",
+            "price": 1600,
+            "available": true
+          },
+          {
+            "title": "ステッカー　3種セット（ホロ加工）",
+            "price": 900,
+            "available": true
+          }
+        ]
+      }
+    ],
+    "removed_products": [],
+    "availability_changes": []
+  },
+  {
     "date": "2026-09-09T14:50:21.073214+09:00",
     "new_products": [
       {
