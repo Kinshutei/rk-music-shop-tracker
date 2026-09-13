@@ -1,5 +1,156 @@
 [
   {
+    "date": "2026-09-13T14:52:02.986472+09:00",
+    "new_products": [
+      {
+        "id": 9358897873122,
+        "title": "KMN SUPPLY 2026 AUTUMN",
+        "handle": "kmn-supply-2026-autumn",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "tags": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "NEW",
+          "RK Music",
+          "TINA",
+          "受注生産商品"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/KMNsupply_202609_0910_1ol_02.png?v=1789176754",
+        "url": "https://shop.reality-studios.inc/products/kmn-supply-2026-autumn",
+        "published_at": "2026-09-12T18:00:05+09:00",
+        "updated_at": "2026-09-13T14:52:02+09:00",
+        "variants": [
+          {
+            "title": "KMNPACK",
+            "price": 29900,
+            "available": true
+          },
+          {
+            "title": "KMN STADIUM JUMPER　Msize",
+            "price": 27000,
+            "available": true
+          },
+          {
+            "title": "KMN STADIUM JUMPER　Lsize",
+            "price": 27000,
+            "available": true
+          },
+          {
+            "title": "KMN STADIUM JUMPER　XLsize",
+            "price": 27000,
+            "available": true
+          },
+          {
+            "title": "KMNHOODIE　Msize",
+            "price": 16000,
+            "available": true
+          },
+          {
+            "title": "KMNHOODIE　Lsize",
+            "price": 16000,
+            "available": true
+          },
+          {
+            "title": "KMNHOODIE　XLsize",
+            "price": 16000,
+            "available": true
+          },
+          {
+            "title": "KMN LONG SLEEVE T SHIRTS　Msize",
+            "price": 9000,
+            "available": true
+          },
+          {
+            "title": "KMN LONG SLEEVE T SHIRTS　Lsize",
+            "price": 9000,
+            "available": true
+          },
+          {
+            "title": "KMN LONG SLEEVE T SHIRTS　XLsize",
+            "price": 9000,
+            "available": true
+          },
+          {
+            "title": "KMN STACKING MUG　【LITA】",
+            "price": 1800,
+            "available": true
+          },
+          {
+            "title": "KMN STACKING MUG　【TINA】",
+            "price": 1800,
+            "available": true
+          },
+          {
+            "title": "KMN STACKING MUG　【NERO】",
+            "price": 1800,
+            "available": true
+          },
+          {
+            "title": "KMN Acrylic Keychain Set　【LITA】",
+            "price": 1500,
+            "available": true
+          },
+          {
+            "title": "KMN Acrylic Keychain Set　【TINA】",
+            "price": 1500,
+            "available": true
+          },
+          {
+            "title": "KMN Acrylic Keychain Set　【NERO】",
+            "price": 1500,
+            "available": true
+          },
+          {
+            "title": "【Random】KMN RUBBER KEY",
+            "price": 1500,
+            "available": true
+          },
+          {
+            "title": "【CD】Singli「MiMiMi」",
+            "price": 3000,
+            "available": true
+          },
+          {
+            "title": "KMNBEANIE",
+            "price": 5500,
+            "available": true
+          },
+          {
+            "title": "KMN WALLET CHAIN",
+            "price": 9500,
+            "available": true
+          },
+          {
+            "title": "KMN GRAPHIC CLEAR POSUTER",
+            "price": 2000,
+            "available": true
+          }
+        ]
+      }
+    ],
+    "removed_products": [],
+    "availability_changes": [
+      {
+        "product_title": "KMNZ 「KMN HOODIE」",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "variant": "KMN HOODIE （ブラック/Mサイズ）",
+        "before": true,
+        "after": false
+      }
+    ]
+  },
+  {
     "date": "2026-09-10T14:44:58.419223+09:00",
     "new_products": [
       {
