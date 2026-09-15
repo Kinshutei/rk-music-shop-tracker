@@ -1,5 +1,109 @@
 [
   {
+    "date": "2026-09-15T14:59:27.992426+09:00",
+    "new_products": [
+      {
+        "id": 9363494109410,
+        "title": "HTH SUPPLY AUTUMN COLLECTION 2026",
+        "handle": "hth-supply-autumn-collection-2026",
+        "singers": [
+          "BAMBI",
+          "HONK THE HORN",
+          "MOCO"
+        ],
+        "tags": [
+          "BAMBI",
+          "HONK THE HORN",
+          "MOCO",
+          "NEW",
+          "RK Music",
+          "受注生産商品"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/HTH_AUTgoods_EC_0913_1ol_02.png?v=1789360877",
+        "url": "https://shop.reality-studios.inc/products/hth-supply-autumn-collection-2026",
+        "published_at": "2026-09-14T18:00:01+09:00",
+        "updated_at": "2026-09-15T14:59:27+09:00",
+        "variants": [
+          {
+            "title": "コンプリートセット（Tシャツ／Mサイズ）",
+            "price": 25000,
+            "available": true
+          },
+          {
+            "title": "コンプリートセット（Tシャツ／Lサイズ）",
+            "price": 25000,
+            "available": true
+          },
+          {
+            "title": "コンプリートセット（Tシャツ／XLサイズ）",
+            "price": 25000,
+            "available": true
+          },
+          {
+            "title": "Tシャツ　Mサイズ",
+            "price": 7500,
+            "available": true
+          },
+          {
+            "title": "Tシャツ　Lサイズ",
+            "price": 7500,
+            "available": true
+          },
+          {
+            "title": "Tシャツ　XLサイズ",
+            "price": 7500,
+            "available": true
+          },
+          {
+            "title": "ビーニー",
+            "price": 5000,
+            "available": true
+          },
+          {
+            "title": "カラーアクリルキーホルダー　BAMBI",
+            "price": 1500,
+            "available": true
+          },
+          {
+            "title": "カラーアクリルキーホルダー　MOCO",
+            "price": 1500,
+            "available": true
+          },
+          {
+            "title": "ショルダーバック",
+            "price": 9000,
+            "available": true
+          },
+          {
+            "title": "ロゴベルト",
+            "price": 6500,
+            "available": true
+          },
+          {
+            "title": "【CD】NO LEASH",
+            "price": 3000,
+            "available": true
+          }
+        ]
+      }
+    ],
+    "removed_products": [],
+    "availability_changes": [
+      {
+        "product_title": "KMNZ 「KMN HOODIE」",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "variant": "KMN HOODIE （オリーブ/Lサイズ）",
+        "before": true,
+        "after": false
+      }
+    ]
+  },
+  {
     "date": "2026-09-13T14:52:02.986472+09:00",
     "new_products": [
       {
