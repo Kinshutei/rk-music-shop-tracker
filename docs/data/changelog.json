@@ -1,5 +1,230 @@
 [
   {
+    "date": "2026-09-17T14:57:43.864139+09:00",
+    "new_products": [
+      {
+        "id": 9367304634594,
+        "title": "VESPERBELL AUTUMN COLLECTION 2026",
+        "handle": "vesperbell-autumn-collection-2026",
+        "singers": [
+          "VESPERBELL",
+          "カスカ",
+          "ヨミ"
+        ],
+        "tags": [
+          "NEW",
+          "RK Music",
+          "VESPERBELL",
+          "カスカ",
+          "ヨミ",
+          "受注生産商品"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/VENU_2026_EC_SP.jpg?v=1789541332",
+        "url": "https://shop.reality-studios.inc/products/vesperbell-autumn-collection-2026",
+        "published_at": "2026-09-16T20:30:05+09:00",
+        "updated_at": "2026-09-17T14:57:43+09:00",
+        "variants": [
+          {
+            "title": "グッズセット　（ハーフジッパー/Mサイズ）",
+            "price": 22100,
+            "available": true
+          },
+          {
+            "title": "グッズセット　（ハーフジッパー/Lサイズ）",
+            "price": 22100,
+            "available": true
+          },
+          {
+            "title": "グッズセット　（ハーフジッパー/XLサイズ）",
+            "price": 22100,
+            "available": true
+          },
+          {
+            "title": "グッズセット　（ハーフジッパー/XXLサイズ）",
+            "price": 22100,
+            "available": true
+          },
+          {
+            "title": "ハーフジッパー【刺繍】　Mサイズ",
+            "price": 11000,
+            "available": true
+          },
+          {
+            "title": "ハーフジッパー【刺繍】　Lサイズ",
+            "price": 11000,
+            "available": true
+          },
+          {
+            "title": "ハーフジッパー【刺繍】　XLサイズ",
+            "price": 11000,
+            "available": true
+          },
+          {
+            "title": "ハーフジッパー【刺繍】　XXLサイズ",
+            "price": 11000,
+            "available": true
+          },
+          {
+            "title": "ネックウォーマー【刺繍】",
+            "price": 4000,
+            "available": true
+          },
+          {
+            "title": "スマホショルダー",
+            "price": 3200,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド（YOMI）",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド（KASUKA）",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "【ランダム】ダイカットステッカー 3種",
+            "price": 500,
+            "available": true
+          }
+        ]
+      },
+      {
+        "id": 9364879245538,
+        "title": "Mikage BD 2026 Official Goods",
+        "handle": "mikage-birthday2026goods",
+        "singers": [
+          "深影"
+        ],
+        "tags": [
+          "NEW",
+          "RK Music",
+          "受注生産商品",
+          "深影"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/EC_0910_1ol_02.png?v=1789524690",
+        "url": "https://shop.reality-studios.inc/products/mikage-birthday2026goods",
+        "published_at": "2026-09-16T21:00:04+09:00",
+        "updated_at": "2026-09-17T14:57:43+09:00",
+        "variants": [
+          {
+            "title": "コンプリートセット",
+            "price": 15700,
+            "available": true
+          },
+          {
+            "title": "ブランケット",
+            "price": 6000,
+            "available": true
+          },
+          {
+            "title": "クッションカバー",
+            "price": 5500,
+            "available": true
+          },
+          {
+            "title": "ジオラマアクリルスタンド",
+            "price": 2800,
+            "available": true
+          },
+          {
+            "title": "水面調アクリルスタンド",
+            "price": 1400,
+            "available": true
+          },
+          {
+            "title": "ランダムステッカー （全4種）",
+            "price": 500,
+            "available": true
+          }
+        ]
+      },
+      {
+        "id": 9354519773410,
+        "title": "NUROJUNK SEASONAL PACKAGE AUTUMN 2026",
+        "handle": "nurojunk-seasonal-package-autumn-2026",
+        "singers": [
+          "NUROJUNK",
+          "カグラ",
+          "サクヤ"
+        ],
+        "tags": [
+          "NEW",
+          "NUROJUNK",
+          "RK Music",
+          "カグラ",
+          "サクヤ",
+          "受注生産商品"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/NJ___EC_0907_1ol_02.png?v=1789032643",
+        "url": "https://shop.reality-studios.inc/products/nurojunk-seasonal-package-autumn-2026",
+        "published_at": "2026-09-17T11:58:45+09:00",
+        "updated_at": "2026-09-17T14:57:43+09:00",
+        "variants": [
+          {
+            "title": "コンプリートセット（ロングスリーブTシャツ Mサイズ）",
+            "price": 19900,
+            "available": true
+          },
+          {
+            "title": "コンプリートセット（ロングスリーブTシャツ Lサイズ）",
+            "price": 19900,
+            "available": true
+          },
+          {
+            "title": "コンプリートセット（ロングスリーブTシャツ XLサイズ）",
+            "price": 19900,
+            "available": true
+          },
+          {
+            "title": "NUROJUNK ロングスリーブTシャツ　Mサイズ",
+            "price": 8500,
+            "available": true
+          },
+          {
+            "title": "NUROJUNK ロングスリーブTシャツ　Lサイズ",
+            "price": 8500,
+            "available": true
+          },
+          {
+            "title": "NUROJUNK ロングスリーブTシャツ　XLサイズ",
+            "price": 8500,
+            "available": true
+          },
+          {
+            "title": "NUROJUNK ネックストラップ",
+            "price": 2700,
+            "available": true
+          },
+          {
+            "title": "LIMBS メタルドッグタグ",
+            "price": 2400,
+            "available": true
+          },
+          {
+            "title": "NUROJUNK ステッカーセット",
+            "price": 800,
+            "available": true
+          },
+          {
+            "title": "NUROJUNK 刺繍ロゴキャップ",
+            "price": 5500,
+            "available": true
+          },
+          {
+            "title": "PENTACORP フレーバーテキストカード付きランダムアクリルキーホルダー",
+            "price": 1500,
+            "available": true
+          }
+        ]
+      }
+    ],
+    "removed_products": [],
+    "availability_changes": []
+  },
+  {
     "date": "2026-09-15T14:59:27.992426+09:00",
     "new_products": [
       {
