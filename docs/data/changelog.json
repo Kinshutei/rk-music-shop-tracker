@@ -1,5 +1,107 @@
 [
   {
+    "date": "2026-09-25T15:00:42.471614+09:00",
+    "new_products": [
+      {
+        "id": 9364944126178,
+        "title": "KMNPARTY 0913",
+        "handle": "kmnparty-0913",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "tags": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "NEW",
+          "RK Music",
+          "TINA"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/KMNPARTY_0913.jpg?v=1789538454",
+        "url": "https://shop.reality-studios.inc/products/kmnparty-0913",
+        "published_at": "2026-09-24T18:00:08+09:00",
+        "updated_at": "2026-09-25T15:00:42+09:00",
+        "variants": [
+          {
+            "title": "KMNPARTY 0913 Acrylic Stand",
+            "price": 3300,
+            "available": true
+          },
+          {
+            "title": "KMNREMIXES Vol.1",
+            "price": 5000,
+            "available": false
+          },
+          {
+            "title": "KMNPARTY 0815 KMN Sricker Set",
+            "price": 1000,
+            "available": false
+          },
+          {
+            "title": "KMNPARTY 1011 KMN Sricker Set",
+            "price": 1000,
+            "available": false
+          },
+          {
+            "title": "KMNPARTY 0321 KMN Long Sleeve T　Lサイズ",
+            "price": 8500,
+            "available": true
+          },
+          {
+            "title": "KMNPARTY 0321 KMN Long Sleeve T　XLサイズ",
+            "price": 8500,
+            "available": true
+          },
+          {
+            "title": "KMNPARTY 0524 Camera-Shaped Acrylic Charm",
+            "price": 2500,
+            "available": true
+          },
+          {
+            "title": "KMNPARTY 0718 A3 Poster",
+            "price": 1500,
+            "available": false
+          },
+          {
+            "title": "KMNPARTY 1011 KMN BIG Sricker",
+            "price": 700,
+            "available": false
+          },
+          {
+            "title": "KMNPARTY RELOADED KMN Towel",
+            "price": 3200,
+            "available": true
+          },
+          {
+            "title": "KMNPARTY 0524 Random Pin Badge",
+            "price": 1500,
+            "available": true
+          },
+          {
+            "title": "KMNPARTY 0718 Random Mini Acrylic Block",
+            "price": 1500,
+            "available": true
+          },
+          {
+            "title": "KMNPARTY 0321 Random 3-Sricker set",
+            "price": 1000,
+            "available": false
+          },
+          {
+            "title": "KMNPARTY 0718 Random 3-Sricker set",
+            "price": 1500,
+            "available": true
+          }
+        ]
+      }
+    ],
+    "removed_products": [],
+    "availability_changes": []
+  },
+  {
     "date": "2026-09-17T14:57:43.864139+09:00",
     "new_products": [
       {
