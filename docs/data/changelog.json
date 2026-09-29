@@ -1,5 +1,116 @@
 [
   {
+    "date": "2026-09-29T15:43:18.140841+09:00",
+    "new_products": [
+      {
+        "id": 9367391731938,
+        "title": "MEDA × ⁠NEUN TWO-MAN LIVE \"DUALCORE\"  ランダムフォト風カード&ランダム場面写ブロマイド",
+        "handle": "meda-neun-two-man-live-dualcore-photo-bromide",
+        "singers": [
+          "MEDA",
+          "NEUN"
+        ],
+        "tags": [
+          "MEDA",
+          "NEUN",
+          "NEW",
+          "RK Music",
+          "受注生産商品"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/MEDA_NEUN_TWO_EC_345b5134-520a-4a74-972b-43fb6023cd12.jpg?v=1790054873",
+        "url": "https://shop.reality-studios.inc/products/meda-neun-two-man-live-dualcore-photo-bromide",
+        "published_at": "2026-09-28T18:00:05+09:00",
+        "updated_at": "2026-09-29T15:43:17+09:00",
+        "variants": [
+          {
+            "title": "ランダムフォト風カード（MEDA & NEUN 5種）",
+            "price": 500,
+            "available": true
+          },
+          {
+            "title": "ランダム場面写ブロマイド",
+            "price": 500,
+            "available": true
+          }
+        ]
+      },
+      {
+        "id": 9367122477282,
+        "title": "MEDA × ⁠NEUN TWO-MAN LIVE \"DUALCORE\"",
+        "handle": "meda-neun-two-man-live-dualcore",
+        "singers": [
+          "MEDA",
+          "NEUN"
+        ],
+        "tags": [
+          "MEDA",
+          "NEUN",
+          "NEW",
+          "RK Music",
+          "在庫限り"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/MEDA_NEUN_TWO_EC_SP.jpg?v=1789539895",
+        "url": "https://shop.reality-studios.inc/products/meda-neun-two-man-live-dualcore",
+        "published_at": "2026-09-28T18:00:04+09:00",
+        "updated_at": "2026-09-29T15:43:17+09:00",
+        "variants": [
+          {
+            "title": "ビッグシルエットTシャツ MEDA & NEUN Mサイズ",
+            "price": 7500,
+            "available": true
+          },
+          {
+            "title": "ビッグシルエットTシャツ MEDA & NEUN Lサイズ",
+            "price": 7500,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド MEDA",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド NEUN",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "めじるしアクセサリー2個セット",
+            "price": 1500,
+            "available": true
+          },
+          {
+            "title": "ペンライト（MEDA × ⁠NEUN TWO-MAN ver.）",
+            "price": 4800,
+            "available": true
+          },
+          {
+            "title": "トートバッグ MEDA & NEUN",
+            "price": 3000,
+            "available": true
+          },
+          {
+            "title": "タトゥーシール",
+            "price": 1800,
+            "available": true
+          },
+          {
+            "title": "ペンライトフィルム MEDA",
+            "price": 1000,
+            "available": true
+          },
+          {
+            "title": "ペンライトフィルム NEUN",
+            "price": 1000,
+            "available": true
+          }
+        ]
+      }
+    ],
+    "removed_products": [],
+    "availability_changes": []
+  },
+  {
     "date": "2026-09-25T15:00:42.471614+09:00",
     "new_products": [
       {
