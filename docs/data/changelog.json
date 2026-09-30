@@ -1,5 +1,95 @@
 [
   {
+    "date": "2026-09-30T15:31:27.034715+09:00",
+    "new_products": [
+      {
+        "id": 9367607345378,
+        "title": "CULUA 1st ONE-MAN LIVE \"WAYPOINT\"",
+        "handle": "culua-1st-one-man-live-waypoint",
+        "singers": [
+          "CULUA"
+        ],
+        "tags": [
+          "CULUA",
+          "Fused",
+          "NEW",
+          "RK Music"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/CULUA_WAYPOINT_EC_0924_1ol_02_1.png?v=1790652143",
+        "url": "https://shop.reality-studios.inc/products/culua-1st-one-man-live-waypoint",
+        "published_at": "2026-09-29T18:00:04+09:00",
+        "updated_at": "2026-09-30T15:31:26+09:00",
+        "variants": [
+          {
+            "title": "ビッグシルエットTシャツ Mサイズ",
+            "price": 7500,
+            "available": true
+          },
+          {
+            "title": "ビッグシルエットTシャツ Lサイズ",
+            "price": 7500,
+            "available": true
+          },
+          {
+            "title": "フェイスタオル",
+            "price": 3300,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "ペンライトフィルム",
+            "price": 1000,
+            "available": true
+          },
+          {
+            "title": "アクリルキーホルダー",
+            "price": 1500,
+            "available": true
+          },
+          {
+            "title": "ステッカー2種＋チェキ風カード1種セット",
+            "price": 1500,
+            "available": true
+          },
+          {
+            "title": "缶バッジ2個セット",
+            "price": 1000,
+            "available": true
+          }
+        ]
+      }
+    ],
+    "removed_products": [],
+    "availability_changes": [
+      {
+        "product_title": "MEDA × ⁠NEUN TWO-MAN LIVE \"DUALCORE\"",
+        "singers": [
+          "MEDA",
+          "NEUN"
+        ],
+        "variant": "ペンライト（MEDA × ⁠NEUN TWO-MAN ver.）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "KMNPARTY 0913",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "variant": "KMNPARTY RELOADED KMN Towel",
+        "before": true,
+        "after": false
+      }
+    ]
+  },
+  {
     "date": "2026-09-29T15:43:18.140841+09:00",
     "new_products": [
       {
