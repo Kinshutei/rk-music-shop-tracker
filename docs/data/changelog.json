@@ -1,5 +1,91 @@
 [
   {
+    "date": "2026-10-01T16:04:11.234022+09:00",
+    "new_products": [
+      {
+        "id": 9369290604770,
+        "title": "HACHI 4th ONE-MAN Live \"Revealia\"",
+        "handle": "hachi-4th-one-man-live-revealia",
+        "singers": [
+          "HACHI"
+        ],
+        "tags": [
+          "HACHI",
+          "NEW",
+          "RK Music"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/HACHI_Revealia_EC_0924_1ol_02.png?v=1790658342",
+        "url": "https://shop.reality-studios.inc/products/hachi-4th-one-man-live-revealia",
+        "published_at": "2026-09-30T18:00:04+09:00",
+        "updated_at": "2026-10-01T16:04:10+09:00",
+        "variants": [
+          {
+            "title": "ライブTシャツ ホワイト XLサイズ",
+            "price": 5000,
+            "available": true
+          },
+          {
+            "title": "ライブTシャツ ブラック Lサイズ",
+            "price": 5000,
+            "available": true
+          },
+          {
+            "title": "ライブTシャツ ブラック XLサイズ",
+            "price": 5000,
+            "available": true
+          },
+          {
+            "title": "マフラータオル",
+            "price": 2500,
+            "available": true
+          },
+          {
+            "title": "トートバッグ",
+            "price": 3000,
+            "available": true
+          },
+          {
+            "title": "モーテルアクリルキーホルダー",
+            "price": 1800,
+            "available": true
+          },
+          {
+            "title": "アクリルジオラマスタンド",
+            "price": 2800,
+            "available": true
+          },
+          {
+            "title": "カラビナ",
+            "price": 1500,
+            "available": true
+          }
+        ]
+      }
+    ],
+    "removed_products": [],
+    "availability_changes": [
+      {
+        "product_title": "CULUA 1st ONE-MAN LIVE \"WAYPOINT\"",
+        "singers": [
+          "CULUA"
+        ],
+        "variant": "フェイスタオル",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "MEDA × ⁠NEUN TWO-MAN LIVE \"DUALCORE\"",
+        "singers": [
+          "MEDA",
+          "NEUN"
+        ],
+        "variant": "ペンライトフィルム MEDA",
+        "before": true,
+        "after": false
+      }
+    ]
+  },
+  {
     "date": "2026-09-30T15:31:27.034715+09:00",
     "new_products": [
       {
