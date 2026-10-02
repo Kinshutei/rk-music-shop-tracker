@@ -1,5 +1,77 @@
 [
   {
+    "date": "2026-10-02T15:52:06.406576+09:00",
+    "new_products": [
+      {
+        "id": 10308149838050,
+        "title": "CONA×Diα TWO-MAN LIVE \"泡沫花\"",
+        "handle": "cona-diα-two-man-live",
+        "singers": [
+          "CONA",
+          "Diα"
+        ],
+        "tags": [
+          "CONA",
+          "Diα",
+          "NEW",
+          "RK Music"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/conaDi____EC_0924_1ol_02.png?v=1790660755",
+        "url": "https://shop.reality-studios.inc/products/cona-diα-two-man-live",
+        "published_at": "2026-10-01T18:00:01+09:00",
+        "updated_at": "2026-10-02T15:52:05+09:00",
+        "variants": [
+          {
+            "title": "ビッグシルエットTシャツ Mサイズ",
+            "price": 7500,
+            "available": true
+          },
+          {
+            "title": "ビッグシルエットTシャツ Lサイズ",
+            "price": 7500,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド CONA",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "ペンライトフィルム CONA",
+            "price": 1000,
+            "available": true
+          },
+          {
+            "title": "アクリルキーホルダー",
+            "price": 1500,
+            "available": false
+          }
+        ]
+      }
+    ],
+    "removed_products": [],
+    "availability_changes": [
+      {
+        "product_title": "HACHI 4th ONE-MAN Live \"Revealia\"",
+        "singers": [
+          "HACHI"
+        ],
+        "variant": "ライブTシャツ ホワイト XLサイズ",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "HACHI 4th ONE-MAN Live \"Revealia\"",
+        "singers": [
+          "HACHI"
+        ],
+        "variant": "ライブTシャツ ブラック Lサイズ",
+        "before": true,
+        "after": false
+      }
+    ]
+  },
+  {
     "date": "2026-10-01T16:04:11.234022+09:00",
     "new_products": [
       {
