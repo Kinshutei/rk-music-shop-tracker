@@ -1,5 +1,124 @@
 [
   {
+    "date": "2026-10-04T15:42:13.921807+09:00",
+    "new_products": [
+      {
+        "id": 15388221767906,
+        "title": "Setono Toto Birthday Goods 2026",
+        "handle": "setonototo-birthday-goods-2026",
+        "singers": [
+          "瀬戸乃とと"
+        ],
+        "tags": [
+          "NEW",
+          "RK Music",
+          "受注生産商品",
+          "瀬戸乃とと"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/2026_EC_SP.jpg?v=1790940390",
+        "url": "https://shop.reality-studios.inc/products/setonototo-birthday-goods-2026",
+        "published_at": "2026-10-04T08:36:43+09:00",
+        "updated_at": "2026-10-04T15:42:13+09:00",
+        "variants": [
+          {
+            "title": "コンプリートセット　スウェット（ブラック）（Lサイズ）",
+            "price": 19400,
+            "available": true
+          },
+          {
+            "title": "コンプリートセット　スウェット（ブラック）（XLサイズ）",
+            "price": 19400,
+            "available": true
+          },
+          {
+            "title": "コンプリートセット　スウェット（グレージュ）（Lサイズ）",
+            "price": 19400,
+            "available": true
+          },
+          {
+            "title": "コンプリートセット　スウェット（グレージュ）（XLサイズ）",
+            "price": 19400,
+            "available": true
+          },
+          {
+            "title": "スウェット（ブラック）（Lサイズ）",
+            "price": 9000,
+            "available": true
+          },
+          {
+            "title": "スウェット（ブラック）（XLサイズ）",
+            "price": 9000,
+            "available": true
+          },
+          {
+            "title": "スウェット（グレージュ）（Lサイズ）",
+            "price": 9000,
+            "available": true
+          },
+          {
+            "title": "スウェット（グレージュ）（XLサイズ）",
+            "price": 9000,
+            "available": true
+          },
+          {
+            "title": "巾着トートバッグ",
+            "price": 4000,
+            "available": true
+          },
+          {
+            "title": "アクリルジオラマ",
+            "price": 4000,
+            "available": true
+          },
+          {
+            "title": "ステッカーセット（３枚セット）",
+            "price": 900,
+            "available": true
+          },
+          {
+            "title": "合皮キーリング",
+            "price": 1500,
+            "available": true
+          },
+          {
+            "title": "めじるしアクセサリー（ランダム3種）",
+            "price": 800,
+            "available": true
+          }
+        ]
+      },
+      {
+        "id": 9369353748706,
+        "title": "HACHI 4th ONE-MAN Live \"Revealia\" 場面写ブロマイド",
+        "handle": "hachi-4th-one-man-live-revealia-bromide",
+        "singers": [
+          "HACHI",
+          "LIVE UNION"
+        ],
+        "tags": [
+          "HACHI",
+          "LIVE UNION",
+          "NEW",
+          "RK Music",
+          "受注生産商品"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/a3e1dec122de402dfa36be039d1a8ec0.png?v=1791088090",
+        "url": "https://shop.reality-studios.inc/products/hachi-4th-one-man-live-revealia-bromide",
+        "published_at": "2026-10-04T10:37:30+09:00",
+        "updated_at": "2026-10-04T15:42:13+09:00",
+        "variants": [
+          {
+            "title": "場面写ブロマイド",
+            "price": 500,
+            "available": true
+          }
+        ]
+      }
+    ],
+    "removed_products": [],
+    "availability_changes": []
+  },
+  {
     "date": "2026-10-02T15:52:06.406576+09:00",
     "new_products": [
       {
