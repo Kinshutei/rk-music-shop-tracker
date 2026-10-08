@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-10-08T16:11:44.796679+09:00",
+    "new_products": [
+      {
+        "id": 15382777364706,
+        "title": "KMNZ 5th ONE-MAN LIVE 「GOIN'UP」 Blu-ray",
+        "handle": "kmnz-5th-one-man-goinup-blu-ray",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "tags": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "NEW",
+          "RK Music",
+          "TINA",
+          "受注生産商品"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/KMNZ5thLIVE_BD_menu_EC_box_1_2634cd83-b845-4fbd-b755-907d7c3e303b.jpg?v=1791345752",
+        "url": "https://shop.reality-studios.inc/products/kmnz-5th-one-man-goinup-blu-ray",
+        "published_at": "2026-10-07T18:00:02+09:00",
+        "updated_at": "2026-10-08T16:11:44+09:00",
+        "variants": [
+          {
+            "title": "【Blu-ray】KMNZ 5th ONE-MAN LIVE「GOIN'UP」",
+            "price": 15000,
+            "available": true
+          }
+        ]
+      }
+    ],
+    "removed_products": [],
+    "availability_changes": []
+  },
+  {
     "date": "2026-10-04T15:42:13.921807+09:00",
     "new_products": [
       {
