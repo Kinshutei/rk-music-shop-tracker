@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-10-09T16:15:56.825175+09:00",
+    "new_products": [],
+    "removed_products": [],
+    "availability_changes": [
+      {
+        "product_title": "CULUA 1st ONE-MAN LIVE \"WAYPOINT\"",
+        "singers": [
+          "CULUA"
+        ],
+        "variant": "ペンライトフィルム",
+        "before": true,
+        "after": false
+      }
+    ]
+  },
+  {
     "date": "2026-10-08T16:11:44.796679+09:00",
     "new_products": [
       {
