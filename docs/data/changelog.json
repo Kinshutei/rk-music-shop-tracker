@@ -1,5 +1,152 @@
 [
   {
+    "date": "2026-10-11T15:57:27.067197+09:00",
+    "new_products": [
+      {
+        "id": 15403305500898,
+        "title": "HACHI VIIIHIVE SHOWCASE",
+        "handle": "hachi-viiihive-showcase",
+        "singers": [
+          "HACHI"
+        ],
+        "tags": [
+          "HACHI",
+          "NEW",
+          "RK Music",
+          "受注生産商品"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/1080_1080_EC_banner.jpg?v=1791526997",
+        "url": "https://shop.reality-studios.inc/products/hachi-viiihive-showcase",
+        "published_at": "2026-10-11T00:00:03+09:00",
+        "updated_at": "2026-10-11T15:57:26+09:00",
+        "variants": [
+          {
+            "title": "ブルゾン　Mサイズ",
+            "price": 13000,
+            "available": true
+          },
+          {
+            "title": "ブルゾン　Lサイズ",
+            "price": 13000,
+            "available": true
+          },
+          {
+            "title": "ブルゾン　XLサイズ",
+            "price": 13000,
+            "available": true
+          },
+          {
+            "title": "パンツ（ブラック）Mサイズ",
+            "price": 12000,
+            "available": true
+          },
+          {
+            "title": "パンツ（ブラック）Lサイズ",
+            "price": 12000,
+            "available": true
+          },
+          {
+            "title": "パンツ（ブラック）XLサイズ",
+            "price": 12000,
+            "available": true
+          },
+          {
+            "title": "デニムパンツ　Mサイズ",
+            "price": 14000,
+            "available": true
+          },
+          {
+            "title": "デニムパンツ　Lサイズ",
+            "price": 14000,
+            "available": true
+          },
+          {
+            "title": "デニムパンツ　XLサイズ",
+            "price": 14000,
+            "available": true
+          },
+          {
+            "title": "パンツ（セットアップカラー）Mサイズ",
+            "price": 12000,
+            "available": true
+          },
+          {
+            "title": "パンツ（セットアップカラー）Lサイズ",
+            "price": 12000,
+            "available": true
+          },
+          {
+            "title": "パンツ（セットアップカラー）XLサイズ",
+            "price": 12000,
+            "available": true
+          },
+          {
+            "title": "スウェットシャツ　Mサイズ",
+            "price": 11000,
+            "available": true
+          },
+          {
+            "title": "スウェットシャツ　Lサイズ",
+            "price": 11000,
+            "available": true
+          },
+          {
+            "title": "スウェットシャツ　XLサイズ",
+            "price": 11000,
+            "available": true
+          },
+          {
+            "title": "ロングTシャツ（ホワイト）Mサイズ",
+            "price": 10000,
+            "available": true
+          },
+          {
+            "title": "ロングTシャツ（ホワイト）Lサイズ",
+            "price": 10000,
+            "available": true
+          },
+          {
+            "title": "ロングTシャツ（ホワイト）XLサイズ",
+            "price": 10000,
+            "available": true
+          },
+          {
+            "title": "ロングTシャツ（ブラック）Mサイズ",
+            "price": 10000,
+            "available": true
+          },
+          {
+            "title": "ロングTシャツ（ブラック）Lサイズ",
+            "price": 10000,
+            "available": true
+          },
+          {
+            "title": "ロングTシャツ（ブラック）XLサイズ",
+            "price": 10000,
+            "available": true
+          },
+          {
+            "title": "キャップ（ブラック）",
+            "price": 6000,
+            "available": true
+          },
+          {
+            "title": "キャップ（グレー）",
+            "price": 6000,
+            "available": true
+          },
+          {
+            "title": "サコッシュ",
+            "price": 8000,
+            "available": true
+          }
+        ]
+      }
+    ],
+    "removed_products": [],
+    "availability_changes": []
+  },
+  {
     "date": "2026-10-09T16:15:56.825175+09:00",
     "new_products": [],
     "removed_products": [],
