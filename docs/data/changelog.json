@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-10-14T14:58:05.770233+09:00",
+    "new_products": [],
+    "removed_products": [],
+    "availability_changes": [
+      {
+        "product_title": "KMNPARTY 0913",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "variant": "KMNPARTY 0321 KMN Long Sleeve T　Lサイズ",
+        "before": true,
+        "after": false
+      }
+    ]
+  },
+  {
     "date": "2026-10-11T15:57:27.067197+09:00",
     "new_products": [
       {
