@@ -1,5 +1,100 @@
 [
   {
+    "date": "2026-10-16T14:40:58.689979+09:00",
+    "new_products": [
+      {
+        "id": 9331734479074,
+        "title": "RK Music School Fes. Goods 2026",
+        "handle": "rkmusicschoolfesgoods2026",
+        "singers": [
+          "Diα",
+          "IMI",
+          "MEDA",
+          "wouca",
+          "ヨノ",
+          "妃玖",
+          "水瀬 凪",
+          "瀬戸乃とと"
+        ],
+        "tags": [
+          "Diα",
+          "IMI",
+          "MEDA",
+          "NEW",
+          "wouca",
+          "ヨノ",
+          "受注生産商品",
+          "妃玖",
+          "水瀬 凪",
+          "瀬戸乃とと"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/rkmfes_vol1_goods_EC_SP.jpg?v=1792041635",
+        "url": "https://shop.reality-studios.inc/products/rkmusicschoolfesgoods2026",
+        "published_at": "2026-10-15T19:24:22+09:00",
+        "updated_at": "2026-10-16T14:40:58+09:00",
+        "variants": [
+          {
+            "title": "アクリルスタンドコンプリートセット",
+            "price": 17600,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド　瀬戸乃とと",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド　水瀬凪",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド　MEDA",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド　IMI",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド　ヨノ",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド　wouca",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド　妃玖",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド　Diα",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "B2タペストリー",
+            "price": 5000,
+            "available": true
+          },
+          {
+            "title": "ランダムチェキ風カード",
+            "price": 500,
+            "available": true
+          }
+        ]
+      }
+    ],
+    "removed_products": [],
+    "availability_changes": []
+  },
+  {
     "date": "2026-10-14T14:58:05.770233+09:00",
     "new_products": [],
     "removed_products": [],
