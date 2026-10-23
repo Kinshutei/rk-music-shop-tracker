@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-10-23T14:52:26.741162+09:00",
+    "new_products": [],
+    "removed_products": [],
+    "availability_changes": [
+      {
+        "product_title": "HACHI 4th ONE-MAN Live \"Revealia\"",
+        "singers": [
+          "HACHI"
+        ],
+        "variant": "モーテルアクリルキーホルダー",
+        "before": true,
+        "after": false
+      }
+    ]
+  },
+  {
     "date": "2026-10-21T14:51:20.229622+09:00",
     "new_products": [],
     "removed_products": [],
