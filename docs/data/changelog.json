@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026-10-25T14:50:57.135285+09:00",
+    "new_products": [],
+    "removed_products": [],
+    "availability_changes": [
+      {
+        "product_title": "MEDA × ⁠NEUN TWO-MAN LIVE \"DUALCORE\"",
+        "singers": [
+          "MEDA",
+          "NEUN"
+        ],
+        "variant": "めじるしアクセサリー2個セット",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "MEDA × ⁠NEUN TWO-MAN LIVE \"DUALCORE\"",
+        "singers": [
+          "MEDA",
+          "NEUN"
+        ],
+        "variant": "ペンライトフィルム NEUN",
+        "before": true,
+        "after": false
+      }
+    ]
+  },
+  {
     "date": "2026-10-23T14:52:26.741162+09:00",
     "new_products": [],
     "removed_products": [],
