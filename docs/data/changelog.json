@@ -1,5 +1,133 @@
 [
   {
+    "date": "2026-10-27T15:06:47.727038+09:00",
+    "new_products": [],
+    "removed_products": [],
+    "availability_changes": [
+      {
+        "product_title": "NUROJUNK SEASONAL PACKAGE AUTUMN 2026",
+        "singers": [
+          "NUROJUNK",
+          "カグラ",
+          "サクヤ"
+        ],
+        "variant": "コンプリートセット（ロングスリーブTシャツ Mサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "NUROJUNK SEASONAL PACKAGE AUTUMN 2026",
+        "singers": [
+          "NUROJUNK",
+          "カグラ",
+          "サクヤ"
+        ],
+        "variant": "コンプリートセット（ロングスリーブTシャツ Lサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "NUROJUNK SEASONAL PACKAGE AUTUMN 2026",
+        "singers": [
+          "NUROJUNK",
+          "カグラ",
+          "サクヤ"
+        ],
+        "variant": "コンプリートセット（ロングスリーブTシャツ XLサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "NUROJUNK SEASONAL PACKAGE AUTUMN 2026",
+        "singers": [
+          "NUROJUNK",
+          "カグラ",
+          "サクヤ"
+        ],
+        "variant": "NUROJUNK ロングスリーブTシャツ　Mサイズ",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "NUROJUNK SEASONAL PACKAGE AUTUMN 2026",
+        "singers": [
+          "NUROJUNK",
+          "カグラ",
+          "サクヤ"
+        ],
+        "variant": "NUROJUNK ロングスリーブTシャツ　Lサイズ",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "NUROJUNK SEASONAL PACKAGE AUTUMN 2026",
+        "singers": [
+          "NUROJUNK",
+          "カグラ",
+          "サクヤ"
+        ],
+        "variant": "NUROJUNK ロングスリーブTシャツ　XLサイズ",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "NUROJUNK SEASONAL PACKAGE AUTUMN 2026",
+        "singers": [
+          "NUROJUNK",
+          "カグラ",
+          "サクヤ"
+        ],
+        "variant": "NUROJUNK ネックストラップ",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "NUROJUNK SEASONAL PACKAGE AUTUMN 2026",
+        "singers": [
+          "NUROJUNK",
+          "カグラ",
+          "サクヤ"
+        ],
+        "variant": "LIMBS メタルドッグタグ",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "NUROJUNK SEASONAL PACKAGE AUTUMN 2026",
+        "singers": [
+          "NUROJUNK",
+          "カグラ",
+          "サクヤ"
+        ],
+        "variant": "NUROJUNK ステッカーセット",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "NUROJUNK SEASONAL PACKAGE AUTUMN 2026",
+        "singers": [
+          "NUROJUNK",
+          "カグラ",
+          "サクヤ"
+        ],
+        "variant": "NUROJUNK 刺繍ロゴキャップ",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "NUROJUNK SEASONAL PACKAGE AUTUMN 2026",
+        "singers": [
+          "NUROJUNK",
+          "カグラ",
+          "サクヤ"
+        ],
+        "variant": "PENTACORP フレーバーテキストカード付きランダムアクリルキーホルダー",
+        "before": true,
+        "after": false
+      }
+    ]
+  },
+  {
     "date": "2026-10-25T14:50:57.135285+09:00",
     "new_products": [],
     "removed_products": [],
