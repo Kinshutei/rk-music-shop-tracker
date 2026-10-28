@@ -1,5 +1,223 @@
 [
   {
+    "date": "2026-10-28T15:44:57.523176+09:00",
+    "new_products": [
+      {
+        "id": 15450389872866,
+        "title": "KAGURA BIRTHDAY GOODS LINEUP",
+        "handle": "kagura-birthday-goods-lineup-2026",
+        "singers": [
+          "NUROJUNK",
+          "カグラ"
+        ],
+        "tags": [
+          "NEW",
+          "NUROJUNK",
+          "RK Music",
+          "カグラ",
+          "受注生産商品"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/BD_EC_SP.jpg?v=1793083042",
+        "url": "https://shop.reality-studios.inc/products/kagura-birthday-goods-lineup-2026",
+        "published_at": "2026-10-27T21:00:04+09:00",
+        "updated_at": "2026-10-28T15:44:57+09:00",
+        "variants": [
+          {
+            "title": "コンプリートセット（ヴィンテージ風Tシャツ/Mサイズ）",
+            "price": 15800,
+            "available": true
+          },
+          {
+            "title": "コンプリートセット（ヴィンテージ風Tシャツ/Lサイズ）",
+            "price": 15800,
+            "available": true
+          },
+          {
+            "title": "コンプリートセット（ヴィンテージ風Tシャツ/XLサイズ）",
+            "price": 15800,
+            "available": true
+          },
+          {
+            "title": "ヴィンテージ風Tシャツ　Mサイズ",
+            "price": 7500,
+            "available": true
+          },
+          {
+            "title": "ヴィンテージ風Tシャツ　Lサイズ",
+            "price": 7500,
+            "available": true
+          },
+          {
+            "title": "ヴィンテージ風Tシャツ　XLサイズ",
+            "price": 7500,
+            "available": true
+          },
+          {
+            "title": "クリアポーチ",
+            "price": 2500,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "3連アクリルキーホルダー",
+            "price": 1800,
+            "available": true
+          },
+          {
+            "title": "ステッカー5種セット",
+            "price": 1800,
+            "available": true
+          },
+          {
+            "title": "ランダムチェキ風カード（全6種）",
+            "price": 500,
+            "available": true
+          }
+        ]
+      },
+      {
+        "id": 15448351899874,
+        "title": "CIXY 2nd Anniversary Goods",
+        "handle": "cixy-2nd-anniversary-goods",
+        "singers": [
+          "IMI",
+          "XIDEN",
+          "ヨノ"
+        ],
+        "tags": [
+          "IMI",
+          "NEW",
+          "RK Music",
+          "XIDEN",
+          "ヨノ",
+          "受注生産商品"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/CIXY2_EC_SP.jpg?v=1793089970",
+        "url": "https://shop.reality-studios.inc/products/cixy-2nd-anniversary-goods",
+        "published_at": "2026-10-27T18:17:55+09:00",
+        "updated_at": "2026-10-28T15:44:57+09:00",
+        "variants": [
+          {
+            "title": "推しセット CONA",
+            "price": 8200,
+            "available": true
+          },
+          {
+            "title": "推しセット IMI",
+            "price": 8200,
+            "available": true
+          },
+          {
+            "title": "推しセット XIDEN",
+            "price": 8200,
+            "available": true
+          },
+          {
+            "title": "推しセット ヨノ",
+            "price": 8200,
+            "available": true
+          },
+          {
+            "title": "デスクマット",
+            "price": 4500,
+            "available": true
+          },
+          {
+            "title": "チェキホルダー CONA",
+            "price": 3500,
+            "available": true
+          },
+          {
+            "title": "チェキホルダー IMI",
+            "price": 3500,
+            "available": true
+          },
+          {
+            "title": "チェキホルダー XIDEN",
+            "price": 3500,
+            "available": true
+          },
+          {
+            "title": "チェキホルダー ヨノ",
+            "price": 3500,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド CONA",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド IMI",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド XIDEN",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド ヨノ",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "アクリルキーホルダー CONA",
+            "price": 1500,
+            "available": true
+          },
+          {
+            "title": "アクリルキーホルダー IMI",
+            "price": 1500,
+            "available": true
+          },
+          {
+            "title": "アクリルキーホルダー XIDEN",
+            "price": 1500,
+            "available": true
+          },
+          {
+            "title": "アクリルキーホルダー ヨノ",
+            "price": 1500,
+            "available": true
+          },
+          {
+            "title": "缶バッジ（２個セット） CONA",
+            "price": 1000,
+            "available": true
+          },
+          {
+            "title": "缶バッジ（２個セット） IMI",
+            "price": 1000,
+            "available": true
+          },
+          {
+            "title": "缶バッジ（２個セット） XIDEN",
+            "price": 1000,
+            "available": true
+          },
+          {
+            "title": "缶バッジ（２個セット） ヨノ",
+            "price": 1000,
+            "available": true
+          },
+          {
+            "title": "ランダムチェキ風カード（全８種）",
+            "price": 500,
+            "available": true
+          }
+        ]
+      }
+    ],
+    "removed_products": [],
+    "availability_changes": []
+  },
+  {
     "date": "2026-10-27T15:06:47.727038+09:00",
     "new_products": [],
     "removed_products": [],
