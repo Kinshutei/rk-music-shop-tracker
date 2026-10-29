@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-10-29T15:52:48.942319+09:00",
+    "new_products": [],
+    "removed_products": [],
+    "availability_changes": [
+      {
+        "product_title": "CONA×Diα TWO-MAN LIVE \"泡沫花\"",
+        "singers": [
+          "CONA",
+          "Diα"
+        ],
+        "variant": "アクリルスタンド CONA",
+        "before": true,
+        "after": false
+      }
+    ]
+  },
+  {
     "date": "2026-10-28T15:44:57.523176+09:00",
     "new_products": [
       {
