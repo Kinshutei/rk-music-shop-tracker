@@ -1,5 +1,142 @@
 [
   {
+    "date": "2026-11-01T16:16:31.772527+09:00",
+    "new_products": [
+      {
+        "id": 15466846945506,
+        "title": "RK Music Halloween Goods 2026",
+        "handle": "rk-music-halloween-goods-2026",
+        "singers": [
+          "BAMBI",
+          "NEUN",
+          "XIDEN",
+          "サクヤ",
+          "焔魔るり",
+          "羽緒"
+        ],
+        "tags": [
+          "BAMBI",
+          "NEUN",
+          "NEW",
+          "RK Music",
+          "XIDEN",
+          "サクヤ",
+          "受注生産商品",
+          "焔魔るり",
+          "羽緒"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/RKM_utamita2026_Halloween_EC_1029_1ol_8cf490f2-f71a-423a-87bb-876e322d0035.png?v=1793338734",
+        "url": "https://shop.reality-studios.inc/products/rk-music-halloween-goods-2026",
+        "published_at": "2026-10-31T18:00:03+09:00",
+        "updated_at": "2026-11-01T16:16:31+09:00",
+        "variants": [
+          {
+            "title": "アクリルスタンドコンプリートセット",
+            "price": 13200,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド 焔魔るり",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド 羽緒",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド BAMBI",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド サクヤ",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド NEUN",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド XIDEN",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "蓄光缶バッジ 焔魔るり",
+            "price": 800,
+            "available": true
+          },
+          {
+            "title": "蓄光缶バッジ 羽緒",
+            "price": 800,
+            "available": true
+          },
+          {
+            "title": "蓄光缶バッジ BAMBI",
+            "price": 800,
+            "available": true
+          },
+          {
+            "title": "蓄光缶バッジ サクヤ",
+            "price": 800,
+            "available": true
+          },
+          {
+            "title": "蓄光缶バッジ NEUN",
+            "price": 800,
+            "available": true
+          },
+          {
+            "title": "蓄光缶バッジ XIDEN",
+            "price": 800,
+            "available": true
+          },
+          {
+            "title": "B2 タペストリー",
+            "price": 5000,
+            "available": true
+          },
+          {
+            "title": "ランダムチェキ風カード（全６種）",
+            "price": 500,
+            "available": true
+          }
+        ]
+      },
+      {
+        "id": 15454748377314,
+        "title": "Diα Halloween Goods 2026",
+        "handle": "diα-halloween-goods-2026",
+        "singers": [
+          "Diα"
+        ],
+        "tags": [
+          "Diα",
+          "NEW",
+          "RK Music",
+          "受注生産商品"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/Di__Halloween2026_EC_1030_2ol-02.png?v=1793409433",
+        "url": "https://shop.reality-studios.inc/products/diα-halloween-goods-2026",
+        "published_at": "2026-10-31T17:00:02+09:00",
+        "updated_at": "2026-11-01T16:16:31+09:00",
+        "variants": [
+          {
+            "title": "ハロウィンミニセット",
+            "price": 2500,
+            "available": true
+          }
+        ]
+      }
+    ],
+    "removed_products": [],
+    "availability_changes": []
+  },
+  {
     "date": "2026-10-29T15:52:48.942319+09:00",
     "new_products": [],
     "removed_products": [],
