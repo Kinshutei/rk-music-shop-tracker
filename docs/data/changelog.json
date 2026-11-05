@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-11-05T16:49:25.583617+09:00",
+    "new_products": [],
+    "removed_products": [],
+    "availability_changes": [
+      {
+        "product_title": "Setono Toto Birthday Goods 2026",
+        "singers": [
+          "瀬戸乃とと"
+        ],
+        "variant": "コンプリートセット　スウェット（ブラック）（Lサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "Setono Toto Birthday Goods 2026",
+        "singers": [
+          "瀬戸乃とと"
+        ],
+        "variant": "コンプリートセット　スウェット（ブラック）（XLサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "Setono Toto Birthday Goods 2026",
+        "singers": [
+          "瀬戸乃とと"
+        ],
+        "variant": "コンプリートセット　スウェット（グレージュ）（Lサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "Setono Toto Birthday Goods 2026",
+        "singers": [
+          "瀬戸乃とと"
+        ],
+        "variant": "コンプリートセット　スウェット（グレージュ）（XLサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "Setono Toto Birthday Goods 2026",
+        "singers": [
+          "瀬戸乃とと"
+        ],
+        "variant": "スウェット（ブラック）（Lサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "Setono Toto Birthday Goods 2026",
+        "singers": [
+          "瀬戸乃とと"
+        ],
+        "variant": "スウェット（ブラック）（XLサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "Setono Toto Birthday Goods 2026",
+        "singers": [
+          "瀬戸乃とと"
+        ],
+        "variant": "スウェット（グレージュ）（Lサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "Setono Toto Birthday Goods 2026",
+        "singers": [
+          "瀬戸乃とと"
+        ],
+        "variant": "スウェット（グレージュ）（XLサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "Setono Toto Birthday Goods 2026",
+        "singers": [
+          "瀬戸乃とと"
+        ],
+        "variant": "巾着トートバッグ",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "Setono Toto Birthday Goods 2026",
+        "singers": [
+          "瀬戸乃とと"
+        ],
+        "variant": "アクリルジオラマ",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "Setono Toto Birthday Goods 2026",
+        "singers": [
+          "瀬戸乃とと"
+        ],
+        "variant": "ステッカーセット（３枚セット）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "Setono Toto Birthday Goods 2026",
+        "singers": [
+          "瀬戸乃とと"
+        ],
+        "variant": "合皮キーリング",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "Setono Toto Birthday Goods 2026",
+        "singers": [
+          "瀬戸乃とと"
+        ],
+        "variant": "めじるしアクセサリー（ランダム3種）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "KMNPARTY 0913",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "variant": "KMNPARTY 0321 KMN Long Sleeve T　XLサイズ",
+        "before": true,
+        "after": false
+      }
+    ]
+  },
+  {
     "date": "2026-11-01T16:16:31.772527+09:00",
     "new_products": [
       {
