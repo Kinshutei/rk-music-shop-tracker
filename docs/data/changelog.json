@@ -1,5 +1,72 @@
 [
   {
+    "date": "2026-11-06T16:49:19.900898+09:00",
+    "new_products": [
+      {
+        "id": 15475538264290,
+        "title": "MEDA Birthday GOODS 2026",
+        "handle": "meda-birthday-goods-2026",
+        "singers": [
+          "MEDA"
+        ],
+        "tags": [
+          "MEDA",
+          "NEW",
+          "RK Music",
+          "受注生産商品"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/MEDA_BD2026_EC_1104_2ol-02.png?v=1793849920",
+        "url": "https://shop.reality-studios.inc/products/meda-birthday-goods-2026",
+        "published_at": "2026-11-05T21:00:06+09:00",
+        "updated_at": "2026-11-06T16:49:19+09:00",
+        "variants": [
+          {
+            "title": "コンプリートセット　スウェット（Lサイズ）",
+            "price": 19500,
+            "available": true
+          },
+          {
+            "title": "コンプリートセット　スウェット（XLサイズ）",
+            "price": 19500,
+            "available": true
+          },
+          {
+            "title": "スウェット（Lサイズ）",
+            "price": 9000,
+            "available": true
+          },
+          {
+            "title": "スウェット（XLサイズ）",
+            "price": 9000,
+            "available": true
+          },
+          {
+            "title": "B3 タペストリー",
+            "price": 4000,
+            "available": true
+          },
+          {
+            "title": "キーキャップ(4個入り)",
+            "price": 3300,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "CDジャケット風キーホルダー",
+            "price": 1000,
+            "available": true
+          }
+        ]
+      }
+    ],
+    "removed_products": [],
+    "availability_changes": []
+  },
+  {
     "date": "2026-11-05T16:49:25.583617+09:00",
     "new_products": [],
     "removed_products": [],
