@@ -1,5 +1,84 @@
 [
   {
+    "date": "2026-11-08T16:04:18.849697+09:00",
+    "new_products": [
+      {
+        "id": 15476927201506,
+        "title": "TINA 2026 BIRTHDAY OFFICIAL GOODS",
+        "handle": "tina-2026-birthday-official-goods",
+        "singers": [
+          "KMNZ",
+          "TINA"
+        ],
+        "tags": [
+          "KMNZ",
+          "NEW",
+          "RK Music",
+          "TINA",
+          "受注生産商品"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/TINABD_EC_SP2.jpg?v=1793953098",
+        "url": "https://shop.reality-studios.inc/products/tina-2026-birthday-official-goods",
+        "published_at": "2026-11-07T18:00:01+09:00",
+        "updated_at": "2026-11-08T16:04:18+09:00",
+        "variants": [
+          {
+            "title": "グッズセット（フーディーMサイズ）",
+            "price": 16800,
+            "available": true
+          },
+          {
+            "title": "グッズセット（フーディーLサイズ）",
+            "price": 16800,
+            "available": true
+          },
+          {
+            "title": "グッズセット（フーディーXLサイズ）",
+            "price": 16800,
+            "available": true
+          },
+          {
+            "title": "フーディー Mサイズ",
+            "price": 9000,
+            "available": true
+          },
+          {
+            "title": "フーディー Lサイズ",
+            "price": 9000,
+            "available": true
+          },
+          {
+            "title": "フーディー XLサイズ",
+            "price": 9000,
+            "available": true
+          },
+          {
+            "title": "吸水リストバンド",
+            "price": 4500,
+            "available": true
+          },
+          {
+            "title": "チャーム付きアクリルキーホルダー",
+            "price": 2000,
+            "available": true
+          },
+          {
+            "title": "3連ラバーキーストラップ（TINAバージョン1種）",
+            "price": 1300,
+            "available": true
+          },
+          {
+            "title": "【ランダム】ステッカー4種＋TINA描き下ろし1種",
+            "price": 500,
+            "available": true
+          }
+        ]
+      }
+    ],
+    "removed_products": [],
+    "availability_changes": []
+  },
+  {
     "date": "2026-11-06T16:49:19.900898+09:00",
     "new_products": [
       {
