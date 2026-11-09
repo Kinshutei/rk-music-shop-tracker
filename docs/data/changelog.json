@@ -1,5 +1,200 @@
 [
   {
+    "date": "2026-11-09T16:48:34.883700+09:00",
+    "new_products": [],
+    "removed_products": [],
+    "availability_changes": [
+      {
+        "product_title": "RK Music School Fes. Goods 2026",
+        "singers": [
+          "Diα",
+          "IMI",
+          "MEDA",
+          "wouca",
+          "ヨノ",
+          "妃玖",
+          "水瀬 凪",
+          "瀬戸乃とと"
+        ],
+        "variant": "アクリルスタンドコンプリートセット",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "RK Music School Fes. Goods 2026",
+        "singers": [
+          "Diα",
+          "IMI",
+          "MEDA",
+          "wouca",
+          "ヨノ",
+          "妃玖",
+          "水瀬 凪",
+          "瀬戸乃とと"
+        ],
+        "variant": "アクリルスタンド　瀬戸乃とと",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "RK Music School Fes. Goods 2026",
+        "singers": [
+          "Diα",
+          "IMI",
+          "MEDA",
+          "wouca",
+          "ヨノ",
+          "妃玖",
+          "水瀬 凪",
+          "瀬戸乃とと"
+        ],
+        "variant": "アクリルスタンド　水瀬凪",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "RK Music School Fes. Goods 2026",
+        "singers": [
+          "Diα",
+          "IMI",
+          "MEDA",
+          "wouca",
+          "ヨノ",
+          "妃玖",
+          "水瀬 凪",
+          "瀬戸乃とと"
+        ],
+        "variant": "アクリルスタンド　MEDA",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "RK Music School Fes. Goods 2026",
+        "singers": [
+          "Diα",
+          "IMI",
+          "MEDA",
+          "wouca",
+          "ヨノ",
+          "妃玖",
+          "水瀬 凪",
+          "瀬戸乃とと"
+        ],
+        "variant": "アクリルスタンド　IMI",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "RK Music School Fes. Goods 2026",
+        "singers": [
+          "Diα",
+          "IMI",
+          "MEDA",
+          "wouca",
+          "ヨノ",
+          "妃玖",
+          "水瀬 凪",
+          "瀬戸乃とと"
+        ],
+        "variant": "アクリルスタンド　ヨノ",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "RK Music School Fes. Goods 2026",
+        "singers": [
+          "Diα",
+          "IMI",
+          "MEDA",
+          "wouca",
+          "ヨノ",
+          "妃玖",
+          "水瀬 凪",
+          "瀬戸乃とと"
+        ],
+        "variant": "アクリルスタンド　wouca",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "RK Music School Fes. Goods 2026",
+        "singers": [
+          "Diα",
+          "IMI",
+          "MEDA",
+          "wouca",
+          "ヨノ",
+          "妃玖",
+          "水瀬 凪",
+          "瀬戸乃とと"
+        ],
+        "variant": "アクリルスタンド　妃玖",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "RK Music School Fes. Goods 2026",
+        "singers": [
+          "Diα",
+          "IMI",
+          "MEDA",
+          "wouca",
+          "ヨノ",
+          "妃玖",
+          "水瀬 凪",
+          "瀬戸乃とと"
+        ],
+        "variant": "アクリルスタンド　Diα",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "RK Music School Fes. Goods 2026",
+        "singers": [
+          "Diα",
+          "IMI",
+          "MEDA",
+          "wouca",
+          "ヨノ",
+          "妃玖",
+          "水瀬 凪",
+          "瀬戸乃とと"
+        ],
+        "variant": "B2タペストリー",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "RK Music School Fes. Goods 2026",
+        "singers": [
+          "Diα",
+          "IMI",
+          "MEDA",
+          "wouca",
+          "ヨノ",
+          "妃玖",
+          "水瀬 凪",
+          "瀬戸乃とと"
+        ],
+        "variant": "ランダムチェキ風カード",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "KMNZ 「KMN T」",
+        "singers": [
+          "KMNZ",
+          "LITA",
+          "NERO",
+          "TINA"
+        ],
+        "variant": "KMN T（オレンジ/Lサイズ）",
+        "before": true,
+        "after": false
+      }
+    ]
+  },
+  {
     "date": "2026-11-08T16:04:18.849697+09:00",
     "new_products": [
       {
