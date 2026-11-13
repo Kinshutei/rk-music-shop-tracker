@@ -1,5 +1,109 @@
 [
   {
+    "date": "2026-11-13T16:43:18.695268+09:00",
+    "new_products": [
+      {
+        "id": 15492960256226,
+        "title": "羽緒 1st EP 葬華夜譚 Release Goods",
+        "handle": "hao-1st-ep-soukayatan-release-goods",
+        "singers": [
+          "羽緒"
+        ],
+        "tags": [
+          "RK Music",
+          "受注生産商品",
+          "羽緒"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/1stEP__EC_1111_2ol_02.png?v=1794452933",
+        "url": "https://shop.reality-studios.inc/products/hao-1st-ep-soukayatan-release-goods",
+        "published_at": "2026-11-12T22:00:02+09:00",
+        "updated_at": "2026-11-13T16:43:18+09:00",
+        "variants": [
+          {
+            "title": "コンプリートセット",
+            "price": 21600,
+            "available": true
+          },
+          {
+            "title": "CD+特典ブックレットセット",
+            "price": 8600,
+            "available": true
+          },
+          {
+            "title": "アクリルフォトフレーム",
+            "price": 4800,
+            "available": true
+          },
+          {
+            "title": "デスクマット",
+            "price": 4500,
+            "available": true
+          },
+          {
+            "title": "アクリルパネル",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "ポストカード 5枚セット",
+            "price": 1500,
+            "available": true
+          }
+        ]
+      },
+      {
+        "id": 9220800020706,
+        "title": "LIVE UNION ミニぬいシリーズ",
+        "handle": "live-union-mininui",
+        "singers": [
+          "HACHI",
+          "LIVE UNION",
+          "水瀬 凪",
+          "瀬戸乃とと",
+          "焔魔るり"
+        ],
+        "tags": [
+          "HACHI",
+          "LIVE UNION",
+          "RK Music",
+          "ぬいぐるみ",
+          "ミニぬい",
+          "水瀬 凪",
+          "瀬戸乃とと",
+          "焔魔るり"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/2_3090605a-0df6-47fa-8509-75428e5a2440.jpg?v=1780988507",
+        "url": "https://shop.reality-studios.inc/products/live-union-mininui",
+        "published_at": "2026-11-13T12:00:03+09:00",
+        "updated_at": "2026-11-13T16:43:18+09:00",
+        "variants": [
+          {
+            "title": "ミニぬい　＜HACHI＞",
+            "price": 3500,
+            "available": true
+          },
+          {
+            "title": "ミニぬい　＜焔魔るり＞",
+            "price": 3500,
+            "available": true
+          },
+          {
+            "title": "ミニぬい　＜瀬戸乃とと＞",
+            "price": 3500,
+            "available": true
+          },
+          {
+            "title": "ミニぬい　＜水瀬 凪＞",
+            "price": 3500,
+            "available": false
+          }
+        ]
+      }
+    ],
+    "removed_products": [],
+    "availability_changes": []
+  },
+  {
     "date": "2026-11-09T16:48:34.883700+09:00",
     "new_products": [],
     "removed_products": [],
