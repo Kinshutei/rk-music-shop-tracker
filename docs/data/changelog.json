@@ -1,5 +1,68 @@
 [
   {
+    "date": "2026-11-14T16:29:24.950700+09:00",
+    "new_products": [
+      {
+        "id": 15493879431394,
+        "title": "HACHI MEETS YOU ‼",
+        "handle": "hachi-meets-you",
+        "singers": [
+          "HACHI",
+          "LIVE UNION"
+        ],
+        "tags": [
+          "HACHI",
+          "LIVE UNION",
+          "NEW",
+          "RK Music"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/EC_7bed6a99-7dd0-4bf4-aa71-b9d1d7592791.png?v=1794451044",
+        "url": "https://shop.reality-studios.inc/products/hachi-meets-you",
+        "published_at": "2026-11-13T17:00:03+09:00",
+        "updated_at": "2026-11-14T16:29:24+09:00",
+        "variants": [
+          {
+            "title": "Tシャツ （Lサイズ）",
+            "price": 5000,
+            "available": true
+          },
+          {
+            "title": "Tシャツ　（XLサイズ）",
+            "price": 5000,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド",
+            "price": 2800,
+            "available": true
+          },
+          {
+            "title": "ステッカー5種セット",
+            "price": 1800,
+            "available": true
+          },
+          {
+            "title": "アクリルキーホルダー2種セット",
+            "price": 1500,
+            "available": true
+          },
+          {
+            "title": "【ランダム】HACHI 直筆イラスト缶バッジ（全5種）",
+            "price": 500,
+            "available": false
+          },
+          {
+            "title": "【ランダム】サムネイルスクエア缶バッジ（全6種）",
+            "price": 500,
+            "available": false
+          }
+        ]
+      }
+    ],
+    "removed_products": [],
+    "availability_changes": []
+  },
+  {
     "date": "2026-11-13T16:43:18.695268+09:00",
     "new_products": [
       {
