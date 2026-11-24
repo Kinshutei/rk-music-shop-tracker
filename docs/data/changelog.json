@@ -1,5 +1,320 @@
 [
   {
+    "date": "2026-11-24T19:46:20.602795+09:00",
+    "new_products": [],
+    "removed_products": [],
+    "availability_changes": [
+      {
+        "product_title": "KAGURA BIRTHDAY GOODS LINEUP",
+        "singers": [
+          "NUROJUNK",
+          "カグラ"
+        ],
+        "variant": "コンプリートセット（ヴィンテージ風Tシャツ/Mサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "KAGURA BIRTHDAY GOODS LINEUP",
+        "singers": [
+          "NUROJUNK",
+          "カグラ"
+        ],
+        "variant": "コンプリートセット（ヴィンテージ風Tシャツ/Lサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "KAGURA BIRTHDAY GOODS LINEUP",
+        "singers": [
+          "NUROJUNK",
+          "カグラ"
+        ],
+        "variant": "コンプリートセット（ヴィンテージ風Tシャツ/XLサイズ）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "KAGURA BIRTHDAY GOODS LINEUP",
+        "singers": [
+          "NUROJUNK",
+          "カグラ"
+        ],
+        "variant": "ヴィンテージ風Tシャツ　Mサイズ",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "KAGURA BIRTHDAY GOODS LINEUP",
+        "singers": [
+          "NUROJUNK",
+          "カグラ"
+        ],
+        "variant": "ヴィンテージ風Tシャツ　Lサイズ",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "KAGURA BIRTHDAY GOODS LINEUP",
+        "singers": [
+          "NUROJUNK",
+          "カグラ"
+        ],
+        "variant": "ヴィンテージ風Tシャツ　XLサイズ",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "KAGURA BIRTHDAY GOODS LINEUP",
+        "singers": [
+          "NUROJUNK",
+          "カグラ"
+        ],
+        "variant": "クリアポーチ",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "KAGURA BIRTHDAY GOODS LINEUP",
+        "singers": [
+          "NUROJUNK",
+          "カグラ"
+        ],
+        "variant": "アクリルスタンド",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "KAGURA BIRTHDAY GOODS LINEUP",
+        "singers": [
+          "NUROJUNK",
+          "カグラ"
+        ],
+        "variant": "3連アクリルキーホルダー",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "KAGURA BIRTHDAY GOODS LINEUP",
+        "singers": [
+          "NUROJUNK",
+          "カグラ"
+        ],
+        "variant": "ステッカー5種セット",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "KAGURA BIRTHDAY GOODS LINEUP",
+        "singers": [
+          "NUROJUNK",
+          "カグラ"
+        ],
+        "variant": "ランダムチェキ風カード（全6種）",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "CIXY 2nd Anniversary Goods",
+        "singers": [
+          "IMI",
+          "XIDEN",
+          "ヨノ"
+        ],
+        "variant": "デスクマット",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "CIXY 2nd Anniversary Goods",
+        "singers": [
+          "IMI",
+          "XIDEN",
+          "ヨノ"
+        ],
+        "variant": "チェキホルダー CONA",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "CIXY 2nd Anniversary Goods",
+        "singers": [
+          "IMI",
+          "XIDEN",
+          "ヨノ"
+        ],
+        "variant": "チェキホルダー IMI",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "CIXY 2nd Anniversary Goods",
+        "singers": [
+          "IMI",
+          "XIDEN",
+          "ヨノ"
+        ],
+        "variant": "チェキホルダー XIDEN",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "CIXY 2nd Anniversary Goods",
+        "singers": [
+          "IMI",
+          "XIDEN",
+          "ヨノ"
+        ],
+        "variant": "チェキホルダー ヨノ",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "CIXY 2nd Anniversary Goods",
+        "singers": [
+          "IMI",
+          "XIDEN",
+          "ヨノ"
+        ],
+        "variant": "アクリルスタンド CONA",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "CIXY 2nd Anniversary Goods",
+        "singers": [
+          "IMI",
+          "XIDEN",
+          "ヨノ"
+        ],
+        "variant": "アクリルスタンド IMI",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "CIXY 2nd Anniversary Goods",
+        "singers": [
+          "IMI",
+          "XIDEN",
+          "ヨノ"
+        ],
+        "variant": "アクリルスタンド XIDEN",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "CIXY 2nd Anniversary Goods",
+        "singers": [
+          "IMI",
+          "XIDEN",
+          "ヨノ"
+        ],
+        "variant": "アクリルスタンド ヨノ",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "CIXY 2nd Anniversary Goods",
+        "singers": [
+          "IMI",
+          "XIDEN",
+          "ヨノ"
+        ],
+        "variant": "アクリルキーホルダー CONA",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "CIXY 2nd Anniversary Goods",
+        "singers": [
+          "IMI",
+          "XIDEN",
+          "ヨノ"
+        ],
+        "variant": "アクリルキーホルダー IMI",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "CIXY 2nd Anniversary Goods",
+        "singers": [
+          "IMI",
+          "XIDEN",
+          "ヨノ"
+        ],
+        "variant": "アクリルキーホルダー XIDEN",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "CIXY 2nd Anniversary Goods",
+        "singers": [
+          "IMI",
+          "XIDEN",
+          "ヨノ"
+        ],
+        "variant": "アクリルキーホルダー ヨノ",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "CIXY 2nd Anniversary Goods",
+        "singers": [
+          "IMI",
+          "XIDEN",
+          "ヨノ"
+        ],
+        "variant": "缶バッジ（２個セット） CONA",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "CIXY 2nd Anniversary Goods",
+        "singers": [
+          "IMI",
+          "XIDEN",
+          "ヨノ"
+        ],
+        "variant": "缶バッジ（２個セット） IMI",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "CIXY 2nd Anniversary Goods",
+        "singers": [
+          "IMI",
+          "XIDEN",
+          "ヨノ"
+        ],
+        "variant": "缶バッジ（２個セット） XIDEN",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "CIXY 2nd Anniversary Goods",
+        "singers": [
+          "IMI",
+          "XIDEN",
+          "ヨノ"
+        ],
+        "variant": "缶バッジ（２個セット） ヨノ",
+        "before": true,
+        "after": false
+      },
+      {
+        "product_title": "CIXY 2nd Anniversary Goods",
+        "singers": [
+          "IMI",
+          "XIDEN",
+          "ヨノ"
+        ],
+        "variant": "ランダムチェキ風カード（全８種）",
+        "before": true,
+        "after": false
+      }
+    ]
+  },
+  {
     "date": "2026-11-22T16:53:39.074496+09:00",
     "new_products": [],
     "removed_products": [],
