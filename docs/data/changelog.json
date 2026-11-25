@@ -1,5 +1,83 @@
 [
   {
+    "date": "2026-11-25T18:42:17.517307+09:00",
+    "new_products": [
+      {
+        "id": 15518709580002,
+        "title": "LEWNE Birthday 3D LIVE 2026 Goods",
+        "handle": "lewne-birthday-3d-live-2026-goods",
+        "singers": [
+          "LEWNE"
+        ],
+        "tags": [
+          "LEWNE",
+          "NEW",
+          "RK Music",
+          "受注生産商品"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/LEWNE_BD2026_EC_1119_2ol-02.png?v=1795089251",
+        "url": "https://shop.reality-studios.inc/products/lewne-birthday-3d-live-2026-goods",
+        "published_at": "2026-11-24T21:00:04+09:00",
+        "updated_at": "2026-11-25T18:42:17+09:00",
+        "variants": [
+          {
+            "title": "コンプリートセット",
+            "price": 13800,
+            "available": true
+          },
+          {
+            "title": "フェイスタオル",
+            "price": 3300,
+            "available": true
+          },
+          {
+            "title": "ドパ豪遊飯あみだくじ湯のみ",
+            "price": 3000,
+            "available": true
+          },
+          {
+            "title": "アクリルパネル",
+            "price": 3200,
+            "available": true
+          },
+          {
+            "title": "ヘアゴム 2個セット",
+            "price": 2400,
+            "available": true
+          },
+          {
+            "title": "ステッカー 2枚セット",
+            "price": 1000,
+            "available": true
+          },
+          {
+            "title": "アンブレラマーカー",
+            "price": 900,
+            "available": true
+          },
+          {
+            "title": "ランダムチェキ風カード",
+            "price": 500,
+            "available": true
+          }
+        ]
+      }
+    ],
+    "removed_products": [],
+    "availability_changes": [
+      {
+        "product_title": "HACHI MEETS YOU ‼",
+        "singers": [
+          "HACHI",
+          "LIVE UNION"
+        ],
+        "variant": "アクリルキーホルダー2種セット",
+        "before": true,
+        "after": false
+      }
+    ]
+  },
+  {
     "date": "2026-11-24T19:46:20.602795+09:00",
     "new_products": [],
     "removed_products": [],
