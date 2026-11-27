@@ -1,5 +1,113 @@
 [
   {
+    "date": "2026-11-27T18:33:01.831822+09:00",
+    "new_products": [
+      {
+        "id": 15540578517218,
+        "title": "NUROJUNK 1st ONE-MAN LIVE \"GROUND ZERO\"　【受注生産】",
+        "handle": "nurojunk-1st-one-man-live-ground-zero-1",
+        "singers": [
+          "NUROJUNK",
+          "カグラ",
+          "サクヤ"
+        ],
+        "tags": [
+          "NUROJUNK",
+          "RK Music",
+          "カグラ",
+          "サクヤ",
+          "受注生産商品"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/NJ_GROUNDZERO_EC_1124_4ol_02_5b5421d8-62f5-4665-ae0a-6baf8878b5d5.png?v=1795659453",
+        "url": "https://shop.reality-studios.inc/products/nurojunk-1st-one-man-live-ground-zero-1",
+        "published_at": "2026-11-27T18:00:03+09:00",
+        "updated_at": "2026-11-27T18:33:01+09:00",
+        "variants": [
+          {
+            "title": "アクリルスタンド　【カグラ】",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "アクリルスタンド　【サクヤ】",
+            "price": 2200,
+            "available": true
+          },
+          {
+            "title": "IDカード　【カグラ】",
+            "price": 1000,
+            "available": true
+          },
+          {
+            "title": "IDカード　【サクヤ】",
+            "price": 1000,
+            "available": true
+          },
+          {
+            "title": "ランダム場面写ブロマイド",
+            "price": 500,
+            "available": true
+          }
+        ]
+      },
+      {
+        "id": 15531995562210,
+        "title": "NUROJUNK 1st ONE-MAN LIVE \"GROUND ZERO\"　【在庫販売】",
+        "handle": "nurojunk-1st-one-man-live-ground-zero",
+        "singers": [
+          "NUROJUNK",
+          "カグラ",
+          "サクヤ"
+        ],
+        "tags": [
+          "NEW",
+          "NUROJUNK",
+          "RK Music",
+          "カグラ",
+          "サクヤ"
+        ],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0747/7778/8642/files/NJ_GROUNDZERO_EC_1124_4ol_02.png?v=1795659004",
+        "url": "https://shop.reality-studios.inc/products/nurojunk-1st-one-man-live-ground-zero",
+        "published_at": "2026-11-27T18:00:04+09:00",
+        "updated_at": "2026-11-27T18:33:01+09:00",
+        "variants": [
+          {
+            "title": "ビッグシルエットTシャツ　Lサイズ",
+            "price": 7500,
+            "available": true
+          },
+          {
+            "title": "ビッグシルエットTシャツ　XLサイズ",
+            "price": 7500,
+            "available": true
+          },
+          {
+            "title": "サコッシュ",
+            "price": 3800,
+            "available": true
+          },
+          {
+            "title": "フェイスタオル",
+            "price": 3300,
+            "available": true
+          },
+          {
+            "title": "バングルライト",
+            "price": 2500,
+            "available": true
+          },
+          {
+            "title": "ロゴアクリルキーホルダー",
+            "price": 800,
+            "available": true
+          }
+        ]
+      }
+    ],
+    "removed_products": [],
+    "availability_changes": []
+  },
+  {
     "date": "2026-11-25T18:42:17.517307+09:00",
     "new_products": [
       {
